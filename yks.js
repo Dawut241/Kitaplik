@@ -125,6 +125,7 @@
       else y++;
     });
     var net = (d - (y * 0.25)).toFixed(2);
+    try{window.yksPlus&&window.yksPlus.kaydet(test,cevaplar);}catch(e){}
     try {
       var gecmis = JSON.parse(localStorage.getItem("yks_gecmis") || "[]");
       gecmis.unshift({ders: test.baslik.split("–")[0].trim(), net: parseFloat(net), dogru: d, yanlis: y, toplam: test.sorular.length, tarih: new Date().toLocaleDateString("tr-TR")});
