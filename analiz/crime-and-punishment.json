@@ -1,0 +1,28 @@
+{
+ "ozet": "Petersburg'da yoksulluk içinde yaşayan eski öğrenci Raskolnikov, kafasında kurduğu bir kuramı sınamak için bir suç işler. Roman suçun kendisinden çok onu izleyen iç hesaplaşmayı anlatır: kuram, vicdan ve insan ilişkileri çarpışır.",
+ "temalar": [
+  {"ad": "Vicdan ve ceza", "not": "Asıl ceza kanundan değil, vicdandan gelir. Raskolnikov'un zihni, polis soruşturmasından daha sert bir yargıçtır."},
+  {"ad": "Kuram ve gerçek hayat", "not": "'Sıradan' ve 'olağanüstü' insan kuramı, soyut bir fikrin gerçek insanlarla karşılaşınca nasıl sınandığını gösterir."},
+  {"ad": "Yoksulluk", "not": "Dar odalar, borçlar ve çaresizlik her bölümün arka planındadır; Marmeladov ailesi bunun en çıplak örneğidir."},
+  {"ad": "Kefaret ve diriliş", "not": "Roman, acı çekme ve bir başkasının sevgisi yoluyla yeniden doğuşun mümkün olup olmadığını sorar; Sonia bu temanın merkezindedir."},
+  {"ad": "Aynalar", "not": "Razumihin, Luzhin ve Svidrigailov gibi karakterler Raskolnikov'un farklı yönlerini yansıtan aynalar gibi okunabilir."}
+ ],
+ "sahneler": [
+  {"yer": "Part I, Chapter II", "not": "Marmeladov meyhanede Raskolnikov'a ailesini ve yoksulluğunu anlatır. Yoksulluk ve merhamet temalarının ilk büyük sahnesi.", "git": ["PART I", "CHAPTER II"]},
+  {"yer": "Part I, Chapter V", "not": "Raskolnikov'un rüyası: çocukken gördüğü, bir atın dövülerek öldürülmesi. Şiddet karşısındaki iç direnci burada görünür. Aynı bölümde Lizaveta'nın ertesi gün evde olmayacağını da duyar.", "git": ["PART I", "CHAPTER V"]},
+  {"yer": "Part I, Chapter VII", "not": "Cinayet sahnesi; planın bozulduğu an.", "git": ["PART I", "CHAPTER VII"]},
+  {"yer": "Part III, Chapter V", "not": "Porfiry'yle makale tartışması: 'sıradan' ve 'olağanüstü' insan kuramı.", "git": ["PART III", "CHAPTER V"]},
+  {"yer": "Part IV, Chapter IV", "not": "Sonia, Raskolnikov'un isteğiyle ona Lazarus'un dirilişini okur.", "git": ["PART IV", "CHAPTER IV"]},
+  {"yer": "Part V, Chapter IV", "not": "Raskolnikov Sonia'ya itiraf eder; Sonia'nın tepkisi kefaret temasını belirler.", "git": ["PART V", "CHAPTER IV"]},
+  {"yer": "Part VI, Chapter VIII", "not": "Karakolda itiraf; kaynaklar bunu romanın doruk noktası sayar.", "git": ["PART VI", "CHAPTER VIII"]}
+ ],
+ "sorular": [
+  "Raskolnikov'un kuramı kendi içinde tutarlı mı? Kuram nerede çöker?",
+  "Sonia neden Raskolnikov'u yargılamaz? Bu, romanın anlamı için neden önemli?",
+  "Asıl ceza hangisi: mahkeme mi, vicdan mı?",
+  "Svidrigailov ile Raskolnikov arasında hangi benzerlikler ve farklar var?",
+  "Yoksulluk, Raskolnikov'un suçunu mazur gösterir mi? Roman bu soruya nasıl cevap verir?",
+  "Epilog sana inandırıcı geldi mi?"
+ ],
+ "ipucu": "Bu analiz bir okuma önerisidir, tek doğru yorum değildir. İsimler karışırsa 'Kim kimdir?' rehberine bak, bölüm notları için 'Açıklamalı notlar' kutusunu aç."
+}

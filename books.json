@@ -1,0 +1,679 @@
+[
+  {
+    "baslik": "Crime and Punishment",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/crime-and-punishment.txt",
+    "notlar": "notlar/crime-and-punishment.json",
+    "bolumler": {
+      "part": "^(PART [IVX]+|EPILOGUE)$",
+      "chapter": "^CHAPTER [IVX]+$"
+    },
+    "analiz": "analiz/crime-and-punishment.json"
+  },
+  {
+    "baslik": "The Brothers Karamazov",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/brothers-karamazov.txt",
+    "bolumler": {
+      "part": "^(PART [IVX]+|EPILOGUE)$"
+    },
+    "rehber": "rehber/brothers-karamazov.json"
+  },
+  {
+    "baslik": "War and Peace",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/war-and-peace.txt",
+    "bolumler": {
+      "part": "^(BOOK [A-Z]+:.*|FIRST EPILOGUE.*|SECOND EPILOGUE.*)$",
+      "chapter": "^CHAPTER [IVXLC]+$"
+    }
+  },
+  {
+    "baslik": "Anna Karenina",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/anna-karenina.txt",
+    "bolumler": {
+      "part": "^PART (ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT)$"
+    },
+    "analiz": "analiz/anna-karenina.json"
+  },
+  {
+    "baslik": "The Idiot",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-idiot.txt",
+    "bolumler": {
+      "part": "^PART [IVX]+$"
+    }
+  },
+  {
+    "baslik": "Notes from Underground",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/notes-from-underground.txt",
+    "bolumler": {
+      "part": "^PART [IVX]+$"
+    }
+  },
+  {
+    "baslik": "Resurrection",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/resurrection.txt"
+  },
+  {
+    "baslik": "The Possessed",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-possessed.txt"
+  },
+  {
+    "baslik": "The Gambler",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-gambler.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "Poor Folk",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/poor-folk.txt"
+  },
+  {
+    "baslik": "The House of the Dead",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/house-of-the-dead.txt"
+  },
+  {
+    "baslik": "White Nights and Other Stories",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/white-nights.txt"
+  },
+  {
+    "baslik": "Uncle's Dream and The Permanent Husband",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/uncles-dream.txt"
+  },
+  {
+    "baslik": "The Grand Inquisitor",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/grand-inquisitor.txt"
+  },
+  {
+    "baslik": "Childhood",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/childhood.txt"
+  },
+  {
+    "baslik": "Boyhood",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/boyhood.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "Youth",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/youth.txt"
+  },
+  {
+    "baslik": "The Cossacks",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-cossacks.txt"
+  },
+  {
+    "baslik": "The Kreutzer Sonata and Other Stories",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/kreutzer-sonata.txt"
+  },
+  {
+    "baslik": "Master and Man",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/master-and-man.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "What Men Live By, and Other Tales",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/what-men-live-by.txt"
+  },
+  {
+    "baslik": "Sevastopol",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/sevastopol.txt"
+  },
+  {
+    "baslik": "A Letter to a Hindu",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/letter-to-a-hindu.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "The Double",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-double.txt"
+  },
+  {
+    "baslik": "The Adolescent",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-adolescent.txt"
+  },
+  {
+    "baslik": "The Eternal Husband",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-eternal-husband.txt"
+  },
+  {
+    "baslik": "The House of the Dead",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-house-of-the-dead.txt"
+  },
+  {
+    "baslik": "The Kreutzer Sonata",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-kreutzer-sonata.txt"
+  },
+  {
+    "baslik": "The Death of Ivan Ilyich",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-death-of-ivan-ilyich.txt"
+  },
+  {
+    "baslik": "Hadji Murad",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/hadji-murad.txt"
+  },
+  {
+    "baslik": "The Crocodile",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-crocodile.txt"
+  },
+  {
+    "baslik": "Bobok",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/bobok.txt"
+  },
+  {
+    "baslik": "The Grand Inquisitor",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-grand-inquisitor.txt"
+  },
+  {
+    "baslik": "The Awakening",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-awakening.txt"
+  },
+  {
+    "baslik": "The Kingdom of God Is Within You",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-kingdom-of-god-is-within-you.txt"
+  },
+  {
+    "baslik": "What Is Art?",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/what-is-art.txt"
+  },
+  {
+    "baslik": "The Forged Coupon",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-forged-coupon.txt"
+  },
+  {
+    "baslik": "Father Sergius",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/father-sergius.txt"
+  },
+  {
+    "baslik": "Family Happiness",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/family-happiness.txt"
+  },
+  {
+    "baslik": "Netochka Nezvanova",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/netochka-nezvanova.txt"
+  },
+  {
+    "baslik": "The Insulted and Humiliated",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-insulted-and-humiliated.txt"
+  },
+  {
+    "baslik": "The Village of Stepanchikovo",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-village-of-stepanchikovo.txt"
+  },
+  {
+    "baslik": "A Raw Youth",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/a-raw-youth.txt"
+  },
+  {
+    "baslik": "A Faint Heart",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/a-faint-heart.txt"
+  },
+  {
+    "baslik": "The Landlady",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/the-landlady.txt"
+  },
+  {
+    "baslik": "The Grishka Trilogy",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-grishka-trilogy.txt"
+  },
+  {
+    "baslik": "The Decembrists",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-decembrists.txt"
+  },
+  {
+    "baslik": "A Prisoner in the Caucasus",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/a-prisoner-in-the-caucasus.txt"
+  },
+  {
+    "baslik": "Albert",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/albert.txt"
+  },
+  {
+    "baslik": "Two Hussars",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/two-hussars.txt"
+  },
+  {
+    "baslik": "The Sea-Gull",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-sea-gull.txt"
+  },
+  {
+    "baslik": "The Lady with the Dog and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-lady-with-the-dog-and-other-stories.txt"
+  },
+  {
+    "baslik": "Uncle Vanya",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/uncle-vanya.txt"
+  },
+  {
+    "baslik": "The Schoolmistress, and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-schoolmistress-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Wife, and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-wife-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Bet, and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-bet-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Cook's Wedding and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-cook-s-wedding-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Duel and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-duel-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Witch, and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-witch-and-other-stories.txt"
+  },
+  {
+    "baslik": "Love, and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/love-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Darling and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-darling-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Bishop and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-bishop-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Schoolmaster and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-schoolmaster-and-other-stories.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "The Chorus Girl and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-chorus-girl-and-other-stories.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "The Party and Other Stories",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-party-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Three Sisters",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-three-sisters.txt"
+  },
+  {
+    "baslik": "Ivanoff: A Play",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/ivanoff-a-play.txt"
+  },
+  {
+    "baslik": "Swan Song",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/swan-song.txt"
+  },
+  {
+    "baslik": "The Slanderer",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-slanderer.txt"
+  },
+  {
+    "baslik": "The Shooting Party",
+    "yazar": "Chekhov",
+    "dosya": "kitaplar/the-shooting-party.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "Dead Souls",
+    "yazar": "Gogol",
+    "dosya": "kitaplar/dead-souls.txt"
+  },
+  {
+    "baslik": "The Mantle, and Other Stories",
+    "yazar": "Gogol",
+    "dosya": "kitaplar/the-mantle-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Inspector-General",
+    "yazar": "Gogol",
+    "dosya": "kitaplar/the-inspector-general.txt"
+  },
+  {
+    "baslik": "Taras Bulba, and Other Tales",
+    "yazar": "Gogol",
+    "dosya": "kitaplar/taras-bulba-and-other-tales.txt"
+  },
+  {
+    "baslik": "Cossack Tales",
+    "yazar": "Gogol",
+    "dosya": "kitaplar/cossack-tales.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "Fathers and Children",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/fathers-and-children.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "A Nobleman's Nest",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/a-nobleman-s-nest.txt"
+  },
+  {
+    "baslik": "The Torrents of Spring",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/the-torrents-of-spring.txt"
+  },
+  {
+    "baslik": "First love, and other stories",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/first-love-and-other-stories.txt"
+  },
+  {
+    "baslik": "A Sportsman's Sketches",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/a-sportsman-s-sketches.txt"
+  },
+  {
+    "baslik": "A Sportsman's Sketches, Volume 2",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/a-sportsman-s-sketches-volume-2.txt"
+  },
+  {
+    "baslik": "Dream Tales and Prose Poems",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/dream-tales-and-prose-poems.txt"
+  },
+  {
+    "baslik": "On the eve: A novel",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/on-the-eve-a-novel.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "Virgin Soil",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/virgin-soil.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "A Lear of the Steppes, etc.",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/a-lear-of-the-steppes-etc.txt"
+  },
+  {
+    "baslik": "The Jew and Other Stories",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/the-jew-and-other-stories.txt"
+  },
+  {
+    "baslik": "Smoke",
+    "yazar": "Turgenev",
+    "dosya": "kitaplar/smoke.txt",
+    "bolumler": {
+      "part": "^[IVXLC]{1,6}\\.?\\s*$"
+    }
+  },
+  {
+    "baslik": "Stavrogin's Confession",
+    "yazar": "Dostoyevski",
+    "dosya": "kitaplar/stavrogin-s-confession.txt"
+  },
+  {
+    "baslik": "The Devil",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-devil.txt",
+    "bolumler": {
+      "part": "^CHAPTER\\s+[IVXLC\\d]+\\b"
+    }
+  },
+  {
+    "baslik": "Where Love Is, God Is Also",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/where-love-is-god-is-also.txt"
+  },
+  {
+    "baslik": "A Russian Proprietor, and Other Stories",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/a-russian-proprietor-and-other-stories.txt"
+  },
+  {
+    "baslik": "The Invaders, and Other Stories",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-invaders-and-other-stories.txt"
+  },
+  {
+    "baslik": "Fables for Children, Stories for Children",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/fables-for-children-stories-for-children.txt"
+  },
+  {
+    "baslik": "The Power of Darkness",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-power-of-darkness.txt"
+  },
+  {
+    "baslik": "The Live Corpse",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/the-live-corpse.txt"
+  },
+  {
+    "baslik": "Fruits of Culture",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/fruits-of-culture.txt"
+  },
+  {
+    "baslik": "Redemption, and Two Other Plays",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/redemption-and-two-other-plays.txt"
+  },
+  {
+    "baslik": "What Shall We Do?",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/what-shall-we-do.txt",
+    "bolumler": {
+      "part": "^CHAPTER\\s+[IVXLC\\d]+\\b"
+    }
+  },
+  {
+    "baslik": "My Religion",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/my-religion.txt",
+    "bolumler": {
+      "part": "^CHAPTER\\s+[IVXLC\\d]+\\b"
+    }
+  },
+  {
+    "baslik": "Bethink Yourselves!",
+    "yazar": "Tolstoy",
+    "dosya": "kitaplar/bethink-yourselves.txt"
+  },
+  {
+    "baslik": "The Koran (Al-Qur'an)",
+    "yazar": "Kutsal metin",
+    "dosya": "kitaplar/the-koran-mushaf.txt",
+    "bolumler": {
+      "part": "^SURA\\d*[\\s-]+[IVXLC]+\\b"
+    }
+  },
+  {
+    "baslik": "The Prince",
+    "yazar": "Machiavelli",
+    "dosya": "kitaplar/the-prince.txt",
+    "bolumler": {
+      "chapter": "^CHAPTER [IVX]+\\."
+    }
+  },
+  {
+    "baslik": "Thus Spake Zarathustra",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/thus-spake-zarathustra.txt",
+    "bolumler": {
+      "part": "^(FIRST|SECOND|THIRD|FOURTH AND LAST) PART"
+    }
+  },
+  {
+    "baslik": "Beyond Good and Evil",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/beyond-good-and-evil.txt",
+    "bolumler": {
+      "chapter": "^CHAPTER [IVX]+\\."
+    }
+  },
+  {
+    "baslik": "The Genealogy of Morals",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/genealogy-of-morals.txt",
+    "bolumler": {
+      "part": "^(FIRST|SECOND|THIRD) ESSAY"
+    }
+  },
+  {
+    "baslik": "The Antichrist",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/the-antichrist.txt"
+  },
+  {
+    "baslik": "Twilight of the Idols",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/twilight-of-the-idols.txt"
+  },
+  {
+    "baslik": "Ecce Homo",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/ecce-homo.txt"
+  },
+  {
+    "baslik": "Human, All Too Human",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/human-all-too-human.txt"
+  },
+  {
+    "baslik": "The Joyful Wisdom",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/the-joyful-wisdom.txt"
+  },
+  {
+    "baslik": "The Dawn of Day",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/the-dawn-of-day.txt"
+  },
+  {
+    "baslik": "The Will to Power",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/the-will-to-power.txt"
+  },
+  {
+    "baslik": "The Birth of Tragedy",
+    "yazar": "Nietzsche",
+    "dosya": "kitaplar/the-birth-of-tragedy.txt"
+  },
+  {
+    "baslik": "The Art of War and The Prince",
+    "yazar": "Machiavelli",
+    "dosya": "kitaplar/machiavelli-art-of-war.txt"
+  },
+  {
+    "baslik": "Discourses on Livy",
+    "yazar": "Machiavelli",
+    "dosya": "kitaplar/discourses-on-livy.txt"
+  },
+  {
+    "baslik": "The Crowd",
+    "yazar": "Le Bon",
+    "dosya": "kitaplar/the-crowd.txt"
+  },
+  {
+    "baslik": "The Art of War (Sun Tzu)",
+    "yazar": "Sun Tzu",
+    "dosya": "kitaplar/sun-tzu-art-of-war.txt"
+  },
+  {
+    "baslik": "Programmirlemä Giriş",
+    "yazar": "Online Kitaplyk",
+    "dosya": "kitaplar/programmirlemage-giris.txt",
+    "bolumler": {
+      "bolum": "^BÖLÜM [IVX]+\\."
+    }
+  }
+]

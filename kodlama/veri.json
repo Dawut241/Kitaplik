@@ -1,0 +1,188 @@
+{
+  "dersler": [
+    {
+      "id": "html1",
+      "baslik": "1. HTML Esaslary: Web Sahypanyň Skeleti",
+      "aciklama": "HTML (HyperText Markup Language) — dünýädäki ähli web saýtlaryň binýadydyr. Her bir sahypa açylýan <teg> we ýapylýan </teg> böleklerden durýar.",
+      "kod": "<h1>Salam Dünýä!</h1>\n<p>Bu meniň ilkinji web sahypam.</p>\n<button>Bas</button>",
+      "ipucu": "Ýumuş: Kody kopyalap Janly Redaktorda <h1> içindäki ýazgyny öz adyň bilen çalyş.",
+      "kat": "HTML"
+    },
+    {
+      "id": "html2",
+      "baslik": "2. HTML Sanawlar we Giriş Gutulary (Input)",
+      "aciklama": "Ulanyjydan at, parol ýa-da san almak üçin <input>, sanaw düzmek üçin bolsa <ul> (nokatly) we <ol> (sanly) tegleri ulanylýar.",
+      "kod": "<h3>Öwrenmeli Diller:</h3>\n<ul>\n  <li>HTML we CSS</li>\n  <li>JavaScript</li>\n  <li>Python</li>\n</ul>\n<input placeholder='Adyňyzy ýazyň...'>",
+      "ipucu": "Ýumuş: <ul> teginiň ýerine <ol> ýazyp, sanawyň sanly görnüşe geçşini synap gör.",
+      "kat": "HTML"
+    },
+    {
+      "id": "html3",
+      "baslik": "3. HTML Baglanyşyklar (Link) we Suratlar",
+      "aciklama": "Bir sahypadan başga sahypa geçmek üçin <a href='...'>, surat goýmak üçin bolsa <img src='...'> ulanylýar.",
+      "kod": "<a href='https://example.com' target='_blank'>Saýta Git</a>",
+      "ipucu": "target='_blank' atributy baglanyşygyň täze goýmada (tab-da) açylmagyny üpjün edýär.",
+      "kat": "HTML"
+    },
+    {
+      "id": "css1",
+      "baslik": "4. CSS Esaslary: Reňkler we Şriftler",
+      "aciklama": "CSS — HTML elementlerine reňk (color), arka fon (background-color), içki boşluk (padding) we tegelek burçlar (border-radius) berip dizaýn döredýär.",
+      "kod": "<style>\n  .duwme { background:#27ae60; color:white; padding:12px 24px; border:none; border-radius:8px; font-size:16px; }\n</style>\n<button class='duwme'>Owadan Düwme</button>",
+      "ipucu": "Ýumuş: #27ae60 reňk koduny #e74c3c (gyzyl) ýa-da #2980b9 (gök) edip üýtgedip gör.",
+      "kat": "CSS"
+    }
+  ],
+  "kilitli": [
+    {
+      "id": "css2",
+      "kat": "CSS",
+      "baslik": "5. CSS Flexbox: Elementleri Ýanaşyk Goýmak",
+      "aciklama": "Döwrebap mobil we kompýuter saýtlarynda kartlary we düwmeleri hatara ýa-da orta ýerleşdirmek üçin display: flex ulanylýar."
+    },
+    {
+      "id": "js1",
+      "kat": "JavaScript",
+      "baslik": "6. JavaScript: Sahypany Janlandyrmak",
+      "aciklama": "JavaScript — web sahypa aň we hereket berýän programmirleme dilidir. Düwmä basylanda teksti üýtgetmek we hasaplamak üçin ulanylýar."
+    },
+    {
+      "id": "js2",
+      "kat": "JavaScript",
+      "baslik": "7. JavaScript Funksiyalar we Üýtgeýjiler",
+      "aciklama": "Maglumatlary ýatda saklamak üçin let ýa-da const, gaýtalanýan işleri ýerine ýetirmek üçin bolsa function ulanylýar."
+    },
+    {
+      "id": "py1",
+      "kat": "Python",
+      "baslik": "8. Python Esaslary: Üýtgeýjiler we Şertler",
+      "aciklama": "Python — emeli aň (AI), awtomatlaşdyrma we serwer programmirlemesinde dünýäde iň meşhur dildir."
+    },
+    {
+      "id": "py2",
+      "kat": "Python",
+      "baslik": "9. Python Sikller (For Loop) we Sanawlar",
+      "aciklama": "Sanawdaky (list) ýüzlerçe maglumaty birnäçe setir kod bilen işlemek üçin for sikli ulanylýar."
+    },
+    {
+      "id": "pro1",
+      "kat": "PRO Proýektler",
+      "baslik": "⭐ PRO Proýekt 1: Şahsy Vizitka Sahypasy",
+      "aciklama": "Öz adyňy, hünäriňi we habarlaşmak düwmesini görkezýän döwrebap şahsy web sahypa kody."
+    },
+    {
+      "id": "pro2",
+      "kat": "PRO Proýektler",
+      "baslik": "⭐ PRO Proýekt 2: Işleýän Mini Kalkulýator",
+      "aciklama": "HTML, CSS we JavaScript bilelikde ulanylyp ýasalan hakyky san goşujy kalkulýator."
+    },
+    {
+      "id": "pro3",
+      "kat": "PRO Proýektler",
+      "baslik": "⭐ PRO Proýekt 3: San Tapma Mini Oýny",
+      "aciklama": "Kompýuteriň 1 bilen 10 arasynda tutan syrly sanyny tapmaga synanyşýan interaktiw oýun."
+    },
+    {
+      "id": "termux1",
+      "kat": "Termux & Git",
+      "baslik": "10. Telefon bilen Programmirleme: Termux Esaslary",
+      "aciklama": "Kompýuter bolmasa-da Android telefondaky Termux terminaly arkaly Linux buýruklaryny we Python kodlaryny işledip bolýar."
+    },
+    {
+      "id": "git1",
+      "kat": "Termux & Git",
+      "baslik": "11. Git we GitHub: Kody Goramak we Ýaýyna Bermek",
+      "aciklama": "Git — kodlaryňyzyň her wersiýasyny ýatda saklaýar, GitHub Pages bolsa ýasan web saýtyňyzy dünýä mugt ýaýyna bermäge mümkinçilik berýär."
+    },
+    {
+      "id": "seo1",
+      "kat": "Termux & Git",
+      "baslik": "12. Mobil Uýgunlaşma (Responsive) we Meta Tegler",
+      "aciklama": "Saýtyň hem telefonda, hem kompýuterde owadan görünmegi üçin <meta name=\"viewport\"> tegi hökman goşulmalydyr."
+    },
+    {
+      "id": "css3",
+      "kat": "CSS",
+      "baslik": "13. CSS Grid: Kämil Tor Dizaýny",
+      "aciklama": "Sahypany sütünlere (columns) we setirlere (rows) bölmek üçin display: grid ulanylýar. Katalog we galereýa saýtlary üçin iň güýçli usuldyr."
+    },
+    {
+      "id": "css4",
+      "kat": "CSS",
+      "baslik": "14. CSS Geçişler we Animasiýa (Hover & Transition)",
+      "aciklama": "Düwmäniň üstüne barlanda ýa-da basylanda reňkiniň ýumşak üýtgemegi we ulalmagy saýta professional görnüş berýär."
+    },
+    {
+      "id": "js3",
+      "kat": "JavaScript",
+      "baslik": "15. JavaScript LocalStorage: Brauzerde Maglumat Saklamak",
+      "aciklama": "Sahypa täzelense-de ýazylan bellikleriň ýitmezligi üçin maglumatlary ulanyjynyň brauzerinde (localStorage) saklap bolýar."
+    },
+    {
+      "id": "js4",
+      "kat": "JavaScript",
+      "baslik": "16. JavaScript Massiwler (Array) we Sanaw İşlemek",
+      "aciklama": "Köpsanly maglumatlary bir üýtgeýjide saklamak üçin massiw [] ulanylýar we forEach bilen her biri işlenýär."
+    },
+    {
+      "id": "py3",
+      "kat": "Python",
+      "baslik": "17. Python Funksiyalar (def): Öz Buýrugyňy Döret",
+      "aciklama": "Kody gaýta-gaýta ýazmazlyk üçin def açar sözi bilen öz funksiýaňyzy döredip, islendik ýerde çagyryp bilersiňiz."
+    },
+    {
+      "id": "py4",
+      "kat": "Python",
+      "baslik": "18. Python Sözlükler (Dictionary): Açar-Baha Ulgamy",
+      "aciklama": "JSON maglumatlarynyň esasy bolan sözlükler {} maglumatlary ady (açar) we bahasy bilen saklaýar."
+    },
+    {
+      "id": "html4",
+      "kat": "HTML",
+      "baslik": "19. HTML Formalar we Tablisalar (Form, Table)",
+      "aciklama": "Maglumatlary tertipli tablisa görnüşinde görkezmek üçin <table>, <tr> (setir) we <td> (öýjük); ulanyjydan saýlaw almak üçin bolsa <select> ulanylýar."
+    },
+    {
+      "id": "css5",
+      "kat": "CSS",
+      "baslik": "20. CSS Media Queries: Telefon we Kompýuter Uýgunlaşmasy",
+      "aciklama": "Ekranyň giňligine görä dizaýny awtomatiki üýtgetmek üçin @media (max-width: 600px) ulanylýar. Bu saýtyň ähli telefonlarda kämil görünmegini üpjün edýär."
+    },
+    {
+      "id": "js5",
+      "kat": "JavaScript",
+      "baslik": "21. JavaScript Fetch API: Internetden Maglumat Almak",
+      "aciklama": "Sahypany täzelemezden başga faýllardan ýa-da serwerlerden JSON maglumatlaryny almak üçin fetch() funksiýasy ulanylýar."
+    },
+    {
+      "id": "js6",
+      "kat": "JavaScript",
+      "baslik": "22. JavaScript Wagt, Sene we Janly Sagat (Date & setInterval)",
+      "aciklama": "Saýta janly sagat, geri sanaýjy taýmer ýa-da häzirki senäni goşmak üçin Date() we setInterval() ulanylýar."
+    },
+    {
+      "id": "py5",
+      "kat": "Python",
+      "baslik": "23. Python Faýl İşleri: Faýl Döretmek we Okamak",
+      "aciklama": "Python bilen kompýuterde ýa-da Termux-da täze tekst/JSON faýllaryny döredip, içine maglumat ýazyp we okap bolýar."
+    },
+    {
+      "id": "sec1",
+      "kat": "Howpsuzlyk",
+      "baslik": "24. Web Howpsuzlygy: XSS Goragy we Parol Şifrleme",
+      "aciklama": "Ulanyjynyň ýazan ýazgysyny göni innerHTML içine goýmak howpludyr (XSS hüjümi). Elmydama textContent ulanmaly we parollary SHA-256 bilen şifrlemeli."
+    },
+    {
+      "id": "guvenlik2",
+      "kat": "Howpsuzlyk",
+      "baslik": "Web Howpsuzlygy 2: Öz Sahypaňy Barlamak",
+      "aciklama": "1) XSS nämedir: Biri sahypa ulanyjy girdisini (teswir, at) göni HTML hökmünde görkezse, ol ýerde kod işledip bolýar. Barlag: \"textContent\" bilen \"innerHTML\" tapawudyny synap gör (öňki sapakdaky mysal). 2) SQL Injection: Sahypa maglumat bazasyna sorag ýazanda ulanyjy girdisini gönümel goşsa ('SELECT * WHERE at=' + girdi ýaly), girdä ýörite belgiler ýazyp sorag üýtgedilip bilner. Çözgüt: \"parametrleşdirilen sorag\" (parameterized query) ulan, hiç haçan setirleri gönümel birikdirme. 3) Parol saklamak: SHA-256 ýekeje gezek ulanylsa çalt synag ediler (GPU bilen milliardlarça synag/sekunt). PBKDF2, bcrypt ýa-da Argon2 ýaly \"haýal\" hash ulan, tuz (salt) goş. 4) HTTPS: Ulanyjy bilen server arasyndaky maglumat şifrlenmedik bolsa (http), aralykdaky biri (Wi-Fi eýesi, operator) ähli zady okap biler - \"Man-in-the-Middle\" diýilýär. Hemişe https ulan, parolyňy açyk wifi-de http sahypasyna ýazma. 5) Üçünji tarap skriptler: Reklam ýa-da analitika kody saýtyňda işleýär welin, onuň näme edýänini doly bilmeýäň. Gizlin maglumaty (parol, token) şol skriptleriň görüp biljek ýerine goýma."
+    },
+    {
+      "id": "kariyer_guvenlik",
+      "kat": "Howpsuzlyk",
+      "baslik": "Howpsuzlyk Käri: Nireden Başlamaly",
+      "aciklama": "Howpsuzlyk öwrenmek üçin: 1) Esas: ulgam, web, Linux bilimi (Termux bilen eýýäm başlapsyň). 2) Kanuny türgenleşik ýerleri: TryHackMe, Hack The Box, OWASP Juice Shop - bular ýörite açyk goýlan saýtlar, erkin synap bolýar. 3) Pul gazanmak: Bug Bounty (HackerOne, Bugcrowd - kompaniýalar açyk tapana sylag berýär), Pentest (şertnama bilen synag), howpsuzlyk işi. 4) ESASY DÜZGÜN: Rugsatsyz hiç bir saýta synag etme, bu kanuna garşy, niýetiň gowy bolsa-da. Diňe ÖZ saýtyňda ýa-da rugsat berlen türgenleşik ýerlerinde synap bilersiň."
+    }
+  ]
+}

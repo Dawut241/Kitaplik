@@ -1,0 +1,96 @@
+{
+ "oyunlar": [
+  {
+   "id": "mantik", "baslik": "Zihin oyunları (mantık bulmacaları)", "tur": "dogru",
+   "aciklama": "12 mantık bulmacası: sayı dizileri, benzetmeler, mantık sorular. Bu bir IQ puanı vermez; eğlence ve beyin jimnastiği içindir. Gerçek IQ testleri uzmanlarca uygulanır ve standartlaştırılmıştır.",
+   "sorular": [
+    {"s": "2, 6, 12, 20, 30, ? Sıradaki sayı nedir?", "d": "42", "y": ["40", "44", "36"], "ac": "Aradaki farklar 4, 6, 8, 10 diye artıyor; sıradaki fark 12, yani 30 + 12 = 42."},
+    {"s": "3, 6, 12, 24, ? Sıradaki sayı nedir?", "d": "48", "y": ["36", "30", "42"], "ac": "Her sayı bir öncekinin iki katı."},
+    {"s": "Göz : Görmek = Kulak : ?", "d": "Duymak", "y": ["Koklamak", "Konuşmak", "Dokunmak"], "ac": "Gözün görevi görmek, kulağın görevi duymak."},
+    {"s": "Hangisi diğerlerinden farklıdır? Elma, Armut, Havuç, Üzüm", "d": "Havuç", "y": ["Elma", "Armut", "Üzüm"], "ac": "Üçü meyve, havuç sebze."},
+    {"s": "Bütün kuşlar yumurtlar. Penguen bir kuştur. Bu durumda kesin olarak hangisi doğrudur?", "d": "Penguen yumurtlar", "y": ["Penguen uçar", "Bütün yumurtlayanlar kuştur", "Penguen sadece Antarktika'da yaşar"], "ac": "Verilen iki bilgiden yalnızca penguenin yumurtladığı kesin olarak çıkar."},
+    {"s": "Ali, Ayşe'den 4 yaş büyük. İkisinin yaşları toplamı 28. Ali kaç yaşında?", "d": "16", "y": ["14", "18", "12"], "ac": "Ali 16, Ayşe 12: aradaki fark 4, toplam 28."},
+    {"s": "5 makine 5 dakikada 5 parça üretiyor. 100 makine 100 parçayı kaç dakikada üretir?", "d": "5 dakika", "y": ["100 dakika", "20 dakika", "1 dakika"], "ac": "Her makine 5 dakikada 1 parça üretir. 100 makine aynı sürede 100 parça üretir."},
+    {"s": "A, C, E, G, ? Sıradaki harf nedir?", "d": "I", "y": ["H", "J", "K"], "ac": "Her seferinde bir harf atlanıyor: A, (B), C, (D), E, (F), G, (H), I."},
+    {"s": "Ayşe, Burcu'dan uzun. Burcu, Cem'den uzun. En kısa kimdir?", "d": "Cem", "y": ["Ayşe", "Burcu", "Belli değil"], "ac": "Uzunluk sırası: Ayşe > Burcu > Cem."},
+    {"s": "1, 1, 2, 3, 5, 8, ? Sıradaki sayı nedir?", "d": "13", "y": ["11", "12", "15"], "ac": "Her sayı, kendinden önceki iki sayının toplamı: 5 + 8 = 13."},
+    {"s": "Saat 3:15'i gösterirken akrep ile yelkovan arasındaki açı yaklaşık kaç derecedir?", "d": "7,5 derece", "y": ["0 derece", "15 derece", "30 derece"], "ac": "Yelkovan 3'te, yani 90 derecede. Akrep 3 ile 4 arasında çeyrek yol gitmiş: 97,5 derece. Fark 7,5 derece."},
+    {"s": "Hangi sayı diğerlerinden farklıdır? 16, 25, 36, 48, 49", "d": "48", "y": ["16", "25", "49"], "ac": "Diğerleri tam kare: 4x4, 5x5, 6x6, 7x7. 48 değil."}
+   ],
+   "sonuclar": [
+    {"min": 0, "baslik": "Isınma turu", "metin": "Bulmacalar bazen zor; acele etmeden tekrar dene. Cevapların altındaki açıklamalar yeni numaralar öğretir."},
+    {"min": 4, "baslik": "Sağlam başlangıç", "metin": "Temel mantık kalıpları sende var. Biraz pratikle skorun hızla yükselir."},
+    {"min": 7, "baslik": "Keskin zihin", "metin": "Örüntüleri ve mantık bağlarını iyi yakalıyorsun.", "oku": {"ad": "Karamazov Kardeşler (Ivan'ın analitik zihni)", "dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}},
+    {"min": 10, "baslik": "Bulmaca ustası", "metin": "Zor sorularda da sakin ve düzenli düşünüyorsun.", "ipucu": "Şimdi 'Hangi karakter sensin?' testinde analitik karakterlerden biri çıkabilir.", "oku": {"ad": "Karamazov Kardeşler (Ivan'ın analitik zihni)", "dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}}
+   ]
+  },
+  {
+   "id": "eq", "baslik": "EQ: Duygusal farkındalık", "tur": "puan",
+   "aciklama": "6 kısa durum. Doğru ya da yanlış cevap yok; sana en yakın olanı seç. Eğlence amaçlı bir kendini tanıma oyunudur.",
+   "sorular": [
+    {"s": "Bir arkadaşın sana sebepsiz sert konuştu. İlk tepkin ne olur?", "sec": [{"t": "Hemen aynı sertlikle karşılık veririm", "p": 0}, {"t": "Susar, ama içimde kalır", "p": 1}, {"t": "Sakinleşip neden öyle konuştuğunu sorarım", "p": 2}]},
+    {"s": "Çok sinirlendiğinde ne yaparsın?", "sec": [{"t": "Bağırır ya da bir şeyleri kırarım", "p": 0}, {"t": "Hiçbir şey olmamış gibi davranırım", "p": 1}, {"t": "Bir süre uzaklaşır, sakinleşince konuşurum", "p": 2}]},
+    {"s": "Bir arkadaşın üzgün görünüyor ama bir şey söylemiyor.", "sec": [{"t": "Pek fark etmem", "p": 0}, {"t": "Fark ederim ama karışmam", "p": 1}, {"t": "İyi olup olmadığını sorar, dinlemeye hazır olduğumu söylerim", "p": 2}]},
+    {"s": "Sınavın kötü geçti.", "sec": [{"t": "Kendime çok kızarım ve kendimi suçlarım", "p": 0}, {"t": "Umursamıyormuş gibi yaparım", "p": 1}, {"t": "Üzülürüm ama neyi geliştirebileceğime bakarım", "p": 2}]},
+    {"s": "Bir hata yaptığını fark ettin.", "sec": [{"t": "Önemsizmiş gibi geçerim", "p": 0}, {"t": "Bir süre bekleyip sonra konuşurum", "p": 1}, {"t": "Özür dileyip düzeltmeye çalışırım", "p": 2}]},
+    {"s": "Duygularını anlatmak sana nasıl gelir?", "sec": [{"t": "Zor, çoğunlukla hiç paylaşmam", "p": 0}, {"t": "Anlık kapılır, çok fazla anlatırım", "p": 1}, {"t": "Güvendiğim birkaç kişiyle paylaşırım", "p": 2}]}
+   ],
+   "sonuclar": [
+    {"min": 0, "baslik": "Yolun başındasın", "metin": "Duygularını fark etmek ve anlatmak bazen zor gelebilir. Bu çok yaygın ve geliştirilebilir bir beceri.", "ipucu": "Günün sonunda 'bugün ne hissettim?' sorusuna tek cümleyle cevap yazmayı dene.", "oku": {"ad": "Suç ve Ceza", "dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+    {"min": 5, "baslik": "Dengeli", "metin": "Duygularını çoğu zaman fark ediyor ve yönetiyorsun. Bazen tepki vermeden önce durmak sana iyi gelebilir.", "ipucu": "Zorlandığında 10 saniye bekleyip yavaşça nefes almayı dene.", "oku": {"ad": "Anna Karenina", "dosya": "kitaplar/anna-karenina.txt", "git": ["PART ONE"]}},
+    {"min": 9, "baslik": "Yüksek farkındalık", "metin": "Hem kendi duygularını hem başkalarınınkini iyi okuyorsun.", "ipucu": "Başkalarına yardım ederken kendi sınırlarını da korumayı unutma.", "oku": {"ad": "Karamazov Kardeşler (Alyosha)", "dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}}
+   ]
+  },
+  {
+   "id": "sq", "baslik": "SQ: Sosyal beceri", "tur": "puan",
+   "aciklama": "6 kısa durum. Doğru ya da yanlış cevap yok; sana en yakın olanı seç. Eğlence amaçlı bir kendini tanıma oyunudur.",
+   "sorular": [
+    {"s": "Yeni bir ortama girdin ve kimseyi tanımıyorsun.", "sec": [{"t": "Bir köşede beklerim", "p": 0}, {"t": "Telefona bakarım", "p": 1}, {"t": "Yakındaki birine selam verip sohbet başlatırım", "p": 2}]},
+    {"s": "Grupta bir arkadaşın dışlanıyor gibi.", "sec": [{"t": "Pek fark etmem", "p": 0}, {"t": "Fark ederim ama karışmam", "p": 1}, {"t": "Ona konuşma fırsatı veririm", "p": 2}]},
+    {"s": "Biri fikrine karşı çıkıyor.", "sec": [{"t": "Tartışıp kazanmaya çalışırım", "p": 0}, {"t": "Haklı olsam bile susarım", "p": 1}, {"t": "Dinler, kendi fikrimi sakince anlatırım", "p": 2}]},
+    {"s": "İki arkadaşın birbirine küstü.", "sec": [{"t": "Bir tarafı tutarım", "p": 0}, {"t": "Karışmam", "p": 1}, {"t": "İkisiyle ayrı ayrı konuşup uzlaşmalarına yardım ederim", "p": 2}]},
+    {"s": "Birine teşekkür etmek ya da takdir etmek...", "sec": [{"t": "Pek yapmam", "p": 0}, {"t": "Zaman zaman yaparım", "p": 1}, {"t": "Sık sık ve içten yaparım", "p": 2}]},
+    {"s": "Konuşurken başkasının sözünü kesmek...", "sec": [{"t": "Sık sık kesiyorum", "p": 0}, {"t": "Bazen oluyor, fark edip geri dönüyorum", "p": 1}, {"t": "Dinlemeye özen gösteriyorum", "p": 2}]}
+   ],
+   "sonuclar": [
+    {"min": 0, "baslik": "Gözlemci", "metin": "Sosyal ortamlarda önce izlemeyi seviyor olabilirsin. Bu bir eksiklik değil, bir tarz; küçük adımlarla genişletebilirsin.", "ipucu": "Bu hafta tanıdığın birine kısa bir mesaj atmayı dene.", "oku": {"ad": "Budala (Prens Myshkin)", "dosya": "kitaplar/the-idiot.txt", "git": ["PART I"]}},
+    {"min": 5, "baslik": "Uyumlu", "metin": "İnsanlarla iyi geçiniyorsun. Zaman zaman inisiyatif almak ilişkilerini daha da güçlendirir.", "ipucu": "Bir sohbette bu sefer ilk soruyu sen sor.", "oku": {"ad": "Anna Karenina", "dosya": "kitaplar/anna-karenina.txt", "git": ["PART ONE"]}},
+    {"min": 9, "baslik": "Bağ kuran", "metin": "İnsanları dinleyen ve bir araya getiren birisin.", "ipucu": "Herkesi memnun etmeye çalışırken kendi isteğini de ifade etmeyi unutma.", "oku": {"ad": "Karamazov Kardeşler (Alyosha)", "dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}}
+   ]
+  },
+  {
+   "id": "aq", "baslik": "AQ: Zorluklara dayanıklılık", "tur": "puan",
+   "aciklama": "6 kısa durum. Doğru ya da yanlış cevap yok; sana en yakın olanı seç. Eğlence amaçlı bir kendini tanıma oyunudur.",
+   "sorular": [
+    {"s": "Planların bozuldu.", "sec": [{"t": "Her şey mahvoldu diye düşünürüm", "p": 0}, {"t": "Hiçbir şey yapmadan beklerim", "p": 1}, {"t": "Üzülürüm ama yeni bir plan yaparım", "p": 2}]},
+    {"s": "Zor bir derste başarısız oldun.", "sec": [{"t": "'Bu işte yeteneğim yok' derim", "p": 0}, {"t": "Birkaç gün küser, sonra tekrar bakarım", "p": 1}, {"t": "Neyi yanlış yaptığımı bulup yeniden denerim", "p": 2}]},
+    {"s": "Büyük bir iş seni korkutuyor.", "sec": [{"t": "Hiç başlamam", "p": 0}, {"t": "Son ana bırakırım", "p": 1}, {"t": "Küçük adımlara bölerim", "p": 2}]},
+    {"s": "Eleştiri aldığında...", "sec": [{"t": "Kırılır ve savunmaya geçerim", "p": 0}, {"t": "Dinler ama içime atarım", "p": 1}, {"t": "Haklı olan kısmı ayıklayıp kullanırım", "p": 2}]},
+    {"s": "Yorgun ve motivasyonsuzken...", "sec": [{"t": "Bırakırım", "p": 0}, {"t": "Zorlanarak devam ederim", "p": 1}, {"t": "Kısa bir mola verip devam ederim", "p": 2}]},
+    {"s": "Biri senden daha iyi bir işi başardı.", "sec": [{"t": "Kıskanır ve vazgeçerim", "p": 0}, {"t": "'Fark etmez' derim", "p": 1}, {"t": "Ondan neler öğrenebileceğime bakarım", "p": 2}]}
+   ],
+   "sonuclar": [
+    {"min": 0, "baslik": "Destek zamanı", "metin": "Zorluklar seni çabuk yoruyor olabilir. Zorlandığında bir yetişkinden ya da arkadaşından destek istemek güçlü bir davranıştır.", "ipucu": "Büyük işleri üç küçük adıma bölüp yalnızca ilkini yapmayı dene.", "oku": {"ad": "Suç ve Ceza", "dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+    {"min": 5, "baslik": "Esnek", "metin": "Zorluklarla genelde başa çıkıyorsun, bazen yorulsan da toparlanıyorsun.", "ipucu": "Başarısızlıktan sonra 'Ne öğrendim?' sorusunu yazmayı dene.", "oku": {"ad": "Anna Karenina (Levin)", "dosya": "kitaplar/anna-karenina.txt", "git": ["PART ONE"]}},
+    {"min": 9, "baslik": "Dirençli", "metin": "Zor anlarda çözüm aramaya, küçük adımlara ve öğrenmeye odaklanıyorsun.", "ipucu": "Dinlenmeyi de planına ekle; dirençli olmak yorulmamak demek değil.", "oku": {"ad": "Diriliş", "dosya": "kitaplar/resurrection.txt"}}
+   ]
+  },
+  {
+   "id": "mq", "baslik": "MQ: Ahlaki pusula", "tur": "puan",
+   "aciklama": "6 kısa durum. Doğru ya da yanlış cevap yok; sana en yakın olanı seç. Dostoyevski ve Tolstoy'un asıl konusu olan vicdan üzerine eğlenceli bir düşünme oyunudur.",
+   "sorular": [
+    {"s": "Markette sana fazla para üstü verildi.", "sec": [{"t": "Yoluma devam ederim", "p": 0}, {"t": "Emin olamam, düşünürüm", "p": 1}, {"t": "Fark edince geri veririm", "p": 2}]},
+    {"s": "Bir arkadaşın sınavda kopya çekiyor.", "sec": [{"t": "Ben de bakarım", "p": 0}, {"t": "Hiç karışmam", "p": 1}, {"t": "Ona kopya çekmemesini söylerim", "p": 2}]},
+    {"s": "Biri hakkında dedikodu yapılıyor.", "sec": [{"t": "Ben de katılırım", "p": 0}, {"t": "Dinler, susarım", "p": 1}, {"t": "Konuyu değiştirir veya katılmam", "p": 2}]},
+    {"s": "Verdiğin sözü tutmak zorlaştı.", "sec": [{"t": "Unutmuş gibi yaparım", "p": 0}, {"t": "Yarım yamalak yaparım", "p": 1}, {"t": "Açıkça söyler, bir alternatif öneririm", "p": 2}]},
+    {"s": "Kimse görmüyorken doğru olanı yapmak...", "sec": [{"t": "Gerek görmem", "p": 0}, {"t": "Çoğunlukla yaparım", "p": 1}, {"t": "Kimse görsün ya da görmesin aynı davranırım", "p": 2}]},
+    {"s": "Bir hata yaptın ve başkası suçlanıyor.", "sec": [{"t": "Sessiz kalırım", "p": 0}, {"t": "Zamanın geçmesini beklerim", "p": 1}, {"t": "Sorumluluğu alırım", "p": 2}]}
+   ],
+   "sonuclar": [
+    {"min": 0, "baslik": "Vicdanını dinlemeye başlıyorsun", "metin": "Zor anlarda doğru olanı yapmak herkese kolay gelmez. Önemli olan fark etmek ve küçük adımlar atmak.", "ipucu": "Bu hafta küçük bir konuda dürüst davranmayı seç ve nasıl hissettirdiğine bak.", "oku": {"ad": "Suç ve Ceza", "dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+    {"min": 5, "baslik": "Vicdanlı", "metin": "Çoğu zaman doğru olanı yapmaya çalışıyorsun. Zorlandığın anlar olması çok doğal.", "ipucu": "Zorlandığın bir durumu not al ve bir dahaki sefer ne yapacağını yaz.", "oku": {"ad": "Diriliş", "dosya": "kitaplar/resurrection.txt"}},
+    {"min": 9, "baslik": "Güçlü pusula", "metin": "Kimse görmese de değerlerinle uyumlu davranmaya özen gösteriyorsun.", "ipucu": "Kusursuz olmak zorunda olmadığını unutma; hata yapmak da öğrenmenin parçası.", "oku": {"ad": "Karamazov Kardeşler", "dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+*.log
+*.bak
+*~
+__pycache__/
+.env
+*.key
+*.pem
+anahtar*
+index.onceki.html
+index.old.html
+*.yedek.*
+*.once.json
+otomatik_firlat.py
+*yedek*
+sifrele.py

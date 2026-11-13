@@ -1,0 +1,23 @@
+{
+ "vicdan": ["conscience"], "olum": ["death", "dying"], "ask": ["love"], "asker": ["soldier", "army"],
+ "sevgi": ["love"], "nefret": ["hatred", "hate"], "savas": ["war"], "baris": ["peace"],
+ "tanri": ["god"], "inanc": ["faith", "belief"], "iman": ["faith"], "suc": ["crime", "guilt"],
+ "ceza": ["punishment"], "cinayet": ["murder"], "ozgur": ["freedom", "liberty"],
+ "istirap": ["suffering", "anguish"], "cile": ["suffering"], "yoksul": ["poverty", "poor"],
+ "para": ["money"], "zengin": ["rich", "wealth"], "ruya": ["dream"], "kiskanc": ["jealous", "jealousy"],
+ "evlilik": ["marriage"], "evlen": ["marry", "marriage"], "mahkeme": ["trial", "court"],
+ "hapis": ["prison"], "surgun": ["exile"], "kadin": ["woman"], "cocuk": ["child", "children"],
+ "anne": ["mother"], "baba": ["father"], "kardes": ["brother", "sister"], "arkadas": ["friend"],
+ "dusman": ["enemy"], "hastalik": ["illness", "disease"], "mutluluk": ["happiness"],
+ "umut": ["hope"], "korku": ["fear"], "yalniz": ["lonely", "solitude", "alone"],
+ "yalan": ["lie", "lies"], "gercek": ["truth"], "adalet": ["justice"], "devlet": ["state", "government"],
+ "kilise": ["church"], "koylu": ["peasant", "peasants"], "toprak": ["land"], "kader": ["fate", "destiny"],
+ "intihar": ["suicide"], "delilik": ["madness", "insane"], "ihanet": ["betrayal"],
+ "bagisla": ["forgive", "forgiveness"], "pisman": ["regret", "repentance"],
+ "kefaret": ["atonement", "redemption"], "dirilis": ["resurrection"], "soylu": ["noble", "nobleman"],
+ "ruh": ["soul"], "hayat": ["life"], "yasam": ["life"],
+ "myshkin": ["muishkin", "myshkin"], "miskin": ["muishkin"], "alyosa": ["alyosha"],
+ "sonya": ["sonia", "sonya"], "dunya": ["dounia", "dunya"], "porfiri": ["porfiry"],
+ "svidrigaylov": ["svidrigailov"], "nehludov": ["nekhludoff", "nekhlyudov"],
+ "vronski": ["vronsky"], "natasa": ["natasha"], "pyer": ["pierre"]
+}

@@ -1,0 +1,21 @@
+{
+ "baslik": "Bilgi yarışması",
+ "sorular": [
+  {"s": "Dostoyevski'nin sahte idamı hangi yıl yaşandı?", "d": "1849", "y": ["1839", "1859", "1866"], "ac": "22 Aralık 1849'da kurşuna dizilmek üzere meydana çıkarıldı, son anda cezası dört yıl zorunlu çalışmaya çevrildi."},
+  {"s": "Tolstoy nerede öldü?", "d": "Astapovo tren istasyonunda", "y": ["Yasnaya Polyana'daki evinde", "Moskova'da", "Petersburg'da"], "ac": "1910'da evden ayrıldıktan birkaç gün sonra Astapovo'da zatürreden öldü."},
+  {"s": "Raskolnikov'un makalesi insanları hangi iki gruba ayırır?", "d": "Sıradan ve olağanüstü", "y": ["Zengin ve yoksul", "Suçlu ve masum", "Okur ve cahil"], "ac": "Olağanüstü insanların daha yüksek bir amaç için kuralları aşma hakkı olduğu savunulur."},
+  {"s": "Sonia, Raskolnikov'a hangi İncil hikâyesini okur?", "d": "Lazarus'un dirilişi", "y": ["Nuh Tufanı", "Yusuf ile kardeşleri", "Kana'da düğün"], "ac": "Part IV, Chapter IV'te; dirilme ve kefaret temasının merkez sahnesi."},
+  {"s": "Anna Karenina'da Levin'in köylü Fyodor'la konuşması ve iç aydınlanması hangi Part'tadır?", "d": "Part VIII", "y": ["Part II", "Part IV", "Part VI"], "ac": "Part VIII, Chapter XI-XII: Levin ruhu için yaşamayı akıl dışı ama kesin bir bilgi olarak hisseder."},
+  {"s": "Tolstoy 1901'de neye maruz kaldı?", "d": "Ortodoks Kilisesi tarafından aforoz edildi", "y": ["Sibirya'ya sürüldü", "Hapse atıldı", "Nobel Edebiyat Ödülü'nü kazandı"], "ac": "Devlet kilisesine yönelik eleştirileri ve din üzerine kendi görüşleri nedeniyle aforoz edildi."},
+  {"s": "Dostoyevski Omsk'taki cezaevinde kaç yıl zorunlu çalıştı?", "d": "Dört yıl", "y": ["Bir yıl", "On yıl", "Yirmi yıl"], "ac": "1850-1854 arası; ardından Sibirya'da askerlik yaptı ve 1859'da Petersburg'a döndü."},
+  {"s": "Savaş ve Barış'ın İkinci Epilog'u neyi tartışır?", "d": "Özgür irade ve zorunluluğu", "y": ["Napolyon'un çocukluğunu", "Rus ordusunun silahlarını", "Köylülerin günlük yaşamını"], "ac": "Tolstoy burada ne tam özgürlüğün ne de tam zorunluluğun düşünülebilir olduğunu savunur."},
+  {"s": "Prens Myshkin, Budala'da hangi ülkeden Rusya'ya döner?", "d": "İsviçre", "y": ["Fransa", "İtalya", "Almanya"], "ac": "Orada yıllarca kaldıktan sonra Petersburg'a gelir ve toplumun içine düşer."},
+  {"s": "Karamazov kardeşlerden hangisi manastırda Zosima'nın öğrencisidir?", "d": "Alyosha", "y": ["Dmitri", "Ivan", "Smerdyakov"], "ac": "Alyosha üçüncü oğuldur ve romanın merkezindeki gençtir."},
+  {"s": "Dostoyevski'nin ikinci eşi ve stenografı kimdi?", "d": "Anna Snitkina", "y": ["Maria Isaeva", "Sophia Behrs", "Katerina Ivanovna"], "ac": "15 Şubat 1867'de evlendiler; Anna onun işlerini ölümüne kadar yürüttü."},
+  {"s": "Anna ile Vronski ilk nerede karşılaşır?", "d": "Moskova tren istasyonunda", "y": ["Bir balo salonunda", "Petersburg'da bir tiyatroda", "Levin'in çiftliğinde"], "ac": "Part I, Chapter XVIII; bir bekçinin trenin altında kalması Anna'da kötü bir önsezi bırakır."},
+  {"s": "Tolstoy ile Dostoyevski hiç tanıştı mı?", "d": "Hayır, hiç yüz yüze tanışmadılar", "y": ["Evet, Moskova'da sık sık görüşürlerdi", "Evet, bir kez Yasnaya Polyana'da", "Evet, birlikte bir dergi çıkardılar"], "ac": "Birbirlerinin eserlerini yakından izlediler; Tolstoy sonradan bu tanışamamaya üzüldü."},
+  {"s": "Yeraltından Notlar hangi yıl yayımlandı?", "d": "1864", "y": ["1846", "1866", "1880"], "ac": "İki bölümlü kısa romandır; anlatıcı güvenilmez bir anlatıcıdır."},
+  {"s": "Tolstoy'un kaç çocuğu oldu?", "d": "On üç", "y": ["Üç", "Yedi", "Yirmi"], "ac": "1862'de Sophia Behrs ile evlendi ve on üç çocukları oldu."},
+  {"s": "Diriliş'te Nekhludoff mahkemede kimi tanır?", "d": "Yıllar önce baştan çıkarıp terk ettiği genç kadını", "y": ["Eski bir asker arkadaşını", "Kendi kardeşini", "Babasının katilini"], "ac": "Jüri üyesi olarak katıldığı davada yargılanan kadını tanır; vicdanıyla yüzleşmesi romanın merkezidir."}
+ ]
+}

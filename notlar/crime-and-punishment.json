@@ -1,0 +1,60 @@
+[
+  {
+    "yer": "Genel bağlam",
+    "baglam": "Roman 1866'da The Russian Messenger dergisinde on iki aylık bölüm hâlinde yayımlandı. Olaylar 1860'ların Petersburg'unda, Çar II. Aleksandr'ın 1861'de serfleri özgür bırakmasından sonraki hızlı değişim yıllarında geçer ve Haymarket çevresinde başkentin ihtişamı yoksulluğa karışır. Dönemin aydınları Çernişevski'nin toplumsal faydacılığını ve Pisarev'in nihilizmini tartışıyordu; roman bu tartışmalara bir karşılık olarak da okunur. Dostoyevski kitabı büyük bir zaman baskısı altında yazdı: aynı dönemde Kumarbaz için de sözleşmeliydi ve stenograf Anna Snitkina ona yardım etti. Anna sonradan ikinci karısı oldu."
+  },
+  {
+    "yer": "Birinci bölüm (Part I)",
+    "baglam": "Raskolnikov'un yoksulluğu ve kafasındaki fikir tanıtılır. Rehinciler, meyhaneler ve dar kiralık odalar dönemin Petersburg'unun gündelik yüzüdür. Roman, Temmuz başında olağanüstü sıcak bir akşamla açılır; bu boğucu hava Raskolnikov'un ruh hâlinin yansıması gibidir.",
+    "analiz": "Bölümün sonunda Raskolnikov rehinci Alyona Ivanovna'yı öldürür; kız kardeşi Lizaveta beklenmedik biçimde eve gelince onu da öldürür. Planın kâğıt üstündeki düzeni ile gerçekteki dağınıklığı arasındaki fark, romanın ana gerilimini başlatır.",
+    "git": [
+      "PART I",
+      "CHAPTER I"
+    ]
+  },
+  {
+    "yer": "İkinci bölüm (Part II)",
+    "baglam": "Suçtan sonraki günler: ateş, kâbus ve korku. Raskolnikov'un çevresiyle ilişkisi Razumihin, doktor Zossimov ve karakoldaki memurlar üzerinden kurulur.",
+    "analiz": "Bölümün sonunda Marmeladov bir arabanın altında kalır; Raskolnikov elindeki parayı ailesine verir ve Sonia'yla ilk kez karşılaşır. Suçlu ile iyilik yapan insan aynı kişide yan yana durur.",
+    "git": [
+      "PART II",
+      "CHAPTER I"
+    ]
+  },
+  {
+    "yer": "Üçüncü bölüm (Part III)",
+    "baglam": "Raskolnikov'un annesi ve kız kardeşi Petersburg'a gelir. Dounia'nın Luzhin'le nişanı, ailenin para sıkıntısından doğan bir çözümdür ve evde gerilim yaratır.",
+    "analiz": "Beşinci bölümde Porfiry'yle ilk karşılaşma olur: sohbet, Raskolnikov'un yazdığı makaledeki 'sıradan' ve 'olağanüstü' insan ayrımına gelir. Raskolnikov bu konuşmayı bir kedi fare oyunu gibi hisseder ve Porfiry'nin şüphesi belirginleşir.",
+    "git": [
+      "PART III",
+      "CHAPTER I"
+    ]
+  },
+  {
+    "yer": "Dördüncü bölüm (Part IV)",
+    "baglam": "Svidrigailov doğrudan sahneye çıkar; başlarda yalnızca adı geçen bu adam romanın en tedirgin edici figürlerinden biridir.",
+    "analiz": "Bu bölümde Sonia, Raskolnikov'a İncil'den Lazarus'un dirilişini okur. Dirilme ve kefaret teması romanda burada belirginleşir; aynı temayı Tolstoy'un Diriliş'inde başka bir yoldan görürsün.",
+    "git": [
+      "PART IV",
+      "CHAPTER I"
+    ]
+  },
+  {
+    "yer": "Beşinci bölüm (Part V)",
+    "baglam": "Marmeladov'un anma yemeği: yoksul bir ailenin gösteriş ve onurunu ayakta tutma çabası, dönemin toplumsal sınıf hassasiyetini yansıtır.",
+    "analiz": "Luzhin yemekte Sonia'yı hırsızlıkla suçlayarak bir tuzak kurar; tuzak çöker. Dördüncü bölümde Raskolnikov Sonia'ya içini açar. Sonia onu yargılamak yerine, kendini yetkililere teslim etmesinin tek çıkış yolu olduğuna inanır.",
+    "git": [
+      "PART V",
+      "CHAPTER I"
+    ]
+  },
+  {
+    "yer": "Altıncı bölüm ve Epilog",
+    "baglam": "Roman sonuca yaklaşır; Porfiry ve Svidrigailov son bölümlerde belirleyici rol oynar. Epilogda sahne Sibirya'daki bir hapishaneye taşınır; Dostoyevski bu kısımda kendi mahkûmiyet yıllarından beslenir.",
+    "analiz": "Raskolnikov'un itirafı Part VI, Chapter VIII'dedir; kaynaklar bunu romanın doruk noktası sayar. Epilogda cezasını Sibirya'da çekerken Sonia onun yanındadır ve Raskolnikov'da yavaş bir iç değişim başlar.",
+    "git": [
+      "PART VI",
+      "CHAPTER I"
+    ]
+  }
+]

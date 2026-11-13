@@ -1,0 +1,44 @@
+{
+ "baslik": "Dostoyevski mi, Tolstoy mu?",
+ "sorular": [
+  {"s": "Gece uykun kaçtı. Aklında ne var?", "sec": [
+   {"t": "Bugün söylediğim bir şeyin vicdanımı rahatsız etmesi", "p": {"dos": 1}},
+   {"t": "Yarınki işler ve çevremdeki insanların durumu", "p": {"tol": 1}},
+   {"t": "Kendi içimdeki çelişkiler", "p": {"dos": 1}},
+   {"t": "Hayatımı sadeleştirip doğru yaşamak", "p": {"tol": 1}}]},
+  {"s": "En çok hangi ortamda kendin gibi hissedersin?", "sec": [
+   {"t": "Gece yarısı kalabalık bir şehirde yürürken", "p": {"dos": 1}},
+   {"t": "Doğada, elimle bir şeyler yaparken", "p": {"tol": 1}},
+   {"t": "Yoğun bir tartışmanın ortasında", "p": {"dos": 1}},
+   {"t": "Aile ve arkadaşlarla uzun bir sofrada", "p": {"tol": 1}}]},
+  {"s": "Bir arkadaşın sana büyük bir yanlış yaptı. Ne yaparsın?", "sec": [
+   {"t": "Öfkeyi ve acıyı uzun süre içimde yaşar, sonra yüzleşirim", "p": {"dos": 1}},
+   {"t": "Kızarım ama bağışlamanın daha doğru olduğunu düşünürüm", "p": {"tol": 1}},
+   {"t": "Bir an patlarım, sonra pişman olurum", "p": {"dos": 1}},
+   {"t": "Olaya herkesin gözünden bakmaya çalışırım", "p": {"tol": 1}}]},
+  {"s": "Bir hikâyede en çok neyi seversin?", "sec": [
+   {"t": "Karakterin iç sesi ve vicdan çatışması", "p": {"dos": 1}},
+   {"t": "Geniş bir dünya, çok sayıda karakter, gündelik ayrıntılar", "p": {"tol": 1}},
+   {"t": "Karanlık, gerilimli, insanı sarsan sahneler", "p": {"dos": 1}},
+   {"t": "Hayatı ve zamanı olduğu gibi anlatan sahneler", "p": {"tol": 1}}]},
+  {"s": "İnsan nasıl daha iyi olur?", "sec": [
+   {"t": "Acı çekerek ve hatalarıyla yüzleşerek", "p": {"dos": 1}},
+   {"t": "Sade yaşayarak ve başkalarına iyilik ederek", "p": {"tol": 1}},
+   {"t": "Kendini sorgulayıp sınırlarını zorlayarak", "p": {"dos": 1}},
+   {"t": "Basit ahlaki kurallara bağlı kalarak", "p": {"tol": 1}}]},
+  {"s": "Para ve mülk hakkında ne düşünürsün?", "sec": [
+   {"t": "İnsanı yoksulluk ile hırs arasında sıkıştıran bir güç", "p": {"dos": 1}},
+   {"t": "Çok fazlası insanı bozar, az olan yeter", "p": {"tol": 1}},
+   {"t": "Beni asıl ilgilendiren, para yüzünden insanların iç dünyasında olanlar", "p": {"dos": 1}},
+   {"t": "Toprak ve emek gerçek değerdir", "p": {"tol": 1}}]},
+  {"s": "Hangi düşünce sana daha yakın?", "sec": [
+   {"t": "İnsan çözülmesi zor bir bilmecedir", "p": {"dos": 1}},
+   {"t": "Büyük gerçekler gündelik ayrıntılarda saklıdır", "p": {"tol": 1}},
+   {"t": "Aklın ve inancın çatışması beni çeker", "p": {"dos": 1}},
+   {"t": "Doğru yaşamak, iyi bir hayatın tek yoludur", "p": {"tol": 1}}]}
+ ],
+ "sonuclar": {
+  "dos": {"ad": "Dostoyevski", "kitap": "Önerilen kitap: Suç ve Ceza (Crime and Punishment)", "aciklama": "Yoğun, derin ve sorgulayıcısın. Vicdan, kuşku, inanç ve özgürlük gibi büyük sorular seni çeker ve insanın çelişkili yanlarına bakmaktan korkmazsın. Dostoyevski okuru olmaya yatkınsın. Küçük bir not: iç dünyan fırtınalı olduğunda yürüyüşe çıkmak veya biriyle konuşmak iyi gelir.", "oku": {"dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+  "tol": {"ad": "Tolstoy", "kitap": "Önerilen kitap: Anna Karenina", "aciklama": "Geniş bakan, sakin ve ahlaka düşkünsün. Hayatı gündelik ayrıntıların içinde görür, sade yaşamayı ve doğru olanı yapmayı önemsersin. İnsanı ve toplumu bütün olarak kavramaya çalışırsın. Küçük bir not: doğruya bu kadar odaklanmak bazen kendine ve başkalarına fazla katı davranmana yol açabilir.", "oku": {"dosya": "kitaplar/anna-karenina.txt", "git": ["PART ONE"]}}
+ }
+}

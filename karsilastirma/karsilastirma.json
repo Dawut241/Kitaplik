@@ -1,0 +1,41 @@
+[
+ {
+  "soru": "Kurtuluş nasıl gelir?",
+  "giris": "İki yazar da insanın içine düştüğü karanlıktan çıkabileceğine inanır, ama çıkışın yolunu çok farklı çizer. Küçük bir benzerlik de var: ikisinde de dönüşümün habercisi, toplumun alt basamağından sade bir insandır.",
+  "dostoyevski": {
+   "baslik": "Dostoyevski",
+   "metin": "Suç ve Ceza'da kurtuluş acıdan ve itiraftan geçer. Raskolnikov kuramıyla kendini haklı çıkarmaya çalışır, ama asıl ceza kanundan değil vicdanından gelir. Sonia onu yargılamaz; kendini teslim etmesini, yani yaptığının sonuçlarıyla yüzleşmesini ister. Kurtuluş burada ani bir aydınlanma değil, Epilog'da başlayan yavaş bir iç değişimdir.",
+   "yerler": [
+    {"kitap": "Crime and Punishment", "dosya": "kitaplar/crime-and-punishment.txt", "yer": "Part V, Chapter IV", "not": "Raskolnikov Sonia'ya içini açar; Sonia'nın tepkisi kurtuluşun yönünü gösterir.", "git": ["PART V", "CHAPTER IV"]}
+   ]
+  },
+  "tolstoy": {
+   "baslik": "Tolstoy",
+   "metin": "Anna Karenina'da Levin'in sorusu 'nasıl yaşamalı?'dır ve akıl ona cevap veremez. Cevap bir köylünün cümlesiyle gelir: insan kendi istekleri için değil, ruhu ve Tanrı için yaşamalıdır. Levin bunu akılla çözmez, akıl dışı ama kesin bir bilgi olarak hisseder. Tolstoy bunu bir mucize gibi de sunmaz: Levin'in kusurları bu anın hemen ardından bile sürer.",
+   "yerler": [
+    {"kitap": "Anna Karenina", "dosya": "kitaplar/anna-karenina.txt", "yer": "Part VIII, Chapter XI-XII", "not": "Levin'in köylü Fyodor'la konuşması ve ardından gelen iç aydınlanma.", "git": ["PART EIGHT"], "ara": "He lives for his soul"},
+    {"kitap": "Resurrection", "dosya": "kitaplar/resurrection.txt", "yer": "Son bölüm", "not": "Romanın kapanışı; Nekhludoff'un yeni bir hayata bakışı.", "ara": "NEW LIFE DAWNS"}
+   ]
+  },
+  "fark": "Dostoyevski'de kurtuluş bir bedel ister: suç, itiraf ve ceza. Tolstoy'da kurtuluş daha çok bir uyanıştır: yanlış yaşadığını fark edip hayatını başka bir temele oturtmak. İkisi de akılla hesap yapmanın yetmediğini söyler; biri bunu vicdanın acısıyla, öteki bir köylünün sade cümlesiyle gösterir."
+ },
+ {
+  "soru": "Özgürlük mü, kader mi?",
+  "giris": "İnsan gerçekten özgür mü, yoksa nedenlerin ve yasaların içinde mi hareket eder? İki yazar bu soruyu romanlarına gömmekle kalmaz, doğrudan tartışır.",
+  "dostoyevski": {
+   "baslik": "Dostoyevski",
+   "metin": "Yeraltından Notlar'ın anlatıcısı, her şeyin hesapla ve 'iki kere iki dört' kesinliğiyle açıklanabileceği fikrine isyan eder. Ona göre insanın kendi isteği, hatta mantıksız bir keyfi bile, hiçbir tabloya sığmayan en değerli çıkarıdır; çünkü insanı insan yapan seçme özgürlüğüdür. Bu bir argümandan çok bir öfke patlamasıdır: anlatıcının kendisi de güvenilmez bir anlatıcıdır.",
+   "yerler": [
+    {"kitap": "Notes from Underground", "dosya": "kitaplar/notes-from-underground.txt", "yer": "Part I, Chapter VII-IX", "not": "Akıl, hesap ve 'iki kere iki dört' karşısında insanın kendi isteği.", "git": ["PART I"], "ara": "most advantageous advantage"}
+   ]
+  },
+  "tolstoy": {
+   "baslik": "Tolstoy",
+   "metin": "Savaş ve Barış'ın İkinci Epilog'u romanı bırakıp felsefi bir makaleye dönüşür. Tolstoy burada ne tam özgürlüğün ne de tam zorunluluğun düşünülebilir olduğunu savunur: bir eylemin nedenlerini ne kadar çok görürsek özgürlük duygumuz o kadar azalır. Yine de 'elimi kaldırıp indirdim' diyen kişi özgür olduğunu içten bilir; Tolstoy bu duyguyu da reddetmez. Tarih ona göre özgür iradenin hangi koşullarda nasıl işlediğini anlatmalıdır.",
+   "yerler": [
+    {"kitap": "War and Peace", "dosya": "kitaplar/war-and-peace.txt", "yer": "Second Epilogue, Chapter VIII-X", "not": "Özgür irade ve zorunluluk tartışmasının merkezi. Kitap çok büyük, o yüzden Bölüme git menüsünde SECOND EPILOGUE satırını seçmek en kolayı.", "ara": "SECOND EPILOGUE"}
+   ]
+  },
+  "fark": "Yeraltı adamı için özgürlük bir isyandır: yasalara, hesaba ve 'faydaya' karşı bile olsa kendi isteğini seçmek. Tolstoy için özgürlük ve zorunluluk birlikte çalışan iki güçtür ve ölçüleri bilgiyle değişir. İkisi de özgür olma duygusunu ciddiye alır, ama biri onu savunur, öteki sınırını ölçmeye çalışır."
+ }
+]

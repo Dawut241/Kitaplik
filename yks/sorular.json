@@ -1,0 +1,1193 @@
+{
+  "testler": [
+    {
+      "id": "tyt-turkce",
+      "baslik": "TYT Türkçe – ÖSYM Karma Deneme (15 Soru)",
+      "sure": 18,
+      "tavsiyeler": {
+        "yuksek": "Türkçe netlerin harika! Paragraf hızını korumak için günde 20 paragraf çözmeye devam et.",
+        "orta": "Dil bilgisi ve yazım kurallarına biraz daha ağırlık verirsen netlerin hızla artacaktır.",
+        "dusuk": "Önce yazım kuralları, noktalama işaretleri ve paragrafta ana düşünce konularını tekrar etmelisin."
+      },
+      "sorular": [
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde 'ki' ekinin veya bağlacının yazımıyla ilgili bir yanlışlık yapılmıştır?",
+          "sec": [
+            "Sen ki her zorluğun üstesinden gelmeyi bilirsin.",
+            "Masadaki kitapların hepsini bir haftada bitirmiş.",
+            "O kadar hızlı koştu ki kimse ona yetişemedi.",
+            "Evde ki hesap çarşıya uymayınca planı değiştirdik.",
+            "Mademki gelmeyecektin, neden önceden haber vermedin?"
+          ],
+          "dogru": 3,
+          "aciklama": "'Evdeki' kelimesindeki '-ki' sıfat yapan ektir ve bitişik yazılır. Doğru yazımı 'Evdeki' olmalıdır."
+        },
+        {
+          "s": "(I) Klasik eserler, yazıldıkları dönemin ruhunu taşır. (II) Ancak onları ölümsüz kılan şey, her çağdaki insana seslenebilmeleridir. (III) Dostoyevski'nin karakterleri bugün bile içimizde yaşıyor. (IV) Yazarın ilk romanı 1846 yılında yayımlanmıştır. (V) Çünkü insanın iç çatışmaları yüzyıllar geçse de değişmiyor.\n\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+          "sec": [
+            "I",
+            "II",
+            "III",
+            "IV",
+            "V"
+          ],
+          "dogru": 3,
+          "aciklama": "IV. cümlede yazarın ilk romanının basım yılına geçilerek düşünce akışı bozulmuştur."
+        },
+        {
+          "s": "'Bir yazarın üslubu, onun parmak izi gibidir.' cümlesiyle anlatılmak istenen aşağıdakilerden hangisidir?",
+          "sec": [
+            "Yazarların gizli konuları işlemesi gerektiği",
+            "Her yazarın kendine özgü, taklit edilemez bir anlatım biçimi olduğu",
+            "Eserlerin mutlaka yaşanmış olaylara dayanması gerektiği",
+            "Okuyucuların sadece ünlü yazarları tercih ettiği",
+            "Dil bilgisi kurallarının üsluptan daha önemli olduğu"
+          ],
+          "dogru": 1,
+          "aciklama": "Yazarın dili kullanma biçimi (üslubu) sadece ona özgüdür."
+        },
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde hem edat hem de bağlaç kullanılmıştır?",
+          "sec": [
+            "Sabaha kadar ders çalıştığı için çok yorgundu.",
+            "Sadece seninle konuşmak üzere buraya geldim.",
+            "Bu kitabı okudum ama sonunu pek beğenmedim.",
+            "Senin gibi çalışkan bir öğrenciyi mutlaka desteklerim.",
+            "Güneş doğana kadar yürüdük ve sonunda köye ulaştık."
+          ],
+          "dogru": 4,
+          "aciklama": "E şıkkında 'kadar' edat, 've' bağlaç görevinde kullanılmıştır."
+        },
+        {
+          "s": "Aşağıdaki kelimelerden hangisi yapıca diğerlerinden farklıdır?",
+          "sec": [
+            "Kitaplık",
+            "Gözlük",
+            "Kalemlik",
+            "Kelebek",
+            "Sözlük"
+          ],
+          "dogru": 3,
+          "aciklama": "'Kelebek' basit (kök halinde) bir sözcüktür; diğerleri '-lık/-lik' ekiyle türemiştir."
+        },
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?",
+          "sec": [
+            "Her şey zamanla yoluna girecektir.",
+            "Bu konuda hiç kimseye söz vermedim.",
+            "Sınavda pek çok öğrenci aynı soruda takıldı.",
+            "Birdenbire kapı açılınca hepimiz irkildik.",
+            "Yaptığı hataları ört bas etmeye çalışıyordu."
+          ],
+          "dogru": 4,
+          "aciklama": "Örtbas etmek anlamca kaynaşmış birleşik fiildir ve bitişik yazılır (örtbas etmek)."
+        },
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde virgül (,) diğerlerinden farklı bir görevde kullanılmıştır?",
+          "sec": [
+            "Sessiz dereler, solgun ağaçlar, sarı güller vardı.",
+            "Kitaplarını, defterlerini ve kalemlerini çantasına koydu.",
+            "Genç, doktorun söylediklerini dikkatle dinliyordu.",
+            "Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını hazırladı.",
+            "Masada kırmızı, mavi ve yeşil kalemler duruyordu."
+          ],
+          "dogru": 2,
+          "aciklama": "C şıkkında virgül, anlam karışıklığını önlemek için (genç biri, doktora mı yoksa genç doktor mu) kullanılmıştır; diğerlerinde eş görevli sözcükleri ayırır."
+        },
+        {
+          "s": "'Gönül' kelimesi aşağıdaki eklerden hangisini alırsa ünlü düşmesine uğrar?",
+          "sec": [
+            "-ler",
+            "-de",
+            "-den",
+            "-ü",
+            "-süz"
+          ],
+          "dogru": 3,
+          "aciklama": "Gönül + ü -> Gönlü şeklinde ikinci hecedeki dar ünlü (ü) düşer."
+        },
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+          "sec": [
+            "Bu konuyu seninle yarın detaylıca konuşalım.",
+            "Bana göre bu kararın hiçbir bilimsel dayanağı yok.",
+            "Kütüphanedeki tüm kitapları tek tek inceledi.",
+            "Büyük olasılıkla yarınki toplantıya kesin katılacaktır.",
+            "Yeni aldığı romanı iki günde bitirmiş."
+          ],
+          "dogru": 3,
+          "aciklama": "'Büyük olasılıkla' (ihtimal) ve 'kesin' (kesinlik) sözcükleri birbiriyle çelişir."
+        },
+        {
+          "s": "'Boş vermek' deyiminin anlamı aşağıdakilerden hangisidir?",
+          "sec": [
+            "Çok çalışıp yorulmak",
+            "Önem vermemek, aldırmamak",
+            "Gizli bir sırrı açıklamak",
+            "Bir işi yarım bırakmak",
+            "Haksızlığa karşı çıkmak"
+          ],
+          "dogru": 1,
+          "aciklama": "Boş vermek, bir olaya veya duruma önem vermemek, aldırmamak anlamına gelir."
+        },
+        {
+          "s": "Aşağıdakilerin hangisinde altı çizili tamlama tür bakımından farklıdır? (Sıfat tamlaması vs İsim tamlaması)",
+          "sec": [
+            "Kapının kolu kırılmış.",
+            "Bahçenin duvarı boyandı.",
+            "Kırmızı kalem masada kalmış.",
+            "Kitabın kapağı yırtılmış.",
+            "Öğrencinin defteri kaybolmuş."
+          ],
+          "dogru": 2,
+          "aciklama": "'Kırmızı kalem' sıfat tamlamasıdır; diğer dördü belirtili isim tamlamasıdır."
+        },
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde nesnel bir yargı vardır?",
+          "sec": [
+            "Dostoyevski'nin en sürükleyici romanı Suç ve Ceza'dır.",
+            "Yazarın son kitabı okuyucuyu derinden etkiliyor.",
+            "Eser 1866 yılında Rusya'da yayımlanmıştır.",
+            "Bu şiirdeki duygusallık insanın içine işliyor.",
+            "Filmin son sahnesi gereksiz yere uzatılmış."
+          ],
+          "dogru": 2,
+          "aciklama": "Eserin yayımlanma yılı ve yeri kanıtlanabilir olduğu için nesneldir; diğerleri kişisel yorum içerir."
+        },
+        {
+          "s": "Aşağıdaki kelimelerin hangisinde ünsüz yumuşaması (değişimi) vardır?",
+          "sec": [
+            "Kitabı",
+            "Sepeti",
+            "Milleti",
+            "Sanatı",
+            "Hukuku"
+          ],
+          "dogru": 0,
+          "aciklama": "Kitap + ı -> Kitabı (p sesi b'ye yumuşamıştır). Diğerleri tek heceli veya yabancı kökenli olduğu için yumuşamaz."
+        },
+        {
+          "s": "'Ağır' sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?",
+          "sec": [
+            "Bu ağır koliyi tek başına taşıyamazsın.",
+            "Sınavda çok ağır sorular sorulmuştu.",
+            "Ağır adımlarla merdivenleri çıkıyordu.",
+            "Yemekten sonra midesinde ağır bir his oluştu.",
+            "Kamyon ağır yükü nedeniyle yokuşta zorlandı."
+          ],
+          "dogru": 1,
+          "aciklama": "'Ağır sorular' ifadesinde zor, çetin anlamında mecaz kullanılmıştır."
+        },
+        {
+          "s": "Aşağıdaki cümlelerin hangisinde soru anlamı bir zamirle sağlanmıştır?",
+          "sec": [
+            "Hangi kitabı daha çok beğendin?",
+            "Sınav sonuçları ne zaman açıklanacak?",
+            "Bu güzel hediyeyi sana kim aldı?",
+            "Neden bu kadar geç kaldın?",
+            "Kaç gün sonra yola çıkacaksınız?"
+          ],
+          "dogru": 2,
+          "aciklama": "'Kim' sözcüğü ismin yerini tutan soru zamiridir (Cevabı: Ali, Ayşe vb. isimdir)."
+        }
+      ]
+    },
+    {
+      "id": "tyt-matematik",
+      "baslik": "TYT Matematik – ÖSYM Karma Deneme (15 Soru)",
+      "sure": 20,
+      "tavsiyeler": {
+        "yuksek": "Sayısal mantığın ve işlem hızın çok iyi! Yeni nesil uzun problemlere odaklanabilirsin.",
+        "orta": "Temel kavramlar oturmuş; oran-orantı ve yüzde problemlerinde daha fazla pratik yapmalısın.",
+        "dusuk": "Önce denklem kurma, rasyonel sayılar ve temel oran-orantı konularını pekiştirerek başla."
+      },
+      "sorular": [
+        {
+          "s": "x ve y pozitif tam sayılar olmak üzere, 3x + 4y = 37 eşitliğini sağlayan kaç farklı (x, y) ikilisi vardır?",
+          "sec": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "dogru": 2,
+          "aciklama": "(11,1), (7,4), (3,7) olmak üzere 3 farklı ikili vardır."
+        },
+        {
+          "s": "Bir kütüphanedeki kitapların 2/5'i roman, kalan kitapların 1/3'ü tarih kitabıdır. Geriye 120 kitap kaldığına göre toplam kaç kitap vardır?",
+          "sec": [
+            "250",
+            "300",
+            "350",
+            "400",
+            "450"
+          ],
+          "dogru": 1,
+          "aciklama": "Toplam 15x kitap olsun. Roman 6x, tarih 3x, kalan 6x = 120 -> x = 20. Toplam 300 kitap."
+        },
+        {
+          "s": "Ardışık 5 tek tam sayının toplamı 135 olduğuna göre, bu sayıların en büyüğü kaçtır?",
+          "sec": [
+            "27",
+            "29",
+            "31",
+            "33",
+            "35"
+          ],
+          "dogru": 2,
+          "aciklama": "Ortanca sayı 135/5 = 27'dir. En büyüğü 27 + 4 = 31 olur."
+        },
+        {
+          "s": "%20 kârla satılan bir ürüne satış fiyatı üzerinden %10 indirim yapılırsa son durumda kâr-zarar ne olur?",
+          "sec": [
+            "%10 kâr",
+            "%8 kâr",
+            "%5 kâr",
+            "%2 zarar",
+            "Ne kâr ne zarar"
+          ],
+          "dogru": 1,
+          "aciklama": "100 TL maliyet -> 120 TL satış -> %10 indirim (12 TL) -> 108 TL. Sonuç: %8 kâr."
+        },
+        {
+          "s": "2^x = 5 ve 5^y = 8 olduğuna göre, x . y çarpımı kaçtır?",
+          "sec": [
+            "2",
+            "3",
+            "4",
+            "6",
+            "8"
+          ],
+          "dogru": 1,
+          "aciklama": "(2^x)^y = 2^3 -> x . y = 3 bulunur."
+        },
+        {
+          "s": "|-5| + |3 - 7| - |-2| işleminin sonucu kaçtır?",
+          "sec": [
+            "5",
+            "7",
+            "9",
+            "11",
+            "13"
+          ],
+          "dogru": 1,
+          "aciklama": "|-5| = 5, |-4| = 4, |-2| = 2. İşlem: 5 + 4 - 2 = 7."
+        },
+        {
+          "s": "√48 + √27 - √12 işleminin sonucu kaçtır?",
+          "sec": [
+            "3√3",
+            "4√3",
+            "5√3",
+            "6√3",
+            "7√3"
+          ],
+          "dogru": 2,
+          "aciklama": "4√3 + 3√3 - 2√3 = 5√3 bulunur."
+        },
+        {
+          "s": "Bir baba 36, oğlu 8 yaşındadır. Kaç yıl sonra babanın yaşı oğlunun yaşının 3 katı olur?",
+          "sec": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "dogru": 2,
+          "aciklama": "36 + x = 3.(8 + x) -> 36 + x = 24 + 3x -> 2x = 12 -> x = 6."
+        },
+        {
+          "s": "Bir işi Ali tek başına 12 günde, Veli tek başına 24 günde bitirebiliyor. İkisi birlikte bu işi kaç günde bitirir?",
+          "sec": [
+            "6",
+            "8",
+            "9",
+            "10",
+            "12"
+          ],
+          "dogru": 1,
+          "aciklama": "1/12 + 1/24 = 3/24 = 1/8. İkisi birlikte 8 günde bitirir."
+        },
+        {
+          "s": "Hızı saatte 80 km olan bir araç A kentinden B kentine 6 saatte gidiyor. Dönüşte hızını saatte 120 km yaparsa dönüşü kaç saat sürer?",
+          "sec": [
+            "3",
+            "4",
+            "4.5",
+            "5",
+            "5.5"
+          ],
+          "dogru": 1,
+          "aciklama": "Yol = 80 . 6 = 480 km. Dönüş süresi = 480 / 120 = 4 saat."
+        },
+        {
+          "s": "Bir torbada 4 kırmızı, 5 mavi ve 6 sarı bilye vardır. Rastgele çekilen bir bilyenin mavi olma olasılığı kaçtır?",
+          "sec": [
+            "1/5",
+            "1/4",
+            "1/3",
+            "2/5",
+            "3/5"
+          ],
+          "dogru": 2,
+          "aciklama": "Toplam 15 bilye var. Mavi olasılığı = 5/15 = 1/3."
+        },
+        {
+          "s": "2x - 3 < 7 eşitsizliğini sağlayan en büyük x tam sayısı kaçtır?",
+          "sec": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "dogru": 1,
+          "aciklama": "2x < 10 -> x < 5. 5'ten küçük en büyük tam sayı 4'tür."
+        },
+        {
+          "s": "Bir dik üçgende dik kenarların uzunlukları 6 cm ve 8 cm ise hipotenüs uzunluğu kaç cm'dir?",
+          "sec": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "14"
+          ],
+          "dogru": 1,
+          "aciklama": "6-8-10 özel dik üçgeni (6² + 8² = 36 + 64 = 100 = 10²)."
+        },
+        {
+          "s": "a/b = 2/3 ve a + b = 35 olduğuna göre b - a farkı kaçtır?",
+          "sec": [
+            "5",
+            "7",
+            "9",
+            "10",
+            "14"
+          ],
+          "dogru": 1,
+          "aciklama": "a = 2k, b = 3k -> 5k = 35 -> k = 7. b - a = 3k - 2k = k = 7."
+        },
+        {
+          "s": "3! + 4! işleminin sonucu kaçtır?",
+          "sec": [
+            "12",
+            "18",
+            "24",
+            "30",
+            "36"
+          ],
+          "dogru": 3,
+          "aciklama": "3! = 6, 4! = 24. Toplam: 6 + 24 = 30."
+        }
+      ]
+    },
+    {
+      "baslik": "TYT Coğrafya - ÖSYM Karma Deneme (15 Soru)",
+      "sorular": [
+        {
+          "s": "Türkiye'nin mutlak (matematik) konumu aşağıdakilerden hangisi ile ifade edilir?",
+          "sec": [
+            "36°-42° Kuzey paralelleri, 26°-45° Doğu meridyenleri",
+            "Asya ve Avrupa kıtaları arasında yer alması",
+            "Üç tarafının denizlerle çevrili olması",
+            "Ortalama yükseltisinin 1132 metre olması",
+            "Zengin yer altı kaynaklarına sahip olması"
+          ],
+          "dogru": 0,
+          "aciklama": "Enlem ve boylam dereceleri bir ülkenin mutlak (matematik) konumunu belirler."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi Türkiye'nin göreceli (özel) konumunun sonuçlarından biridir?",
+          "sec": [
+            "Dört mevsimin belirgin yaşanması",
+            "Kuzeye gidildikçe gece-gündüz süre farkının artması",
+            "Aynı anda farklı mevsim özelliklerinin görülmesi",
+            "Gölge boyunun hiçbir zaman sıfır olmaması",
+            "Yerel saatin Greenwich'ten ileri olması"
+          ],
+          "dogru": 2,
+          "aciklama": "Yükselti ve yer şekillerinin kısa mesafede değişmesi göreceli konumun sonucudur."
+        },
+        {
+          "s": "Dünya'nın kendi ekseni etrafındaki dönüşü (günlük hareket) aşağıdakilerden hangisine yol açar?",
+          "sec": [
+            "Mevsimlerin oluşmasına",
+            "Gece ve gündüzün birbirini takip etmesine",
+            "Kutup noktalarının oluşmasına",
+            "Ekvator düzleminin eğik olmasına",
+            "Yıllık sıcaklık farklarının oluşmasına"
+          ],
+          "dogru": 1,
+          "aciklama": "Dünya'nın günlük hareketi gece-gündüz ardalanmasını ve yerel saat farklarını oluşturur."
+        },
+        {
+          "s": "Türkiye'de en fazla yağış alan ve her mevsimi yağışlı geçen iklim tipi hangisidir?",
+          "sec": [
+            "Akdeniz İklimi",
+            "Karadeniz İklimi",
+            "Karasal İklim",
+            "Sert Karasal İklim",
+            "Step İklimi"
+          ],
+          "dogru": 1,
+          "aciklama": "Karadeniz iklimi düzenli yağış rejimine sahiptir ve en fazla yağışı sonbaharda alır."
+        },
+        {
+          "s": "Akdeniz ikliminin karakteristik doğal bitki örtüsü aşağıdakilerden hangisidir?",
+          "sec": [
+            "Bozkır",
+            "Maki",
+            "Tayga",
+            "Tundra",
+            "Savan"
+          ],
+          "dogru": 1,
+          "aciklama": "Kızılçam ormanlarının tahribiyle oluşan kısa boylu bodur ağaççıklar olan maki Akdeniz iklimine aittir."
+        },
+        {
+          "s": "Aşağıdaki dış kuvvetlerden hangisi Türkiye'nin kıyı şekillenmesinde doğrudan etkilidir?",
+          "sec": [
+            "Buzullar",
+            "Dalga ve akıntılar",
+            "Rüzgarlar",
+            "Volkanizma",
+            "Orojenez"
+          ],
+          "dogru": 1,
+          "aciklama": "Üç tarafı denizlerle çevrili Türkiye'de falez, lagün ve tombolo gibi şekilleri dalga ve akıntılar oluşturur."
+        },
+        {
+          "s": "Türkiye'de heyelan olaylarının en sık görüldüğü bölge aşağıdakilerden hangisidir?",
+          "sec": [
+            "Güneydoğu Anadolu",
+            "Karadeniz Bölgesi",
+            "İç Anadolu Bölgesi",
+            "Ege Bölgesi",
+            "Marmara Bölgesi"
+          ],
+          "dogru": 1,
+          "aciklama": "Eğim, yağış ve killi toprak yapısının bir arada bulunduğu Karadeniz Bölgesi'nde heyelan çok sık görülür."
+        },
+        {
+          "s": "Bir ülkenin nüfus piramidinde tabanın hızla daralması neyi gösterir?",
+          "sec": [
+            "Doğum oranlarının azaldığını",
+            "Bebek ölümlerinin arttığını",
+            "Ortalama yaşam süresinin kısaldığını",
+            "Genç nüfus oranının arttığını",
+            "Dış göçlerin hızlandığını"
+          ],
+          "dogru": 0,
+          "aciklama": "Piramidin alt kısmının daralması doğum oranlarının düştüğünü ve nüfusun yaşlandığını gösterir."
+        },
+        {
+          "s": "Aşağıdaki göllerden hangisi tektonik oluşumlu bir göldür?",
+          "sec": [
+            "Van Gölü",
+            "Tuz Gölü",
+            "Nemrut Gölü",
+            "Büyükçekmece Gölü",
+            "Uzungöl"
+          ],
+          "dogru": 1,
+          "aciklama": "Tuz Gölü, yer kabuğu hareketleri sonucu çöken tektonik bir çanakta oluşmuştur."
+        },
+        {
+          "s": "Haritalarda ayrıntıyı gösterme gücü en fazla olan ölçek aşağıdakilerden hangisidir?",
+          "sec": [
+            "1 / 50.000",
+            "1 / 200.000",
+            "1 / 500.000",
+            "1 / 1.000.000",
+            "1 / 5.000.000"
+          ],
+          "dogru": 0,
+          "aciklama": "Paydası en küçük olan ölçek büyük ölçektir ve haritada ayrıntıyı en fazla gösterir."
+        },
+        {
+          "s": "Atmosferin en alt katmanı olan ve iklim olaylarının gerçekleştiği tabaka hangisidir?",
+          "sec": [
+            "Stratosfer",
+            "Mezosfer",
+            "Troposfer",
+            "Termosfer",
+            "Ekzosfer"
+          ],
+          "dogru": 2,
+          "aciklama": "Su buharının tamamı Troposfer'de bulunduğu için tüm hava olayları burada gerçekleşir."
+        },
+        {
+          "s": "Türkiye'de tarımda makineleşmenin artması aşağıdakilerden hangisine neden olmuştur?",
+          "sec": [
+            "Kırdan kente göçün artmasına",
+            "Tarım alanlarının daralmasına",
+            "Nadasa bırakılan toprakların artmasına",
+            "Tarımsal verimin düşmesine",
+            "Kırsal nüfusun hızla artmasına"
+          ],
+          "dogru": 0,
+          "aciklama": "Makineleşme insan gücüne duyulan ihtiyacı azaltarak kırdan kente göçü hızlandırmıştır."
+        },
+        {
+          "s": "Aşağıdaki boğazlardan hangisi Kızıldeniz ile Hint Okyanusu'nu birbirine bağlar?",
+          "sec": [
+            "Cebelitarık Boğazı",
+            "Hürmüz Boğazı",
+            "Babülmendep Boğazı",
+            "Malakka Boğazı",
+            "Bering Boğazı"
+          ],
+          "dogru": 2,
+          "aciklama": "Babülmendep Boğazı Kızıldeniz'i Aden Körfezi üzerinden Hint Okyanusu'na bağlar."
+        },
+        {
+          "s": "Türkiye'de dağların kıyıya paralel uzandığı yerlerde aşağıdakilerden hangisi görülür?",
+          "sec": [
+            "Kıta sahanlığının geniş olması",
+            "Kıyı ile iç kesimler arasında ulaşımın zor olması",
+            "Girinti ve çıkıntının fazla olması",
+            "Doğal liman sayısının fazla olması",
+            "Denizel etkinin iç kesimlere kolayca sokulması"
+          ],
+          "dogru": 1,
+          "aciklama": "Karadeniz ve Akdeniz'de dağlar kıyıya paralel uzandığı için iç kesimlere ulaşım geçitlerle sağlanır."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi yenilenebilir (tükenmeyen) enerji kaynaklarından biridir?",
+          "sec": [
+            "Taş kömürü",
+            "Linyit",
+            "Doğal gaz",
+            "Jeotermal enerji",
+            "Petrol"
+          ],
+          "dogru": 3,
+          "aciklama": "Jeotermal, güneş, rüzgar ve hidroelektrik yenilenebilir enerji kaynaklarıdır."
+        }
+      ]
+    },
+    {
+      "baslik": "TYT Fizik - ÖSYM Karma Deneme (15 Soru)",
+      "sorular": [
+        {
+          "s": "Aşağıdakilerden hangisi temel büyüklüklerden biridir?",
+          "sec": [
+            "Hız",
+            "Kuvvet",
+            "Sıcaklık",
+            "Basınç",
+            "Enerji"
+          ],
+          "dogru": 2,
+          "aciklama": "Kısa Muz (Kütle, Işık şiddeti, Sıcaklık, Akım, Madde miktarı, Uzunluk, Zaman) temel büyüklüklerdir."
+        },
+        {
+          "s": "SI birim sisteminde kuvvetin birimi aşağıdakilerden hangisidir?",
+          "sec": [
+            "Joule",
+            "Watt",
+            "Newton",
+            "Pascal",
+            "Kelvin"
+          ],
+          "dogru": 2,
+          "aciklama": "Uluslararası birim sisteminde (SI) kuvvetin birimi Newton'dur (N)."
+        },
+        {
+          "s": "Bir cismin birim zamandaki yer değiştirmesine ne ad verilir?",
+          "sec": [
+            "Sürat",
+            "Hız",
+            "İvme",
+            "Yol",
+            "Konum"
+          ],
+          "dogru": 1,
+          "aciklama": "Birim zamandaki yer değiştirme vektörel bir büyüklük olan hızdır."
+        },
+        {
+          "s": "Sürtünmesiz yatay düzlemde duran bir cisme net bir kuvvet uygulanırsa cisim nasıl hareket eder?",
+          "sec": [
+            "Sabit hızla gider",
+            "Dengelenmiş kuvvetler etkisindedir",
+            "İvmeli (hızlanan) hareket yapar",
+            "Hareketsiz kalır",
+            "Yavaşlayarak durur"
+          ],
+          "dogru": 2,
+          "aciklama": "Newton'un ikinci yasasına göre net kuvvet varsa cisim ivmelenir."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi yenilenebilir enerji kaynağıdır?",
+          "sec": [
+            "Kömür",
+            "Petrol",
+            "Doğal gaz",
+            "Rüzgar enerjisi",
+            "Nükleer enerji"
+          ],
+          "dogru": 3,
+          "aciklama": "Rüzgar enerjisi doğada sürekli yenilenen temiz bir enerji kaynağıdır."
+        },
+        {
+          "s": "Isı ile sıcaklık arasındaki fark için aşağıdakilerden hangisi doğrudur?",
+          "sec": [
+            "İkisi de termometre ile ölçülür",
+            "Sıcaklık bir enerji türüdür",
+            "Isı alınıp verilebilen bir enerjidir, sıcaklık ise ölçüm değeridir",
+            "İkisinin de birimi Kalori'dir",
+            "Sıcaklık kalorimetre kabı ile ölçülür"
+          ],
+          "dogru": 2,
+          "aciklama": "Isı aktarılan enerjidir (kalorimetre ile hesaplanır), sıcaklık termometre ile ölçülür."
+        },
+        {
+          "s": "Katılarda basıncı artırmak için aşağıdakilerden hangisi yapılmalıdır?",
+          "sec": [
+            "Yüzey alanını büyütmek",
+            "Ağırlığı azaltmak",
+            "Yüzey alanını küçültmek",
+            "Cismi yatay yatırmak",
+            "Yoğunluğu azaltmak"
+          ],
+          "dogru": 2,
+          "aciklama": "Katı basıncı P = G/S olduğundan temas yüzeyi küçüldükçe basınç artar."
+        },
+        {
+          "s": "Sıvıların kaldırma kuvveti aşağıdakilerden hangisine bağlı değildir?",
+          "sec": [
+            "Sıvının özkütlesine",
+            "Cismin batan hacmine",
+            "Yer çekimi ivmesine",
+            "Cismin yapıldığı maddenin cinsine",
+            "Sıvının yoğunluğuna"
+          ],
+          "dogru": 3,
+          "aciklama": "Fk = Vbatan * dsıvı * g formülünde cismin kendi özkütlesi yer almaz."
+        },
+        {
+          "s": "Ses dalgaları aşağıdaki ortamlardan hangisinde yayılamaz?",
+          "sec": [
+            "Katı",
+            "Sıvı",
+            "Gaz",
+            "Boşluk (Uzay)",
+            "Metal"
+          ],
+          "dogru": 3,
+          "aciklama": "Ses mekanik bir dalgadır; yayılması için maddesel ortama ihtiyaç duyar, boşlukta yayılmaz."
+        },
+        {
+          "s": "Işığın boşluktaki hızı yaklaşık kaç km/s'dir?",
+          "sec": [
+            "300",
+            "3.000",
+            "30.000",
+            "300.000",
+            "3.000.000"
+          ],
+          "dogru": 3,
+          "aciklama": "Işık boşlukta saniyede yaklaşık 300.000 km yol alır."
+        },
+        {
+          "s": "Düzlem aynada oluşan görüntü için aşağıdakilerden hangisi doğrudur?",
+          "sec": [
+            "Gerçektir ve terstir",
+            "Sanaldır (zahiri) ve cisme göre düzdür",
+            "Cisimden her zaman büyüktür",
+            "Cisimden her zaman küçüktür",
+            "Perde üzerine düşürülebilir"
+          ],
+          "dogru": 1,
+          "aciklama": "Düzlem aynada görüntü simetrik, düz, sanal ve cisimle aynı boydadır."
+        },
+        {
+          "s": "Elektrik akımının birimi aşağıdakilerden hangisidir?",
+          "sec": [
+            "Volt",
+            "Ohm",
+            "Amper",
+            "Watt",
+            "Coulomb"
+          ],
+          "dogru": 2,
+          "aciklama": "Elektrik akım şiddetinin SI birimi Amper'dir ve ampermetre ile ölçülür."
+        },
+        {
+          "s": "Aynı cins elektrik yükleri birbirine nasıl bir kuvvet uygular?",
+          "sec": [
+            "Çekme kuvveti",
+            "İtme kuvveti",
+            "Kuvvet uygulamaz",
+            "Sürtünme kuvveti",
+            "Kütle çekim kuvveti"
+          ],
+          "dogru": 1,
+          "aciklama": "Aynı işaretli yükler (++ veya --) birbirini iter, zıt yükler çeker."
+        },
+        {
+          "s": "Bir devrede direnç sabit tutulup gerilim (voltaj) iki katına çıkarılırsa akım nasıl değişir?",
+          "sec": [
+            "Yarıya iner",
+            "Değişmez",
+            "İki katına çıkar",
+            "Dört katına çıkar",
+            "Sıfır olur"
+          ],
+          "dogru": 2,
+          "aciklama": "Ohm Yasası'na (V = I * R) göre direnç sabitken gerilim artarsa akım da aynı oranda artar."
+        },
+        {
+          "s": "Mıknatısların çekim özelliğinin en yoğun olduğu uç bölgelere ne ad verilir?",
+          "sec": [
+            "Ekvator",
+            "Kutup",
+            "Merkez",
+            "Yörünge",
+            "Odak"
+          ],
+          "dogru": 1,
+          "aciklama": "Mıknatısın N (Kuzey) ve S (Güney) uçlarına manyetik kutup denir."
+        }
+      ]
+    },
+    {
+      "baslik": "TYT Kimya & Biyoloji - ÖSYM Karma Deneme (15 Soru)",
+      "sorular": [
+        {
+          "s": "Periyodik sistemde elementler artan hangi özelliğine göre sıralanmıştır?",
+          "sec": [
+            "Kütle numarası",
+            "Atom numarası (Proton sayısı)",
+            "Nötron sayısı",
+            "Atom hacmi",
+            "Yoğunluk"
+          ],
+          "dogru": 1,
+          "aciklama": "Modern periyodik cetvel Henry Moseley'in belirlediği artan atom numarasına göre dizilmiştir."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi saf (arı) madde değildir?",
+          "sec": [
+            "Demir (Fe)",
+            "Saf su (H2O)",
+            "Sofra tuzu (NaCl)",
+            "Tuzlu su",
+            "Oksijen gazı (O2)"
+          ],
+          "dogru": 3,
+          "aciklama": "Tuzlu su fiziksel yollarla oluşan homojen bir karışımdır, saf madde değildir."
+        },
+        {
+          "s": "Suyun (H2O) oda koşullarındaki pH değeri yaklaşık kaçtır?",
+          "sec": [
+            "1",
+            "4",
+            "7",
+            "10",
+            "14"
+          ],
+          "dogru": 2,
+          "aciklama": "Saf su nötr bir maddedir ve 25°C'de pH değeri 7'dir."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi kimyasal bir değişimdir?",
+          "sec": [
+            "Buzun erimesi",
+            "Suyun buharlaşması",
+            "Demirin paslanması",
+            "Kağıdın yırtılması",
+            "Şekerin suda çözünmesi"
+          ],
+          "dogru": 2,
+          "aciklama": "Demirin paslanması oksijenle tepkimeye girerek yeni bir madde oluşturduğu kimyasal olaydır."
+        },
+        {
+          "s": "Atomun çekirdeğinde hangi tanecikler bulunur?",
+          "sec": [
+            "Proton ve Elektron",
+            "Proton ve Nötron",
+            "Nötron ve Elektron",
+            "Yalnızca Proton",
+            "Yalnızca Elektron"
+          ],
+          "dogru": 1,
+          "aciklama": "Atom çekirdeğinde pozitif yüklü protonlar ve yüksüz nötronlar yer alır."
+        },
+        {
+          "s": "Asitlerin sulu çözeltileri mavi turnusol kağıdını hangi renge çevirir?",
+          "sec": [
+            "Sarı",
+            "Yeşil",
+            "Kırmızı",
+            "Mor",
+            "Renksiz"
+          ],
+          "dogru": 2,
+          "aciklama": "Asitler mavi turnusol kağıdını kırmızıya, bazlar ise kırmızı turnusolu maviye çevirir."
+        },
+        {
+          "s": "Aşağıdaki gazlardan hangisi soluduğumuz havada en yüksek oranda bulunur?",
+          "sec": [
+            "Oksijen",
+            "Karbondioksit",
+            "Azot",
+            "Hidrojen",
+            "Helyum"
+          ],
+          "dogru": 2,
+          "aciklama": "Atmosferin yaklaşık %78'i azot, %21'i oksijen gazından oluşur."
+        },
+        {
+          "s": "Canlıların en küçük yapı ve görev birimi aşağıdakilerden hangisidir?",
+          "sec": [
+            "Doku",
+            "Organ",
+            "Hücre",
+            "Sistem",
+            "Organizma"
+          ],
+          "dogru": 2,
+          "aciklama": "Tüm canlılar yapısal ve işlevsel birim olan hücrelerden meydana gelir."
+        },
+        {
+          "s": "Ökaryot hücrelerde enerji (ATP) üretiminden sorumlu organel hangisidir?",
+          "sec": [
+            "Ribozom",
+            "Lizozom",
+            "Mitokondri",
+            "Golgi aygıtı",
+            "Koful"
+          ],
+          "dogru": 2,
+          "aciklama": "Oksijenli solunum yaparak hücrenin enerji santrali gibi çalışan organel mitokondridir."
+        },
+        {
+          "s": "Tüm canlı hücrelerde ortak olarak bulunan ve protein sentezleyen organel hangisidir?",
+          "sec": [
+            "Kloroplast",
+            "Ribozom",
+            "Sentrozom",
+            "Endoplazmik retikulum",
+            "Peroksizom"
+          ],
+          "dogru": 1,
+          "aciklama": "Zarsız bir organel olan ribozom prokaryot ve ökaryot tüm canlılarda ortaktır."
+        },
+        {
+          "s": "Bitkilerde fotosentez olayının gerçekleştiği yeşil renkli organel hangisidir?",
+          "sec": [
+            "Kromoplast",
+            "Lökoplast",
+            "Kloroplast",
+            "Mitokondri",
+            "Lizozom"
+          ],
+          "dogru": 2,
+          "aciklama": "Klorofil pigmenti taşıyan kloroplast ışık enerjisini kullanarak besin ve oksijen üretir."
+        },
+        {
+          "s": "İnsanlarda kalıtsal bilgileri taşıyan DNA molekülü hangi yapıdadır?",
+          "sec": [
+            "Tek zincirli düz",
+            "Çift zincirli sarmal",
+            "Halkasal tek zincir",
+            "Üç zincirli",
+            "Dallanmış zincir"
+          ],
+          "dogru": 1,
+          "aciklama": "DNA molekülü birbirine sarılı iki nükleotid zincirinden (çift sarmal) oluşur."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi enzimlerin çalışma hızını doğrudan etkileyen faktörlerden biridir?",
+          "sec": [
+            "Sıcaklık ve pH",
+            "Hücre rengi",
+            "Işık rengi",
+            "Ses şiddeti",
+            "Manyetik alan"
+          ],
+          "dogru": 0,
+          "aciklama": "Protein yapılı olan enzimler belirli sıcaklık ve pH aralıklarında en iyi şekilde çalışır."
+        },
+        {
+          "s": "Ekosistemde kendi besinini kendisi üreten canlılara ne ad verilir?",
+          "sec": [
+            "Tüketiciler (Heterotrof)",
+            "Üreticiler (Ototrof)",
+            "Ayrıştırıcılar (Saprofit)",
+            "Parazitler",
+            "Etçiller"
+          ],
+          "dogru": 1,
+          "aciklama": "Bitkiler ve algler gibi fotosentez veya kemosentez yapan canlılar üreticidir."
+        },
+        {
+          "s": "İnsanda kan grubu tayininde rol oynayan antijenler hangi kan hücresinin zarında bulunur?",
+          "sec": [
+            "Akyuvar",
+            "Alyuvar",
+            "Kan pulcukları",
+            "Plazma",
+            "Lenf sıvısı"
+          ],
+          "dogru": 1,
+          "aciklama": "A ve B antijenleri ile Rh faktörü alyuvarların hücre zarında yer alır."
+        }
+      ]
+    },
+    {
+      "baslik": "AYT Edebiyat - ÖSYM Karma Deneme (15 Soru)",
+      "sorular": [
+        {
+          "s": "İslamiyet öncesi Türk edebiyatında ölen kişilerin ardından düzenlenen yas törenlerine ve burada okunan şiirlere ne ad verilir?",
+          "sec": [
+            "Koşuk - Şölen",
+            "Sagu - Yuğ",
+            "Sav - Sığır",
+            "Destan - Kopuz",
+            "Gazel - Mersiye"
+          ],
+          "dogru": 1,
+          "aciklama": "Yas törenlerine 'Yuğ', bu törenlerde söylenen ağıtlara ise 'Sagu' denir."
+        },
+        {
+          "s": "Türk edebiyatının bilinen ilk yazılı belgeleri olan Orhun Abideleri hangi alfabeyle yazılmıştır?",
+          "sec": [
+            "Uygur alfabesi",
+            "Göktürk alfabesi",
+            "Arap alfabesi",
+            "Kiril alfabesi",
+            "Soğd alfabesi"
+          ],
+          "dogru": 1,
+          "aciklama": "VIII. yüzyılda dikilen Orhun Yazıtları 38 harfli Göktürk (Köktürk) alfabesiyle yazılmıştır."
+        },
+        {
+          "s": "Divan edebiyatında sevgilinin güzelliğini, aşkı ve şarabı konu alan lirik nazım biçimi hangisidir?",
+          "sec": [
+            "Kaside",
+            "Mesnevi",
+            "Gazel",
+            "Terkib-i Bent",
+            "Rubai"
+          ],
+          "dogru": 2,
+          "aciklama": "5-15 beyit arasında yazılan ve uyak düzeni aa, ba, ca... olan lirik nazım biçimi gazeldir."
+        },
+        {
+          "s": "Türk edebiyatında ilk yerli roman kabul edilen 'Taaşşuk-ı Talat ve Fitnat' kimin eseridir?",
+          "sec": [
+            "Namık Kemal",
+            "Şemsettin Sami",
+            "Ahmet Mithat Efendi",
+            "Recaizade Mahmut Ekrem",
+            "Şinasi"
+          ],
+          "dogru": 1,
+          "aciklama": "Tanzimat dönemi yazarlarından Şemsettin Sami tarafından 1872'de yazılmıştır."
+        },
+        {
+          "s": "Türk edebiyatında ilk edebi roman olarak kabul edilen 'İntibah' hangi yazarımıza aittir?",
+          "sec": [
+            "Namık Kemal",
+            "Ziya Paşa",
+            "Halit Ziya Uşaklıgil",
+            "Mehmet Rauf",
+            "Samipaşazade Sezai"
+          ],
+          "dogru": 0,
+          "aciklama": "Vatan şairi Namık Kemal'in yazdığı İntibah ilk edebi romanımızdır."
+        },
+        {
+          "s": "Batılı anlamda Türk edebiyatının ilk psikolojik romanı olan 'Eylül' kimin eseridir?",
+          "sec": [
+            "Halit Ziya Uşaklıgil",
+            "Mehmet Rauf",
+            "Hüseyin Cahit Yalçın",
+            "Yakup Kadri Karaosmanoğlu",
+            "Peyami Safa"
+          ],
+          "dogru": 1,
+          "aciklama": "Servet-i Fünun dönemi yazarlarından Mehmet Rauf'un yazdığı Eylül ilk psikolojik romandır."
+        },
+        {
+          "s": "Servet-i Fünun edebiyatının en güçlü romancısı olan ve 'Aşk-ı Memnu' ile 'Mai ve Siyah' eserlerini yazan sanatçı kimdir?",
+          "sec": [
+            "Tevfik Fikret",
+            "Cenap Şahabettin",
+            "Halit Ziya Uşaklıgil",
+            "Süleyman Nazif",
+            "Ahmet Hikmet Müftüoğlu"
+          ],
+          "dogru": 2,
+          "aciklama": "Halit Ziya Uşaklıgil, Batılı teknikle modern Türk romanının kurucusu sayılır."
+        },
+        {
+          "s": "Milli Edebiyat akımının öncülerinden olan ve 'Yeni Lisan' makalesini kaleme alan yazar kimdir?",
+          "sec": [
+            "Ömer Seyfettin",
+            "Ziya Gökalp",
+            "Ali Canip Yöntem",
+            "Mehmet Emin Yurdakul",
+            "Reşat Nuri Güntekin"
+          ],
+          "dogru": 0,
+          "aciklama": "1911'de Genç Kalemler dergisinde yayımlanan 'Yeni Lisan' makalesini Ömer Seyfettin yazmıştır."
+        },
+        {
+          "s": "Kurtuluş Savaşı yıllarını ve Anadolu'yu anlatan 'Ateşten Gömlek' romanının yazarı kimdir?",
+          "sec": [
+            "Halide Edip Adıvar",
+            "Yakup Kadri Karaosmanoğlu",
+            "Reşat Nuri Güntekin",
+            "Refik Halit Karay",
+            "Tarık Buğra"
+          ],
+          "dogru": 0,
+          "aciklama": "Kurtuluş Savaşı'nı konu alan ilk roman olan Ateşten Gömlek, Halide Edip Adıvar'a aittir."
+        },
+        {
+          "s": "'Çalıkuşu' romanıyla Anadolu idealizmini işleyen Cumhuriyet dönemi yazarımız kimdir?",
+          "sec": [
+            "Reşat Nuri Güntekin",
+            "Peyami Safa",
+            "Sabahattin Ali",
+            "Ahmet Hamdi Tanpınar",
+            "Orhan Kemal"
+          ],
+          "dogru": 0,
+          "aciklama": "Feride öğretmenin Anadolu'daki mücadelesini anlatan Çalıkuşu, Reşat Nuri Güntekin'in eseridir."
+        },
+        {
+          "s": "İstiklal Marşı'mızın şairi olan ve 'Safahat' adlı eseriyle tanınan sanatçımız kimdir?",
+          "sec": [
+            "Yahya Kemal Beyatlı",
+            "Mehmet Akif Ersoy",
+            "Ahmet Haşim",
+            "Faruk Nafiz Çamlıbel",
+            "Necip Fazıl Kısakürek"
+          ],
+          "dogru": 1,
+          "aciklama": "Mehmet Akif Ersoy tüm şiirlerini Safahat adlı kitabında toplamış, İstiklal Marşı'nı buraya almamıştır."
+        },
+        {
+          "s": "Türk edebiyatında 'Garip Akımı'nın (I. Yeni) kurucuları arasında aşağıdakilerden hangisi yoktur?",
+          "sec": [
+            "Orhan Veli Kanık",
+            "Melih Cevdet Anday",
+            "Oktay Rifat Horozcu",
+            "Cemal Süreya",
+            "Hiçbiri"
+          ],
+          "dogru": 3,
+          "aciklama": "Garip akımı OMO (Orhan Veli, Melih Cevdet, Oktay Rifat) tarafından kurulmuştur; Cemal Süreya II. Yeni şairidir."
+        },
+        {
+          "s": "'Kürk Mantolu Madonna' ve 'Kuyucaklı Yusuf' romanlarının yazarı olan toplumcu gerçekçi sanatçı kimdir?",
+          "sec": [
+            "Sabahattin Ali",
+            "Yaşar Kemal",
+            "Kemal Tahir",
+            "Orhan Kemal",
+            "Fakir Baykurt"
+          ],
+          "dogru": 0,
+          "aciklama": "Raif Efendi ve Maria Puder'in hikayesini anlatan Kürk Mantolu Madonna Sabahattin Ali'nindir."
+        },
+        {
+          "s": "Çukurova insanının doğayla ve ağalık düzeniyle mücadelesini anlatan 'İnce Memed' serisinin yazarı kimdir?",
+          "sec": [
+            "Yaşar Kemal",
+            "Orhan Kemal",
+            "Kemal Tahir",
+            "Tarık Buğra",
+            "Attila İlhan"
+          ],
+          "dogru": 0,
+          "aciklama": "Dünyaca ünlü İnce Memed destansı roman serisi Yaşar Kemal'in başyapıtıdır."
+        },
+        {
+          "s": "Aşağıdakilerden hangisi Divan edebiyatında nesir (düzyazı) türünde yazılmış bir gezi yazısıdır?",
+          "sec": [
+            "Seyahatname - Evliya Çelebi",
+            "Harname - Şeyhi",
+            "Hüsn ü Aşk - Şeyh Galip",
+            "Şikayetname - Fuzuli",
+            "Mantıku't-Tayr - Gülşehri"
+          ],
+          "dogru": 0,
+          "aciklama": "Evliya Çelebi'nin 10 ciltlik Seyahatname'si Türk edebiyatının en önemli gezi yazısıdır."
+        }
+      ]
+    },
+    {
+      "baslik": "TYT Felsefe - ÖSYM Karma Deneme (5 Soru)",
+      "sorular": [
+        {
+          "s": "Felsefenin 'hikmet sevgisi' anlamına gelen Yunanca kökenli adı aşağıdakilerden hangisidir?",
+          "sec": [
+            "Epistemoloji",
+            "Philosophia",
+            "Ontoloji",
+            "Metafizik",
+            "Estetik"
+          ],
+          "dogru": 1,
+          "aciklama": "Philo (sevgi) ve Sophia (bilgelik/hikmet) kelimelerinin birleşiminden oluşur."
+        },
+        {
+          "s": "Bilginin kaynağını yalnızca akıl olarak gören felsefi yaklaşım aşağıdakilerden hangisidir?",
+          "sec": [
+            "Empirizm (Deneycilik)",
+            "Rasyonalizm (Akılcılık)",
+            "Kritisizm (Eleştiricilik)",
+            "Septisizm (Şüphecilik)",
+            "Pragmatizm (Faydacılık)"
+          ],
+          "dogru": 1,
+          "aciklama": "Sokrates, Platon ve Descartes'ın savunduğu rasyonalizme göre doğru bilgiye akılla ulaşılır."
+        },
+        {
+          "s": "Sokrates'in 'Bildiğim tek şey, hiçbir şey bilmediğimdir' sözü felsefenin hangi özelliğini vurgular?",
+          "sec": [
+            "Dogmatik olmasını",
+            "Sorgulayıcı ve eleştirel olmasını",
+            "Kesin sonuçlara ulaşmasını",
+            "Deneysel olmasını",
+            "Öznel olmamasını"
+          ],
+          "dogru": 1,
+          "aciklama": "Felsefe her şeyi bildiğini iddia etmek yerine sürekli sorgulamayı ve araştırmayı esas alır."
+        },
+        {
+          "s": "Varlığın özünü ve ilk nedenini inceleyen felsefe disiplini aşağıdakilerden hangisidir?",
+          "sec": [
+            "Etik",
+            "Estetik",
+            "Ontoloji",
+            "Siyaset Felsefesi",
+            "Bilim Felsefesi"
+          ],
+          "dogru": 2,
+          "aciklama": "Ontoloji (Varlık Felsefesi) varlığın ne olduğunu ve varoluşun temel ilkelerini araştırır."
+        },
+        {
+          "s": "Doğru bilginin ölçütünü 'yararlı ve işe yarar olması' olarak gören akım hangisidir?",
+          "sec": [
+            "Pozitivizm",
+            "Pragmatizm",
+            "Nihilizm",
+            "Realizm",
+            "İdealizm"
+          ],
+          "dogru": 1,
+          "aciklama": "William James ve John Dewey'in temsil ettiği pragmatizme göre fayda sağlayan bilgi doğrudur."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+ "ozet": "Üç kardeşin (tutkulu Dmitri, şüpheci Ivan, içten Alyosha) ve babaları Fyodor Pavloviç'in çevresinde para, kadın ve inanç üzerine bir aile krizi anlatılır. Roman bir aile ve mahkeme hikâyesinin içine Tanrı, adalet ve özgürlük üzerine Dostoyevski'nin en yoğun tartışmalarını yerleştirir.",
+ "temalar": [
+  {"ad": "İnanç ve şüphe", "not": "Ivan'ın isyanı ile Alyosha ve Zosima'nın inancı romanın iki ucudur; kitap bu ikisini sürekli karşı karşıya getirir."},
+  {"ad": "Özgürlük ve otorite", "not": "Büyük Engizisyoncu şiiri, insanın özgürlük mü yoksa huzur ve düzen mi istediği sorusunu ortaya koyar."},
+  {"ad": "Baba ve oğullar", "not": "Fyodor Pavloviç ile oğulları arasındaki ilişki, romanın duygusal ve ahlaki çatışmasının çekirdeğidir."},
+  {"ad": "Sorumluluk ve vicdan", "not": "Zosima'nın öğretisinde herkes herkesin yükünden sorumludur; bu fikir romandaki suç ve suçluluk meselesine yeni bir ışık tutar."},
+  {"ad": "Tutku ve dönüşüm", "not": "Dmitri ve Grushenka'nın hikâyesi, tutkunun insanı hem yıkabileceğini hem de değiştirebileceğini gösterir."}
+ ],
+ "sahneler": [
+  {"yer": "Part I, Book II", "not": "Karamazovlar Zosima'nın yanında toplanır; aile gerginliğinin ilk kez açıkça görüldüğü kalabalık sahne.", "git": ["PART I"]},
+  {"yer": "Part II, Book V, Chapter IV-V", "not": "Ivan, Alyosha'ya çocukların acısı üzerinden Tanrı'ya isyanını anlatır, ardından Büyük Engizisyoncu şiirini okur.", "git": ["PART II"]},
+  {"yer": "Part II, Book VI", "not": "Zosima'nın yaşamı ve öğretileri; Ivan'ın isyanına verilen sessiz bir cevap gibi okunabilir.", "git": ["PART II"]},
+  {"yer": "Part III, Book VII, Chapter III-IV", "not": "Grushenka'nın soğan masalı ve Alyosha'nın Zosima'nın ölümünden sonra yaşadığı ruhsal sarsıntı.", "git": ["PART III"]},
+  {"yer": "Part IV, Book XI, Chapter IX", "not": "Ivan'ın kabusu: kendi düşüncelerinin ona geri dönüşü.", "git": ["PART IV"]},
+  {"yer": "Part IV, Book XII", "not": "Mahkeme bölümü; adaletin ve kamuoyunun ne kadar yanılabilir olduğunu gösterir.", "git": ["PART IV"]},
+  {"yer": "Epilogue, Chapter III", "not": "Alyosha'nın çocuklara taş başındaki konuşması; romanın umut dolu kapanışı.", "git": ["EPILOGUE"]}
+ ],
+ "sorular": [
+  "Ivan'ın çocukların acısı üzerinden kurduğu isyan seni ikna ediyor mu? Zosima ve Alyosha bu isyana nasıl cevap veriyor?",
+  "Büyük Engizisyoncu'nun özgürlük ve mutluluk hakkındaki argümanı hangi noktada güçlü, hangi noktada çöker?",
+  "Babalarının ölümünde üç kardeşin sorumluluğu nedir? Sorumluluk ne demektir?",
+  "Dmitri'nin tutkusu ve cömertliği ile suçluluğu nasıl bir arada duruyor?",
+  "Mahkeme sahnesi adalet ile gerçek arasındaki farkı nasıl gösteriyor?"
+ ],
+ "ipucu": "Bu analiz bir okuma önerisidir, tek doğru yorum değildir. Karakter adları karışırsa 'Kim kimdir?' rehberine bak. Büyük Engizisyoncu kitabın en ünlü kısmıdır; sitede ayrıca tek başına da bulunur."
+}

@@ -1,0 +1,29 @@
+{
+ "ozet": "Anna, soğuk ve ölçülü bir evliliği geride bırakıp subay Kont Vronski'ye aşık olur ve toplumun ikiyüzlü ahlakıyla karşı karşıya kalır. Aynı romanda toprak sahibi Levin'in aşk, evlilik, çiftçilik ve inanç arayışı paralel ilerler.",
+ "temalar": [
+  {"ad": "Aile ve mutsuzluk", "not": "Roman, mutlu ve mutsuz ailelerin nasıl birbirinden ayrıldığını anlatan ünlü bir cümleyle açılır; iki ana hikâye bu cümleyi iki farklı yönden sınar."},
+  {"ad": "Toplumun ikiyüzlülüğü", "not": "Anna, toplumun ahlak kurallarının kimin için nasıl işlediğiyle yüzleşmek zorunda kalır."},
+  {"ad": "Aşk, evlilik ve sadakat", "not": "Anna ve Vronski'nin hikâyesiyle Levin ve Kitty'nin hikâyesi, birbirine zıt iki ilişki biçimini yan yana koyar."},
+  {"ad": "İnanç ve yaşamın anlamı", "not": "Levin 'nasıl yaşamalı?' sorusunun cevabını akılla arar; roman bu aramayı yavaş ve dürüst biçimde izler."},
+  {"ad": "Köy ve şehir", "not": "Levin'in taşradaki hayatı, Petersburg ve Moskova'nın salonlarıyla sürekli karşılaştırılır."},
+  {"ad": "Tren ve ölüm", "not": "Tren romanda ölümle ilişkilendirilen bir sembol olarak tekrar tekrar karşımıza çıkar."}
+ ],
+ "sahneler": [
+  {"yer": "Part I, Chapter I", "not": "Romanın ünlü açılış cümlesi, aile ve mutsuzluk üzerine.", "git": ["PART ONE"], "ara": "Happy families are all alike"},
+  {"yer": "Part I, Chapter XVIII", "not": "Anna ve Vronski Moskova garında karşılaşır; bir bekçinin trenin altında kalması Anna'da kötü bir önsezi bırakır.", "git": ["PART ONE"]},
+  {"yer": "Part II, at yarışı", "not": "Vronski'nin atının yarış sırasında düşmesi; bu sahne sonradan Anna'nın kaderinin habercisi olarak okunur.", "git": ["PART TWO"]},
+  {"yer": "Part III, Chapter IV-VI", "not": "Levin'in köylülerle birlikte orak biçmesi; emeğin ona verdiği huzur.", "git": ["PART THREE"]},
+  {"yer": "Part IV, Chapter XIII", "not": "Levin ve Kitty'nin nişanlanması.", "git": ["PART FOUR"]},
+  {"yer": "Part V, Chapter XVII-XX", "not": "Levin'in ağabeyi Nikolai'nin son günleri; yirminci bölüm 'Death' adını taşır.", "git": ["PART FIVE"], "ara": "extreme unction"},
+  {"yer": "Part VII, Chapter XXXI", "not": "Anna'nın son günü ve tren istasyonundaki sahne.", "git": ["PART SEVEN"]},
+  {"yer": "Part VIII, Chapter XI-XII", "not": "Levin'in köylü Fyodor'la konuşması ve ardından gelen iç aydınlanma.", "git": ["PART EIGHT"], "ara": "He lives for his soul"}
+ ],
+ "sorular": [
+  "Tolstoy, Anna'yı yargılıyor mu yoksa anlamaya mı çalışıyor? Romanın başındaki epigraf (İncil'den bir cümle) bu soruya nasıl ışık tutar?",
+  "Anna'nın ve Levin'in hikâyeleri neden iç içe anlatılmış? Aralarındaki zıtlıklar neler?",
+  "Levin'in iman bulduğu an gerçekten bir çözüm mü, yoksa yeni bir başlangıç mı?",
+  "Toplum Anna'ya ve Vronski'ye neden farklı davranıyor?",
+  "Tren ve ölüm motifi romanda neden tekrar ediyor?"
+ ],
+ "ipucu": "Bu analiz bir okuma önerisidir, tek doğru yorum değildir. Sahnelerde 'Bölüme git' seni ilgili Part'ın başına götürür; bölüm numarasını bulmak için Chrome menüsündeki 'Sayfada bul'u kullanabilirsin."
+}

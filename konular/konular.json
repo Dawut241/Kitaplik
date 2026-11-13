@@ -1,0 +1,68 @@
+[
+  {
+    "baslik": "Suç ve vicdan",
+    "ozet": "Dostoyevski'de suç önce zihinde başlar: Raskolnikov, bazı insanların ahlak kurallarını aşma hakkı olduğu bir kuramı kafasında kurar ve roman bu kuramın insanın içinde nasıl sınandığını anlatır. Tolstoy'da vicdan çoğu zaman ani bir uyanıştır: Diriliş'te Nekhludoff, geçmişte bir kadına yaptığının sonuçlarıyla mahkeme salonunda yüzleşir ve hayatını baştan düşünmeye başlar. İkisi de aynı soruyu sorar: insan kendi yaptığından kaçabilir mi?",
+    "yerler": [
+      {
+        "kitap": "Crime and Punishment",
+        "dosya": "kitaplar/crime-and-punishment.txt",
+        "yer": "Part III, Chapter V",
+        "not": "Porfiry, Raskolnikov'un yazdığı makaleyi konuşur: insanlar 'sıradan' ve 'olağanüstü' diye ikiye ayrılır mı, olağanüstü olanların kuralları aşma hakkı var mı? Kitabın en önemli fikir sahnelerinden biri.",
+        "ara": "all men are divided into",
+        "git": [
+          "PART III",
+          "CHAPTER V"
+        ]
+      },
+      {
+        "kitap": "Crime and Punishment",
+        "dosya": "kitaplar/crime-and-punishment.txt",
+        "yer": "Part V, Chapter IV",
+        "not": "Raskolnikov Sonia'ya içini açar. Sonia'nın tepkisi, romanın vicdan ve kefaret anlayışının merkezidir.",
+        "git": [
+          "PART V",
+          "CHAPTER IV"
+        ]
+      },
+      {
+        "kitap": "Resurrection",
+        "dosya": "kitaplar/resurrection.txt",
+        "yer": "Birinci Kitap, mahkeme sahnesi",
+        "not": "Nekhludoff jüri üyesi olarak mahkemeye gider ve yargılanan kadını tanır. Vicdanının sorgulanması burada başlar."
+      },
+      {
+        "kitap": "Resurrection",
+        "dosya": "kitaplar/resurrection.txt",
+        "yer": "Son bölüm",
+        "not": "Romanın kapanışı; Nekhludoff'un yeni bir hayata bakışı.",
+        "ara": "NEW LIFE DAWNS"
+      }
+    ]
+  },
+  {
+    "baslik": "Ölümle yüzleşme",
+    "ozet": "İki yazar da ölümü uzaktan değil, son anların içinden anlatır. Dostoyevski bunu kendi yaşadığı için bilir: genç yaşta idam sehpasına çıkarılıp son anda affedildi ve Budala'da Prens Myshkin bu deneyimi dinleyenlere anlatır. Tolstoy ölümü bir yatak başında izler: Anna Karenina'da Levin, ağabeyi Nikolai'nin son günlerinde ölümün yakınlığıyla yüz yüze gelir. Biri idam anının dehşetini, diğeri ölümün çıplak gerçekliğini gösterir.",
+    "yerler": [
+      {
+        "kitap": "The Idiot",
+        "dosya": "kitaplar/the-idiot.txt",
+        "yer": "Part I, Chapter II",
+        "not": "Prens Myshkin (metinde Muishkin yazılır) gördüğü bir giyotin idamını anlatır; asıl işkencenin acıdan çok, kaçışın olmadığını bilmek olduğunu söyler.",
+        "ara": "anguish and dread"
+      },
+      {
+        "kitap": "The Idiot",
+        "dosya": "kitaplar/the-idiot.txt",
+        "yer": "Part I, Chapter V",
+        "not": "Myshkin, idam sehpasına kadar götürülüp son anda affedilen bir adamın son dakikalarını anlatır. Dostoyevski'nin kendi yaşadığı olayın izidir."
+      },
+      {
+        "kitap": "Anna Karenina",
+        "dosya": "kitaplar/anna-karenina.txt",
+        "yer": "Part V, Chapter XVII-XX",
+        "not": "Levin ve Kitty, hasta Nikolai'nin yanındadır. Yirminci bölüm 'Death' (Ölüm) adını taşır ve romanda başlığı olan tek bölümdür.",
+        "ara": "extreme unction"
+      }
+    ]
+  }
+]

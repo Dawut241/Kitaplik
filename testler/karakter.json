@@ -1,0 +1,55 @@
+{
+ "baslik": "Hangi karakter sensin?",
+ "sorular": [
+  {"s": "Zor bir karar vermen gerekiyor. Ne yaparsın?", "sec": [
+   {"t": "Uzun uzun düşünür, mantıklı bir gerekçe kurarım", "p": {"ivn": 2, "ras": 1}},
+   {"t": "İçimden gelene uyarım", "p": {"ann": 2, "mys": 1}},
+   {"t": "Güvendiğim biriyle konuşurum", "p": {"aly": 2, "son": 1}},
+   {"t": "Hemen harekete geçer, işi çözerim", "p": {"raz": 2, "lev": 1}}]},
+  {"s": "Hayatta seni en çok ne yorar?", "sec": [
+   {"t": "Başkalarının çektiği acı", "p": {"son": 2, "mys": 1}},
+   {"t": "Her şeyin anlamsız görünmesi", "p": {"lev": 2, "ivn": 1}},
+   {"t": "Sıradan biri olarak kalmak", "p": {"ras": 2, "ann": 1}},
+   {"t": "Yalan ve ikiyüzlülük", "p": {"ivn": 2, "ann": 1}}]},
+  {"s": "Arkadaşların seni nasıl anlatır?", "sec": [
+   {"t": "Zeki ama biraz mesafeli", "p": {"ivn": 2, "ras": 1}},
+   {"t": "Sıcak ve güvenilir", "p": {"raz": 2, "aly": 1}},
+   {"t": "Çok iyi niyetli, biraz saf", "p": {"mys": 2, "son": 1}},
+   {"t": "Tutkulu ve duygusal", "p": {"ann": 2, "lev": 1}}]},
+  {"s": "Hafta sonu için ideal plan?", "sec": [
+   {"t": "Doğada, elimle bir şeyler yapmak", "p": {"lev": 2, "raz": 1}},
+   {"t": "Kitap okuyup düşüncelere dalmak", "p": {"ivn": 2, "ras": 1}},
+   {"t": "Bir arkadaşıma yardım etmek", "p": {"aly": 2, "son": 1}},
+   {"t": "Güzel bir akşam, sohbet ve müzik", "p": {"ann": 2, "mys": 1}}]},
+  {"s": "Büyük bir hata yaptın. Sonra ne yaparsın?", "sec": [
+   {"t": "İçime kapanıp kendimle hesaplaşırım", "p": {"ras": 2, "ivn": 1}},
+   {"t": "Özür diler, düzeltmeye çalışırım", "p": {"son": 2, "aly": 1}},
+   {"t": "Değerlerimi gözden geçirip yeniden başlarım", "p": {"lev": 2, "aly": 1}},
+   {"t": "Açıkça konuşur, sonuçlarına katlanırım", "p": {"mys": 2, "raz": 1}}]},
+  {"s": "Para senin için ne ifade eder?", "sec": [
+   {"t": "Özgürlük ve güç sağlar", "p": {"ras": 2, "ivn": 1}},
+   {"t": "Gerektiği kadarı yeter", "p": {"raz": 2, "lev": 1}},
+   {"t": "Paylaşıldıkça anlamlıdır", "p": {"mys": 2, "aly": 1}},
+   {"t": "Sevdiklerimi korumak için lazım", "p": {"son": 2, "raz": 1}}]},
+  {"s": "Bir tartışmada ne yaparsın?", "sec": [
+   {"t": "Mantıkla karşı argüman kurarım", "p": {"ivn": 2, "ras": 1}},
+   {"t": "Sakin kalıp ortak nokta ararım", "p": {"aly": 2, "mys": 1}},
+   {"t": "Duygularımı saklayamam, açık konuşurum", "p": {"ann": 2, "raz": 1}},
+   {"t": "Dinler, sonra kendi vicdanıma göre karar veririm", "p": {"lev": 2, "son": 1}}]},
+  {"s": "İnanç konusunda hangisine yakınsın?", "sec": [
+   {"t": "Şüphe etmeden inanırım", "p": {"aly": 2, "son": 1}},
+   {"t": "Cevapları akılla ararım, henüz tatmin olmadım", "p": {"ivn": 2, "ras": 1}},
+   {"t": "Arıyorum, bazen buluyorum", "p": {"lev": 2, "mys": 1}},
+   {"t": "Kendi vicdanım benim kılavuzum", "p": {"ras": 2, "ann": 1}}]}
+ ],
+ "sonuclar": {
+  "ras": {"ad": "Raskolnikov", "kitap": "Suç ve Ceza", "aciklama": "Zeki, gururlu ve kendi içine dönüksün. Büyük soruları kafanda çevirir, kendini sürekli sınarsın. Güçlü yanın derin düşünmen. Dikkat etmen gereken, fikirlerinin seni insanlardan koparmaması.", "oku": {"dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+  "ivn": {"ad": "Ivan Karamazov", "kitap": "Karamazov Kardeşler", "aciklama": "Soğukkanlı, analitik ve şüphecisin. Her şeyin cevabını akılla ararsın ve kolay kolay kandırılmazsın. Dikkat etmen gereken, aklının bazen kalbini susturabilmesi.", "oku": {"dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}},
+  "aly": {"ad": "Alyosha", "kitap": "Karamazov Kardeşler", "aciklama": "Yumuşak huylu, içten ve güvenilirsin. İnsanlar sana kolayca açılır, çatışan taraflar arasında köprü olursun.", "oku": {"dosya": "kitaplar/brothers-karamazov.txt", "git": ["PART I"]}},
+  "son": {"ad": "Sonia", "kitap": "Suç ve Ceza", "aciklama": "Sessiz ama güçlüsün. Başkaları için fedakârlık yapar, zor zamanda yanında durursun. İnancın ve şefkatin en büyük gücün.", "oku": {"dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+  "raz": {"ad": "Razumihin", "kitap": "Suç ve Ceza", "aciklama": "Neşeli, cömert ve sadıksın. Zor durumdaki arkadaşına koşan, işleri toparlayan kişisin.", "oku": {"dosya": "kitaplar/crime-and-punishment.txt", "git": ["PART I"]}},
+  "mys": {"ad": "Prens Myshkin", "kitap": "Budala", "aciklama": "Saf, nazik ve açık yüreklisin. İnsanlara iyi niyetle yaklaşırsın, bu yüzden bazen yanlış anlaşılırsın.", "oku": {"dosya": "kitaplar/the-idiot.txt", "git": ["PART I"]}},
+  "lev": {"ad": "Levin", "kitap": "Anna Karenina", "aciklama": "Hayatın anlamını arayan, emeğe ve toprağa yakın birisin. Şüphelerin var ama sade şeylerde cevaplar bulursun.", "oku": {"dosya": "kitaplar/anna-karenina.txt", "git": ["PART ONE"]}},
+  "ann": {"ad": "Anna Karenina", "kitap": "Anna Karenina", "aciklama": "Duygularına dürüst, tutkulu ve canlısın. İkiyüzlülüğe tahammülün yok. Dikkat etmen gereken, duyguların seni zor çatışmalara sürükleyebilmesi.", "oku": {"dosya": "kitaplar/anna-karenina.txt", "git": ["PART ONE"]}}
+ }
+}

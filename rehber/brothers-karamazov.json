@@ -1,0 +1,20 @@
+{
+ "not": "Karamazovlar'da aynı kişi birçok adla anılır: Dmitri Fyodorovitch = Mitya = Mitka = Mitenka. 'Fyodorovitch', 'Fyodor'un oğlu' demektir; kardeşlerin hepsinin baba adı budur (Smerdyakov'un adı da Pavel Fyodorovitch'tir). Çevirideki yazımlar baskıdan baskıya değişir (Zossima/Zosima, Hohlakov/Khokhlakov). Rehber ilk kez okuyanlar için spoiler vermeden yazıldı.",
+ "kisiler": [
+  {"ad": "Fyodor Pavlovitch Karamazov", "not": "Üç oğlun babası; yaşlı, sefih ve çıkarcı bir toprak sahibi. İki kez evlenmiştir ve oğullarıyla ilişkisi çok zayıftır. Smerdyakov'un da büyük olasılıkla babasıdır."},
+  {"ad": "Dmitri", "takma": "Dmitri Fyodorovitch, Mitya, Mitka, Mitenka", "not": "En büyük oğul, subay. Adelaida'dan olan oğludur, yani Ivan ve Alyosha'nın üvey kardeşidir. Tutkulu, patlak ve cömert; babasıyla para ve bir kadın yüzünden çatışır. Katerina Ivanovna'yla nişanlıdır."},
+  {"ad": "Ivan", "takma": "Ivan Fyodorovitch, Vanya, Vanechka", "not": "İkinci oğul. Üniversite eğitimli, soğukkanlı ve şüpheci bir entelektüel; inanç ve ahlak konusunda sert sorular sorar. Alyosha'nın tam kardeşidir."},
+  {"ad": "Alyosha", "takma": "Alexey Fyodorovitch, Alyoshka, Alyoshenka, Lyosha", "not": "Üçüncü oğul ve romanın merkezindeki genç. Yumuşak huylu ve içten, manastırda Zosima'nın öğrencisi. Kardeşleri arasında bir tür köprü ve tanık gibidir."},
+  {"ad": "Smerdyakov", "takma": "Pavel Fyodorovitch", "not": "Fyodor'un hizmetkârı. Söylentilere göre Fyodor'un gayrimeşru oğludur. Zeki ama eğitimi yarım kalmış, içine kapanık biridir; Ivan'ın düşüncelerine ilgisi vardır."},
+  {"ad": "Zosima", "takma": "Father Zossima, starets", "not": "Manastırın yaşlı ve saygın ruhani rehberi (starets). Alyosha'nın hocasıdır; sevgi ve şefkate dayalı bir inanç anlayışını temsil eder."},
+  {"ad": "Grushenka", "takma": "Agrafena Alexandrovna Svetlov", "not": "Kasabanın genç, güzel ve dedikoduları dolaşan kadını. Hem Fyodor hem Dmitri ona tutkundur; bu, baba ile oğul arasındaki çatışmayı keskinleştirir."},
+  {"ad": "Katerina Ivanovna", "takma": "Katya", "not": "Dmitri'nin nişanlısı; gururlu, asil ve karmaşık duygulara sahip bir kadın. Ivan'ın da dikkatini çeker."},
+  {"ad": "Miusov", "takma": "Pyotr Alexandrovitch Miusov", "not": "Dmitri'nin annesinin akrabası; liberal fikirli, kendini beğenmiş bir toprak sahibi. Dmitri'nin velilerinden biridir."},
+  {"ad": "Rakitin", "takma": "Mikhail Osipovitch, Misha", "not": "Din okulu öğrencisi ve Alyosha'nın arkadaşı. Hırslı ve alaycıdır."},
+  {"ad": "Madame Hohlakov ve Lise", "takma": "Khokhlakov", "not": "Kasabanın varlıklı genç dul kadını ve onun genç, kaprisli kızı Lise. Birçok sahne onların evinde geçer; Lise, Alyosha'ya yakınlık duyar."},
+  {"ad": "Grigory Vassilyevitch", "not": "Fyodor'un sadık, ciddi ve ahlaka düşkün hizmetkârı. Anneler ölünce kardeşlere de göz kulak olur; Smerdyakov'u da evlat gibi yetiştirmiştir."},
+  {"ad": "Father Paissy", "not": "Zosima'nın dostu; bilgili ve ağırbaşlı bir rahip."},
+  {"ad": "Father Ferapont", "not": "Manastırdaki başka bir rahip; Zosima'nın şefkat anlayışına karşı çıkan, katı bir kişidir."},
+  {"ad": "Ilusha ve Kaptan Snegiryov", "not": "Ilusha adlı küçük bir okul çocuğu ve babası Kaptan Snegiryov. Romanın ilerleyen bölümlerinde önem kazanırlar."}
+ ]
+}

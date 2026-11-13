@@ -1,0 +1,185 @@
+PROGRAMMIRLEMÄ GIRIŞ
+Online Kitaplyk
+
+BÖLÜM I. Programmirlemäniň Kesgitlemesi
+
+Programmirleme, kompýuteriň ýerine ýetirmeli hereketleriniň yzygiderliligini kesgitli bir dilde beýan etmek işidir. Bu beýannama "programma" diýip atlandyrylýar we belli bir programmirleme dilinde ýazylýar. Kompýuter, adam ýaly manyny çaklap bilmeýär; ol diňe berlen buýruklary takyk tertipde ýerine ýetirýär. Şoňa görä-de, programmirleme diliniň grammatikasy berk kada-kanunlara boýun egýär.
+
+Programmirleme prosesi üç esasy tapgyrdan ybaratdyr: meseläni kesgitlemek, çözgüdiň algoritmini düzmek we ony programmirleme dilinde ýazmak. Algoritm diýlip, meseläni çözmek üçin ädimleriň anyk we çäkli yzygiderliligine aýdylýar. Islendik programma, aslynda, kagyza düşürilen algoritmiň kompýuter diline geçirilen görnüşidir.
+
+BÖLÜM II. Maglumatlaryň Görnüşleri we Üýtgeýjiler
+
+Programmada ulanylýan maglumatlar dürli görnüşlere bölünýär: tutuş sanlar (integer), kesir sanlar (float), tekst setirleri (string) we logiki bahalar (boolean - dogry ýa-da nädogry). Her bir maglumat görnüşi üçin kesgitli amallar kesgitlenendir; mysal üçin, san görnüşli maglumatlar üstünde matematiki amallar ýerine ýetirilip bilner, tekst setirleri bolsa birleşdirilip ýa-da bölünip bilner.
+
+Üýtgeýji (variable) - maglumaty ýadyňa saklamak üçin ulanylýan atlandyrylan gap hökmünde kesgitlenip bilner. Üýtgeýjä bir gezek baha berlenden soň, ol baha programmanyň dowamynda üýtgedilip bilner. Üýtgeýjiniň ady onuň saklaýan maglumatynyň mazmunyny görkezmelidir, bu kodyň düşnükliligini ýokarlandyrýar.
+
+BÖLÜM III. Dolandyryş Gurluşlary: Şertler we Gaýtalamalar
+
+Programmanyň ýerine ýetiriliş tertibini üýtgetmek üçin "dolandyryş gurluşlary" ulanylýar. Şertli operator (if) belli bir logiki şertiň dogry ýa-da nädogrydygyna baglylykda dürli kod böleklerini işe girizmäge mümkinçilik berýär. Şertler bir-biriniň yzyndan baglanyşdyrylyp, has çylşyrymly karar kabul ediş gurluşlary döredilip bilner.
+
+Gaýtalama gurluşlary (loop) bolsa, kesgitli bir hereketi birnäçe gezek gaýtalamak üçin ulanylýar. Iki esasy görnüşi bar: san esasly gaýtalama (belli bir san gezek işlenýär) we şert esasly gaýtalama (belli bir şert dogry bolýança işlenýär). Gaýtalama gurluşlary, uly möçberli maglumatlary işläp geçmekde aýratyn ähmiýete eýedir.
+
+BÖLÜM IV. Funksiýalar we Kodyň Guramaçylygy
+
+Funksiýa - belli bir wezipäni ýerine ýetirýän, atlandyrylan we gaýtadan ulanylyp bilinýän kod bölegidir. Funksiýalaryň ulanylmagy kodyň gaýtalanmagynyň öňüni alýar we programmanyň düzümini düşnükli böleklere bölýär. Funksiýa, girdi hökmünde parametrleri kabul edip biler we işiniň netijesini çykyş hökmünde yzyna gaýtaryp biler.
+
+Uly programmalar ýüzlerçe, hatda müňlerçe funksiýadan ybarat bolup biler. Şonuň üçin, programmirlemede "modullylyk" ýörelgesi möhümdir: uly meseläni kiçi, özbaşdak işleýän böleklere bölmek. Bu ýörelge, kodyň barlagyny, abatlanylmagyny we giňeldilmegini ýeňilleşdirýär.
+
+BÖLÜM V. Maglumat Gurluşlary
+
+Maglumat gurluşy (data structure), birnäçe maglumaty tertipli we netijeli saklamak üçin ulanylýan görnüşdir. Iň ýönekeý maglumat gurluşlarynyň biri sanaw (array ýa-da list) bolup, ol birmeňzeş ýa-da dürli görnüşli maglumatlary yzygiderli tertipde saklaýar. Sanawyň her bir elementine onuň orny (indeks) arkaly ýüz tutulyp bilner.
+
+Beýleki giňden ulanylýan maglumat gurluşy "sözlük" (dictionary ýa-da obýekt) bolup, maglumatlar açar-baha (key-value) jübütleri görnüşinde saklanýar. Bu gurluş, maglumata onuň ornuna görä däl-de, onuň adyna görä ýüz tutmaga mümkinçilik berýär. Maglumat gurluşynyň dogry saýlanylmagy, programmanyň tizligine we netijeliligine gönüden-göni täsir edýär.
+
+BÖLÜM VI. Internet Ulgamynyň Işleýiş Ýörelgesi
+
+Internet, bir-birine birikdirilen kompýuterleriň (serwerleriň we müşderileriň) global ulgamydyr. Müşderi (client) - adatça ulanyjynyň enjamy (telefon, kompýuter), serwer bolsa - maglumaty saklaýan we haýyşlara jogap berýän uzak kompýuterdir. Müşderi serwere HTTP (ýa-da şifrlenen görnüşi bolan HTTPS) teswirnamasy arkaly haýyş iberýär, serwer bolsa degişli maglumaty (meselem, HTML sahypasyny) yzyna gaýtarýar.
+
+Domen ady (meselem, gorayda.github.io) ýatda saklamak aňsat bolan tekst görnüşi bolup, aslynda IP adres diýilýän san toplumyna gabat gelýär. DNS ulgamy domen adyny IP adrese öwürmek işini ýerine ýetirýär. HTTPS teswirnamasy, müşderi bilen serweriň arasyndaky maglumat alyşygyny şifrlemek arkaly üçünji taraplaryň maglumaty okamagynyň öňüni alýar.
+
+BÖLÜM VII. Web Sahypanyň Gurluşy: HTML, CSS we JavaScript
+
+Web sahypasy üç sany tamamlaýjy tehnologiýanyň üstünde gurulýar. HTML (HyperText Markup Language) sahypanyň mazmunyny we gurluşyny kesgitleýär - başlyklar, abzaslar, suratlar we baglanyşyklar ýaly elementler. CSS (Cascading Style Sheets) bolsa bu elementleriň daşky görnüşini - reňkini, ölçegini, ýerleşişini - kesgitleýär.
+
+JavaScript - sahypa işjeňlik goşýan programmirleme dilidir. Ol ulanyjynyň hereketlerine (düwmä basmak, tekst girizmek ýaly) jogap hökmünde sahypanyň mazmunyny dinamiki üýtgedip bilýär. Bu üç tehnologiýanyň utgaşykly ulanylmagy häzirki zaman web sahypalarynyň esasyny düzýär.
+
+BÖLÜM VIII. Maglumatlar Bazasy
+
+Maglumatlar bazasy (database) - uly möçberli maglumaty tertipli saklamak, gözlemek we üýtgetmek üçin ulanylýan ulgamdyr. Iň giňden ýaýran görnüşi gatnaşykly maglumatlar bazasydyr (relational database), bu ýerde maglumat tablisalarda, setirler we sütünler görnüşinde saklanýar.
+
+Maglumatlar bazasyndan maglumat soramak üçin SQL (Structured Query Language) diýilýän ýörite dil ulanylýar. Maglumatlar bazasynyň howpsuzlygy möhüm meseledir: ulanyjy girdisi dogry barlanmasa, "SQL Injection" diýilýän usul bilen zyýanly adam sorag diliniň özüni üýtgedip, rugsatsyz maglumata ýetip biler. Şoňa görä, ulanyjy girdisi hemişe "parametrleşdirilen sorag" usuly bilen işlenmelidir.
+
+BÖLÜM IX. Wersiýa Dolandyryş Ulgamlary
+
+Programma üpjünçiligini ösdürmek işinde kodyň wagtyň geçmegi bilen üýtgemegini yzarlamak zerurdyr. Wersiýa dolandyryş ulgamy (meselem, Git) kodyň her bir üýtgemesini taryhy ýazgy hökmünde saklaýar, bu bolsa zerur bolan halatynda öňki wersiýa dolanmaga mümkinçilik berýär. Git ýaly ulgamlar, köp adamyň bir proýektiň üstünde utgaşykly işlemegini hem üpjün edýär.
+
+GitHub ýaly hyzmatlar, Git ulgamynyň üstünde gurlup, kody internetde saklamaga we paýlaşmaga mümkinçilik berýär. Bu kitaphananyň özi hem GitHub hyzmaty arkaly ählumumy elýeterli edilendir.
+
+BÖLÜM X. Programma Üpjünçiliginiň Howpsuzlygy
+
+Howpsuzlyk, programma üpjünçiligini ösdürmekde goşmaça aýratynlyk däl-de, esasy talaplaryň biridir. Iň giňden ýaýran gowşaklyklaryň biri XSS (Cross-Site Scripting) bolup, bu ýerde ulanyjy girdisi barlagsyz sahypada görkezilende, zyýanly kod işledilip bilner. Bu gowşaklygyň öňüni almak üçin ulanyjy girdisi hemişe tekst hökmünde işlenmelidir, HTML kody hökmünde däl.
+
+Parol ýaly gizlin maglumatlar hiç haçan açyk görnüşde saklanmaly däldir. Olar "hash funksiýasy" arkaly yzyna öwrülmesiz görnüşe getirilmelidir, şeýle hem "tuz" (salt) goşulyp, meňzeş parollaryň meňzeş hash bermeginiň öňi alynmalydyr. Howpsuzlyk, aýratyn-da maliýe we şahsy maglumat bilen işleýän ulgamlarda, hemişelik üns talap edýän ugurdyr.
+
+BÖLÜM XI. Emeli Intellekt we Maşyn Öwrenişi
+
+Soňky ýyllarda emeli intellekt (AI) we maşyn öwrenişi (machine learning) programmirlemäniň möhüm pudagyna öwrüldi. Adaty programmirlemede programmist her bir ädimi takyk kesgitleýär, maşyn öwrenişinde bolsa ulgam uly möçberli maglumatdan nusgalary özi tapýar we olaryň esasynda çaklama ýa-da karar çykarýar.
+
+Bu tehnologiýa tekst düşünmek, surat tanamak, dil terjime etmek ýaly köp sanly amaly ugurda ulanylýar. Emeli intellekt ulgamlarynyň netijeliligi, olaryň öwredilen maglumatynyň hiline we möçberine gönüden-göni baglydyr.
+
+BÖLÜM XII. Hünär Ugry: Nireden Başlap, Nädip Dowam Etmeli
+
+Programmirlemäni öwrenmek yzygiderli we tapgyrlaýyn çemeleşmäni talap edýär. Başlangyç tapgyrda HTML we CSS bilen tanyşmak maslahat berilýär, sebäbi bu ikisi görnükli netijäni çalt berýär. Ondan soň JavaScript bilen sahypa işjeňlik goşmagy, soňra bolsa Python ýaly umumy maksatly dil bilen dowam etmegi makul hasaplanýar.
+
+Nazary bilimden başga-da, amaly tejribe örän möhümdir: kiçi taslamalar üstünde işlemek, ýalňyşlyklary tapmak we düzetmek arkaly iň çuň öwreniş gazanylýar. Bu kitaphananyň "PRO Kodlama Akademiýasy" bölümi, şu ýerde beýan edilen düşünjeleriň her birini amaly mysallar bilen içgin öwretmäge gönükdirilendir.
+
+BÖLÜM XIII. Algoritmleriň Netijeliligi we Çylşyrymlylygy
+
+Programma üpjünçiliginiň diňe dogry netije bermegi ýeterlik däldir, ol uly möçberli maglumatlar bilen işlände hem çalt we tygşytly bolmalydyr. Algoritmleriň netijeliligi adatça wagt çylşyrymlylygy we ýat sarp edilişi boýunça bahalandyrylýar. Programmirlemede bu görkezijini aňlatmak üçin "Big O" belgilemesi ulanylýar.
+
+Maglumatlary gözlemek ýa-da tertiplemek üçin saýlanan algoritmiň görnüşi ulgamyň tizligine gönüden-göni täsir edýär. Dogry gurlan algoritm serwer ýükini azaldýar we enjamyň batareýa hem-de prosessor mümkinçiliklerini rejeli ulanmaga şert döredýär.
+
+BÖLÜM XIV. API we Serwer Aragatnaşygy
+
+Häzirki zaman web sahypalary we mobil programmalar maglumatlary diňe öz içinde saklamaýar, eýsem uzakdaky serwerler bilen yzygiderli maglumat alyş-çalşygyny amala aşyrýar. Bu aragatnaşyk API (Application Programming Interface) arkaly ýerine ýetirilýär. Müşderi tarapy serwere talap iberýär, serwer bolsa degişli maglumaty gaýtaryp berýär.
+
+Maglumat alyş-çalşygynda iň giňden ýaýran format JSON bolup, ol hem adam tarapyndan okalmaga, hem-de programma tarapyndan işlenmäge amatlydyr. API ulgamlarynyň durnukly we ygtybarly işlemegi programma üpjünçiliginiň bökdençsiz hyzmat bermeginiň esasy şertidir.
+
+BÖLÜM XV. Kriptografiýa we Maglumatlary Şifrlemek
+
+Sanly giňişlikde maglumatlaryň gizlinligini we bitewiligini üpjün etmek üçin kriptografiýa usullary ulanylýar. Şifrleme, açyk teksti diňe degişli açara eýe bolan tarapyň okap biljek ýapyk görnüşine öwürmek işidir. Häzirki zaman gorag ulgamlarynda AES ýaly simmetrik we RSA ýaly asimmetrik şifrleme standartlary giňden peýdalanylýar.
+
+Internet ulgamynda maglumatlaryň ýolda ele salynmagynyň öňüni almak üçin HTTPS protokoly ulanylýar. Kriptografiýa esaslaryna dogry düşünmek, ulanyjy maglumatlaryny goramakda we ygtybarly programma üpjünçiligini döretmekde möhüm ähmiýete eýedir.
+
+BÖLÜM XVI. Mobil Programma Döretmek
+
+Häzirki döwürde ulanyjylaryň aglaba bölegi internete smartfonlary arkaly girýär, şonuň üçin mobil programma üpjünçiligi aýratyn ähmiýete eýedir. Mobil programmalar Android we iOS ulgamlary üçin ýörite dillerde (Kotlin, Swift) ýa-da iki platformada hem işleýän kross-platforma gurallary (Flutter, React Native) arkaly döredilýär.
+
+Şeýle hem, web sahypalaryny mobil programma görnüşinde ulanmaga mümkinçilik berýän PWA (Progressive Web App) tehnologiýasy giňden ýaýrandyr. PWA ulgamy sahypanyň internetsiz ýagdaýda hem işläp bilmegini we telefonyň esasy ekranyna gurnalmagyny üpjün edýär.
+
+BÖLÜM XVII. Bulut Tehnologiýalary we Hosting
+
+Döredilen web sahypanyň ýa-da programmanyň ähli ulanyjylar üçin elýeterli bolmagy üçin ol uzakdaky serwerlerde ýerleşdirilmelidir. Bu hyzmat hosting ýa-da bulut (cloud) tehnologiýasy diýlip atlandyrylýar. Statik sahypalar üçin GitHub Pages ýaly mugt platformalar, uly ulgamlar üçin bolsa bulut serwerleri ulanylýar.
+
+Bulut tehnologiýalarynyň esasy artykmaçlygy, ulanyjy sany artdygyça serwer güýjüni çalt we bökdençsiz giňeltmek mümkinçiligidir. Bu bolsa ulgamyň hemişe durnukly işlemegine şert döredýär.
+BÖLÜM XVIII. Programma Synagy we Ýalňyşlyklary Tapmak
+
+Kody ýazmak işiniň diňe bir bölegidir; onuň dürli şertlerde dogry işleýändigini barlamak hem şonça möhümdir. Bu iş programma synagy (testing) we ýalňyşlyklary düzetmek (debugging) diýlip atlandyrylýar. Synag işleri kodyň iň kiçi böleklerinden başlap, tutuş ulgamyň bitewi işleýşine çenli geçirýär.
+
+Yzygiderli synag geçirmek, programma göni ýaýlyma çykmazdan öň gizlin säwlikleri ýüze çykarmaga kömek edýär. Netijede ulanyjylar üçin has ygtybarly we kämil önüm hödürlenýär.
+
+BÖLÜM XIX. Açyk Çeşmeli Taslamalar we GitHub Ekoulgamy
+
+Açyk çeşmeli (open source) programma üpjünçiligi, başlangyç kody hemmeler üçin açyk bolan we dünýäniň dürli künjegindäki programmistler tarapyndan bilelikde kämilleşdirilýän taslamalardyr. Häzirki zaman operasion ulgamlarynyň, programmirleme dilleriniň we kitaphanalarynyň köpüsi şu ýörelge esasynda ösdürilýär.
+
+GitHub platformasy bu ekoulgamyň merkezinde durup, programmistlere taýýar kodlary öwrenmäge, öz taslamalaryny paýlaşmaga we halkara bileleşik bilen bilelikde işlemäge mümkinçilik berýär.
+
+BÖLÜM XX. Ulgam Binagärligi we Ýokary Ýükli Saýtlar
+
+Bir wagtda millionlarça ulanyjyny kabul edýän uly platformalar ýörite ulgam binagärligi (system design) kadalary esasynda gurulýar. Şeýle ulgamlarda maglumatlary çalt bermek üçin keşleme (caching) usullary ulanylýar we gelýän talaplar birnäçe serweriň arasynda deň paýlanýar.
+
+Dogry meýilleşdirilen binagärlik, ulgamyň ýokary agram astynda hem haýallamazdan we kesilmezden işlemegini kepillendirýär. Bu ugur tejribeli programmistleriň iň möhüm hünär başarnyklarynyň biridir.
+
+BÖLÜM XXI. Operasion Ulgamlar we Terminalyň Esaslary
+
+Her bir programma üpjünçiligi operasion ulgamyň (Linux, Windows, Android, macOS) dolandyryşy astynda işleýär. Operasion ulgam enjamyň prosessoryny, ýadyny we faýl ulgamyny programmalaryň arasynda tertipli paýlaýar.
+
+Professional programmistler üçin Linux operasion ulgamyny we buýruk setirini (terminal) bilmek aýratyn ähmiýete eýedir. Terminal arkaly serwerleri dolandyrmak, awtomatlaşdyrylan skriptleri işletmek we ulgam proseslerine gözegçilik etmek has çalt we netijeli amala aşyrylýar.
+
+BÖLÜM XXII. Kompýuter Torlary we Protokollar
+
+Kompýuter torlary enjamlaryň özara maglumat alyş-çalşygyny üpjün edýän tehniki infrastrukturadyr. Bu aragatnaşyk TCP/IP protokollar toplumy, IP salgylary we domen atlaryny IP salgylaryna öwürýän DNS ulgamy arkaly dolandyrylýar.
+
+Tor protokollarynyň işleýiş ýörelgesine düşünmek, web programmalarynyň tizligini artdyrmakda, birikme säwliklerini çözmekde we tor howpsuzlygyny üpjün etmekde esasy binýat bolup hyzmat edýär.
+
+BÖLÜM XXIII. Programma Üpjünçiliginiň Binagärligi we Arassa Kod
+
+Uly taslamalarda diňe işleýän kod ýazmak ýeterlik däldir; şol kody geljekde okamak, täzelemek we giňeltmek hem aňsat bolmalydyr. Bu ýörelge "Arassa Kod" (Clean Code) we programma binagärligi düşünjeleri bilen baglanyşyklydyr.
+
+Kody düşnükli atlandyrmak, uly meseleleri kiçi we garaşsyz modullara bölmek hem-de gaýtalanmalardan gaça durmak toparda işlemekde we taslamanyň uzak möhletli durnuklylygynda aýgytly orun eýeleýär.
+
+BÖLÜM XXIV. Uly Maglumatlar we Maglumat Derňewi
+
+Häzirki zaman sanly ulgamlary her sekuntda ägirt uly möçberde maglumat öndürýär. Bu maglumatlary ýygnamak, arassalamak we olardan peýdaly netijeleri çykarmak ugry maglumat derňewi (Data Science) we uly maglumatlar (Big Data) tehnologiýasy diýlip atlandyrylýar.
+
+Maglumat derňewi statistika, algoritmler we programmirleme gurallaryny birleşdirip, ykdysadyýetde, lukmançylykda we inženerçilikde takyk kararlary kabul etmäge mümkinçilik berýär.
+
+BÖLÜM XXV. Tehnologiki Ösüş we Üznüksiz Öwrenmek Medeniýeti
+
+Maglumat tehnologiýalary dünýäde iň çalt ösýän pudaklaryň biridir we täze gurallar, protokollar hem-de usullar yzygiderli peýda bolýar. Şu sebäpden programmist üçin üznüksiz öwrenmek we özbaşdak gözleg geçirmek hünär endigine öwrülmelidir.
+
+Şeýle hem, sanly tehnologiýalary döretmekde we ulanmakda kanuny kadalara hem-de hünär etikasyna berk eýermek jemgyýetiň howpsuzlygy we tehnologiýanyň adamzat bähbidine hyzmat etmegi üçin esasy şertdir.
+
+BÖLÜM XXVI. Obyekte Gönükdirilen Programmirleme (OOP)
+
+Uly we çylşyrymly programmalary tertipli gurmak üçin Obyekte Gönükdirilen Programmirleme (OOP) çemeleşmesi ulanylýar. Bu usulda maglumatlar we şol maglumatlar bilen işleýän funksiýalar "klas" (class) we "obýekt" (object) görnüşinde birleşdirilýär.
+
+Mirasdüşerlik (inheritance) we kapsulirleme (encapsulation) ýaly OOP ýörelgeleri kody gaýtadan ulanmaga, ulgamy böleklere bölüp dolandyrmaga we uly toparlarda sazlaşykly işlemäge mümkinçilik berýär.
+
+BÖLÜM XXVII. DevOps we Awtomatlaşdyrylan Ýaýlym (CI/CD)
+
+Häzirki zaman programma önümçiliginde kody ýazmak bilen ony serwere ýerleşdirmek prosesi DevOps medeniýeti arkaly birleşdirilýär. CI/CD (Üznüksiz Integrasiýa we Üznüksiz Ýaýlym) ulgamlary täze ýazylan kody awtomatiki barlaýar we ýalňyşlyk ýok bolsa göni işjeň saýta geçirýär.
+
+Bu awtomatlaşdyrma adam ýalňyşlyklaryny azaldýar we programma täzelenmelerini ulanyjylara has çalt ýetirmäge şert döredýär.
+
+BÖLÜM XXVIII. Konteýner Tehnologiýalary we Wirtualizasiýa
+
+Programmanyň bir kompýuterde dogry işläp, başga bir serwerde säwlik bermeginiň öňüni almak üçin konteýner tehnologiýalary (meselem, Docker) ulanylýar. Konteýner programmany we oňa gerekli ähli kitaphanalary ýeke-täk izolirlenen bukjada jemleýär.
+
+Şeýlelikde programma islendik operasion ulgamda we bulut serwerinde birmeňzeş durnuklylyk bilen işleýär.
+
+BÖLÜM XXIX. UI/UX Dizaýn we Ulanyjy Tejribesi
+
+Programma üpjünçiliginiň tehniki taýdan güýçli bolmagy bilen bir hatarda, ulanyjy üçin düşnükli we amatly bolmagy hem möhümdir. UI (Ulanyjy Interfeýsi) sahypanyň daşky görnüşini, UX (Ulanyjy Tejribesi) bolsa ulanyjynyň ulgamdan nähili rahat peýdalanýandygyny aňladýar.
+
+Ýönekeý nawigasiýa, okalmasy aňsat şriftler we dürli ekran ölçeglerine uýgunlaşýan (responsive) gurluş saýtyň üstünligini kesgitleýän esasy faktorlardyr.
+
+BÖLÜM XXX. Kiberhowpsuzlyk Medeniýeti we Sanly Gigiena
+
+Tehnologiýa näçe ösdügiçe, maglumat howpsuzlygyny üpjün etmek şonça-da möhüm bolýar. Güýçli we gaýtalanmaýan parollary ulanmak, iki basgançakly tassyklamany (2FA) işjeňleşdirmek we resmi däl çeşmelerden faýl ýüklemezlik sanly gigienanyň esasy kadalarydyr.
+
+Programmistler we ulanyjylar üçin howpsuzlyk endiklerini gündelik durmuşa ornaşdyrmak şahsy maglumatlary we sanly taslamalary goramagyň iň ygtybarly ýoludyr.
+
+JEMLEME
+
+Programmirleme, kesgitli kadalara esaslanýan, yzygiderli öwreniş we amaly türgenleşik talap edýän ugurdyr. Bu 30 baplyk kitapda beýan edilen esasy düşünjeler — algoritmler, maglumat gurluşlary, OOP, web we mobil tehnologiýalar, maglumatlar bazasy, API, tor protokollary, operasion ulgamlar, kriptografiýa, howpsuzlyk, DevOps, konteýnerler, UI/UX, emeli intellekt, bulut we ulgam binagärligi — häzirki zaman professional programma üpjünçiliginiň doly binýadyny düzýär.

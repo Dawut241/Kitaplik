@@ -1,0 +1,24 @@
+{
+ "not": "Rusça isimler üç parçadır: ad, baba adı, soyad. Rodion Romanovitch Raskolnikov'da Romanovitch 'Roman'ın oğlu' demektir; kadınlarda -ovna olur (Avdotya Romanovna: Roman'ın kızı). Yakınlar kısa adla seslenir (Rodya, Dounia), saygılı konuşmada ad ve baba adı kullanılır (Porfiry Petrovitch). Bu yüzden aynı kişi sayfadan sayfaya farklı adlarla geçer. Rehber ilk kez okuyanlar için spoiler vermeden yazıldı.",
+ "kisiler": [
+  {"ad": "Raskolnikov", "takma": "Rodion Romanovitch, Rodya, Rodka", "not": "Romanın merkezindeki genç. Eski öğrenci, çok yoksul, Petersburg'da dar bir odada yaşıyor. Zeki, gururlu ve kendi içine kapanık."},
+  {"ad": "Razumihin", "takma": "Dmitri Prokofitch", "not": "Raskolnikov'un eski üniversite arkadaşı. Fakir ama neşeli, cömert ve sadık; zor anlarda yanında olan kişi."},
+  {"ad": "Dounia", "takma": "Avdotya Romanovna", "not": "Raskolnikov'un kız kardeşi. Zeki, onurlu ve kararlı; ailesi için büyük fedakârlıklara hazır."},
+  {"ad": "Pulcheria Alexandrovna", "not": "Raskolnikov'un annesi. Taşrada yaşayan, oğluna düşkün, onun için sürekli endişelenen dul bir kadın."},
+  {"ad": "Sonia", "takma": "Sofya Semyonovna Marmeladova, Sonya", "not": "Marmeladov'un genç kızı. Sessiz, yumuşak başlı ve derin inançlı; ailesini ayakta tutmak için ağır bir hayata katlanıyor."},
+  {"ad": "Marmeladov", "takma": "Semyon Zakharovitch", "not": "İşini kaybetmiş, içkiye düşmüş eski memur. Raskolnikov'la bir meyhanede tanışır ve ona hayatını anlatır."},
+  {"ad": "Katerina Ivanovna", "not": "Marmeladov'un ikinci karısı, Sonia'nın üvey annesi. Hasta ve gururlu; geçmişteki iyi günlerinin anısıyla yaşıyor, üç küçük çocuğa (Polenka, Lida, Kolya) bakıyor."},
+  {"ad": "Porfiry Petrovitch", "not": "Cinayet soruşturmasını yürüten kurnaz müfettiş; Razumihin'in uzak akrabası. Psikolojiyi iyi bilir, kibar konuşur ama sorularıyla sıkıştırır."},
+  {"ad": "Luzhin", "takma": "Pyotr Petrovitch", "not": "Dounia'nın nişanlısı. Orta yaşlı, varlıklı ve gösterişe düşkün bir hesap adamı."},
+  {"ad": "Svidrigailov", "takma": "Arkady Ivanovitch", "not": "Dounia'nın eskiden yanında çalıştığı toprak sahibi. Kötü bir şöhreti var. Başta yalnızca mektuplarda adı geçer, kendisi sonradan sahneye çıkar."},
+  {"ad": "Marfa Petrovna", "not": "Svidrigailov'un karısı; Dounia'nın geçmişinde adı geçer."},
+  {"ad": "Alyona Ivanovna", "not": "Eşyaları rehin alıp faizle borç veren yaşlı kadın."},
+  {"ad": "Lizaveta Ivanovna", "not": "Alyona Ivanovna'nın uysal kız kardeşi (üvey); onunla birlikte yaşıyor."},
+  {"ad": "Zossimov", "not": "Genç doktor, Razumihin'in tanıdığı."},
+  {"ad": "Zametov", "takma": "Alexandr Grigorievitch", "not": "Karakolda baş katip; Razumihin'in tanıdığı."},
+  {"ad": "Nikodim Fomitch ve Ilya Petrovitch", "not": "Karakolun yetkilileri; Nikodim Fomitch polis şefi, Ilya Petrovitch onun yardımcısı."},
+  {"ad": "Pashenka", "takma": "Praskovya Pavlovna Zarnitsyn", "not": "Raskolnikov'un ev sahibesi."},
+  {"ad": "Nastasya", "not": "Ev sahibesinin hizmetçisi; Raskolnikov'a ara sıra yemek getirir, ona göz kulak olur."},
+  {"ad": "Lebeziatnikov", "takma": "Andrey Semyonovitch", "not": "Luzhin'in genç arkadaşı ve ev arkadaşı; çağın yeni, ileri fikirlerinin hevesli savunucusu."}
+ ]
+}

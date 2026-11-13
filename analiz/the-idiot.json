@@ -1,0 +1,35 @@
+{
+  "ozet": "İsviçre'den Rusya'ya dönen saf ve nazik Prens Myshkin, Petersburg toplumunun içine düşer. İyiliği ve açık yüreklilikle yaşayan bu adam, para, kıskançlık ve gurur dolu bir çevrede sürekli yanlış anlaşılır.",
+  "temalar": [
+    {
+      "ad": "İyilik ve budalalık",
+      "not": "Myshkin'in iyiliği çevresindekilere saflık gibi görünür; roman iyilikle budalalık arasındaki çizginin nerede durduğunu sorar."
+    },
+    {
+      "ad": "Toplum ve para",
+      "not": "Rogozhin'in getirdiği yüz bin ruble gibi sahneler, paranın insan ilişkilerini nasıl çarpıttığını gösterir."
+    },
+    {
+      "ad": "Ölüm ve idam",
+      "not": "Myshkin'in anlattığı idam hikâyeleri, Dostoyevski'nin kendi yaşadığı sahte idamın izlerini taşır."
+    },
+    {
+      "ad": "İnanç ve inançsızlık",
+      "not": "Holbein'in 'Ölü İsa' tablosu, romanın inanç tartışmasının sembolüdür."
+    },
+    {
+      "ad": "Güzellik ve acı",
+      "not": "Nastasya Filippovna'nın güzelliği hem çekim hem acı kaynağıdır; romanın birçok olayı bu çekimin etrafında döner."
+    }
+  ],
+  "sahneler": [
+    {
+      "yer": "Part I, Chapter II",
+      "not": "Myshkin, gördüğü bir giyotin idamını anlatır; asıl işkencenin kaçışın olmadığını bilmek olduğunu söyler.",
+      "git": [
+        "PART I"
+      ],
+      "ara": "anguish and dread"
+    }
+  ]
+}
