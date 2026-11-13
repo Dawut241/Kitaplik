@@ -94,7 +94,7 @@
         const h = document.createElement("h3");
         h.textContent = (kilit ? "🔒 " : "") + d.baslik;
         const p = document.createElement("p");
-        p.textContent = d.aciklama;
+        p.textContent = d.aciklama; p.style.whiteSpace = "pre-wrap"; p.style.lineHeight = "1.6";
         k.append(h, p);
         if (kilit) {
           const uy = document.createElement("div");
