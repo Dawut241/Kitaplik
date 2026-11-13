@@ -673,7 +673,7 @@
     "yazar": "Online Kitaplyk",
     "dosya": "kitaplar/programmirlemage-giris.txt",
     "bolumler": {
-      "bolum": "^BÖLÜM [IVX]+\\."
+      "bolum": "^BÖLÜM [IVXL]+\\."
     }
   }
 ]

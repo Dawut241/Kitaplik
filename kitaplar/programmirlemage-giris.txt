@@ -183,3 +183,153 @@ Programmistler we ulanyjylar üçin howpsuzlyk endiklerini gündelik durmuşa or
 JEMLEME
 
 Programmirleme, kesgitli kadalara esaslanýan, yzygiderli öwreniş we amaly türgenleşik talap edýän ugurdyr. Bu 30 baplyk kitapda beýan edilen esasy düşünjeler — algoritmler, maglumat gurluşlary, OOP, web we mobil tehnologiýalar, maglumatlar bazasy, API, tor protokollary, operasion ulgamlar, kriptografiýa, howpsuzlyk, DevOps, konteýnerler, UI/UX, emeli intellekt, bulut we ulgam binagärligi — häzirki zaman professional programma üpjünçiliginiň doly binýadyny düzýär.
+
+BÖLÜM XXXI. Hasaplaýjy Taslamasy: Ilkinji Proýekt
+
+Hasaplaýjy taslamasy başlangyç derejesindäki programmistler üçin iň amatly ilkinji proýektleriň biridir. Bu taslama ulanyjydan san girizmegi, amal saýlamagy we netijäni görkezmegi öwredýär.
+Taslamanyň binýady dört bölekden ybaratdyr: girizme meýdany, amal düwmeleri, hasaplama funksiýasy we netije meýdany. Her bölek aýry ýerine ýetirilmelidir.
+Hasaplama funksiýasy iki sany san we bir amal belgisini kabul edýär. Bölmek amalynda bölüjiniň nola deň bolmagy ýagdaýy hökman barlanmalydyr, ýogsam programma ýalňyşlyk berýär.
+Ulanyjynyň girizen maglumaty hemişe barlanmalydyr. San däl bahalar kabul edilmeli däldir we ulanyja düşnükli ýalňyşlyk habary görkezilmelidir.
+Taslama tamamlanandan soň ony giňeltmek maksadalaýykdyr: hasaplama taryhy, göterim hasaplamasy we klawiatura goldawy goşulyp bilner.
+
+BÖLÜM XXXII. Ýerine Ýetirilýän Işler Sanawy
+
+Ýerine ýetirilýän işler sanawy maglumatlary saklamagy we dolandyrmagy öwredýän klassiki proýektdir.
+Bu taslamada ulanyjy täze iş goşup, ony tamamlanan diýip belläp ýa-da pozup biler. Şeýlelikde dört esasy amal ýerine ýetirilýär: döretmek, okamak, täzelemek we pozmak.
+Maglumatlar sanaw görnüşinde saklanýar. Her iş tekstden we ýagdaý bahasyndan durýar.
+Sahypa täzelenende maglumatlaryň ýitmezligi üçin brauzeriň ýerli ýadyny ulanmak maslahat berilýär.
+Ulanyjynyň girizen tekstini sahypa goýanda howpsuzlyk sebäpli diňe tekst hökmünde görkezmek zerurdyr.
+
+BÖLÜM XXXIII. Howa Maglumaty Programmasy we API
+
+Howa maglumaty programmasy daşarky çeşmeden maglumat almagy öwredýär. Bu maksat bilen API düşünjesi ulanylýar.
+API iki programmanyň özara maglumat alyşmagy üçin kesgitlenen interfeýsdir. Programma haýyş ibermek arkaly serwerden jogap alýar.
+Jogap köplenç JSON görnüşinde gelýär. Programma bu maglumaty okap, şäher ady, temperatura we çyglylyk ýaly bölekleri aýyrýar.
+Tor baglanyşygynyň bolmazlygy ýa-da serweriň jogap bermezligi mümkindir. Şonuň üçin ýalňyşlyk ýagdaýlaryny dolandyrmak hökmandyr.
+API açarlary gizlin maglumatdyr we açyk sahypa koduna ýazylmaly däldir.
+
+BÖLÜM XXXIV. Ýalňyşlyk Tapmak we Düzetmek
+
+Ýalňyşlyk tapmak programmirlemegiň aýrylmaz bölegidir. Hünärmen programmistler hem wagtynyň ep-esli bölegini ýalňyşlyk gözlemäge sarp edýär.
+Esasy ädimler şulardyr: ýalňyşlygy gaýtadan döretmek, ýerini kesgitlemek, sebäbini düşünmek we düzetmek.
+Brauzeriň konsoly ýalňyşlyk habarlaryny görkezýär. Habardaky faýl adyny we setir belgisini okamak ýalňyşlygyň ýerini tapmaga kömek edýär.
+Maglumatyň ýagdaýyny barlamak üçin console.log buýrugy ulanylýar. Has çylşyrymly ýagdaýlarda brauzeriň duralga nokatlary ulanylýar.
+Ýalňyşlyk düzedilenden soň, ol gaýtalanmaz ýaly täzeden barlamak zerurdyr.
+
+BÖLÜM XXXV. Git bilen Işlemek
+
+Git faýllardaky üýtgeşmeleriň taryhyny saklaýan wersiýa dolandyryş ulgamydyr.
+Esasy buýruklar: git init, git add, git commit we git push. Her commit aýdyň we gysga habar bilen ýazylmalydyr.
+Aýry işler üçin şahalar (branch) döredilýär. Esasy şaha hemişe durnukly ýagdaýda saklanmalydyr.
+Token, parol we şahsy maglumatlar repozitoriýa goşulmaly däldir. Şeýle faýllar .gitignore faýlynda görkezilýär.
+Her ullanyş öň üýtgeşmeleri barlamak üçin git status we git diff buýruklary ulanylýar.
+
+BÖLÜM XXXVI. Şahsy Portfolio Sahypasy
+
+Portfolio sahypasy programmistiň ýerine ýetiren işlerini görkezýän şahsy web sahypasydyr.
+Sahypa dört bölekden durmalydyr: tanyşdyryş, proýektler, başarnyklar we aragatnaşyk maglumaty.
+Her proýekt üçin gysga düşündiriş, ulanylan tehnologiýalar we işleýän görnüşe salgy görkezilmelidir.
+Sahypa telefonda we kompýuterde dogry görünmelidir. Şonuň üçin ölçegler otnositel birlikler bilen kesgitlenýär.
+Mazmun gysga, düşnükli we ýalňyşsyz ýazylmalydyr. Köp proýektden gowrak, hilli birnäçe proýekt artykmaçdyr.
+
+BÖLÜM XXXVII. Proýekt Dolandyryşy
+
+Proýekt dolandyryşy işi meýilleşdirmegi, tertipleşdirmegi we wagtynda tamamlamagy öz içine alýar.
+Ilki bilen maksat kesgitlenýär. Soňra iş kiçi ädimlere bölünýär we her ädime möhlet bellenýär.
+Iň zerur aýratynlyklar ilki ýerine ýetirilýär. Goşmaça aýratynlyklar esasy iş tamamlanandan soň goşulýar.
+Her ädim tamamlanandan soň netije barlanýar we zerur bolsa meýilnama täzelenýär.
+Işiň ýagdaýyny ýazyp barmak ýalňyşlyklary azaldýar we soňky gaýdyp gelmegi aňsatlaşdyrýar.
+
+BÖLÜM XXXVIII. Test Geçirmek we Hil Gözegçiligi
+
+Test geçirmek programmanyň garaşylyşy ýaly işleýändigini barlamak amalydyr.
+Elde barlag, programmany ulanyjy ýaly synap görmekdir. Awtomatik test bolsa kod arkaly gaýtalanýan barlagdyr.
+Çäk bahalary hökman barlanmalydyr: boş giriş, nol, otrisatel san we gaty uzyn tekst.
+Her täze aýratynlykdan soň öňki işleýän bölekleriň bozulmandygy barlanmalydyr.
+Programma dürli brauzerlerde we dürli ekran ölçeglerinde synalmalydyr.
+
+BÖLÜM XXXIX. Web Sahypany Ýaýratmak
+
+Taýýar sahypany ähli ulanyjylara elýeterli etmek ýaýratmak diýilýär.
+Statik sahypalar üçin GitHub Pages ýaly mugt hyzmatlar ulanylyp bilner.
+Ýaýratmazdan öň ähli faýl ýollary barlanmalydyr we gizlin maglumatlaryň ýokdugyna göz ýetirilmelidir.
+Täzelenen wersiýa ýaýradylandan soň brauzeriň keşi sebäpli köne görnüşiň görünmegi mümkindir.
+Sahypanyň ýagdaýyny wagtal-wagtal barlamak we ýalňyşlyklary çalt düzetmek zerurdyr.
+
+BÖLÜM XL. Ilkinji Iş Üçin Taýýarlyk
+
+Ilkinji iş üçin taýýarlyk özüňi tanatmagy we başarnyklary görkezmegi talap edýär.
+Rezýume bir sahypadan uzyn bolmaly däldir. Onda bilim, başarnyklar we proýektler aýdyň görkezilmelidir.
+GitHub profili we portfolio sahypasy rezýumäni goldaýan esasy subutnamalardyr.
+Söhbetdeşlikde ýerine ýetirilen proýektleri düşündirmek we ýalňyşlyklardan alnan sapaklary aýtmak ähmiýetlidir.
+Üznüksiz öwrenmek, takyk maksat we sabyrlylyk hünärmen bolmagyň esasy şertleridir.
+
+BÖLÜM XLI. Wiktorina Programmasy
+
+Wiktorina programmasy sorag, jogap we utuk hasaplamak düşünjelerini birleşdirýän proýektdir.
+Soraglar sanaw görnüşinde saklanýar. Her soragyň teksti, jogap warianty we dogry jogabyň belgisi bolýar.
+Ulanyjy jogap saýlanda programma ony barlaýar we utugy täzeleýär. Soňunda umumy netije görkezilýär.
+Soraglaryň tertibini garyşdyrmak programmany has gyzykly edýär.
+
+BÖLÜM XLII. Sagat we Taýmer Programmasy
+
+Taýmer programmasy wagt bilen işlemegi we aralyk bilen gaýtalanýan amallary öwredýär.
+Wagt her sekuntda bir gezek täzelenýär. Galan wagt sekuntlar bilen saklanýar we görkezilende minut hem sekuntlara bölünýär.
+Taýmer duruzylanda ýa-da tamamlananda aralyk amaly hökman ýatyrylmalydyr, ýogsam programma gereksiz işlemegini dowam etdirýär.
+Düwmeler üç esasy amaly ýerine ýetirýär: başlamak, duruzmak we täzeden başlamak.
+
+BÖLÜM XLIII. Ýerli Ýadyň Ulanylyşy
+
+Brauzeriň ýerli ýady kiçi göwrümli maglumatlary ulanyjynyň enjamynda saklamaga mümkinçilik berýär.
+Maglumat açar we bahadan ybarat jübüt görnüşinde saklanýar. Çylşyrymly maglumatlar tekste öwrülip saklanýar.
+Ýerli ýat gizlin maglumatlar üçin niýetlenmändir. Parol we token ýaly maglumatlar ol ýerde saklanmaly däldir.
+Maglumat okalanda ýatda hiç zadyň ýokdugy ýagdaýy hemişe göz öňünde tutulmalydyr.
+
+BÖLÜM XLIV. Kartoçkalar Arkaly Öwrenmek Programmasy
+
+Kartoçkalar programmasy öwrenmek prosesini awtomatlaşdyrýar. Her kartoçkada sorag we jogap bolýar.
+Ulanyjy jogaby ýadyna salyp bilýän bolsa, kartoçka seýrek görkezilýär. Ýalňyşlyk bolsa, ol has ýygy gaýtalanýar.
+Bu usul aralykly gaýtalamak diýilýär we uzak möhletli ýatda saklamak üçin iň netijeli usullardan biridir.
+Kartoçkalaryň ýagdaýy ýerli ýatda saklanyp, ulanyjynyň ösüşi yzarlanyp bilner.
+
+BÖLÜM XLV. Algoritm we Maglumat Gurluşlaryna Giriş
+
+Algoritm belli bir meseläni çözmek üçin aýdyň ädimleriň yzygiderliligidir.
+Iň ýönekeý maglumat gurluşlary sanaw, toplum we sözlükdir. Her biri aýratyn ýagdaýda amatlydyr.
+Gözleg algoritmi sanawda elementi tapýar. Tertipleme algoritmi bolsa elementleri belli tertipde ýerleşdirýär.
+Algoritmiň netijeliligi işleýiş wagty we ulanylýan ýat bilen ölçelýär.
+
+BÖLÜM XLVI. Gizlin Maglumatlary Goramak
+
+Gizlin maglumat parol, API açary we token ýaly diňe eýesine tanyş bolmaly maglumatlardyr.
+Bu maglumatlar kod faýlyna ýazylmaly däldir, sebäbi kod köplenç açyk repozitoriýada saklanýar.
+Eger gizlin maglumat tötänleýin paýlaşylan bolsa, ol derrew ýatyrylmaly we täzesi döredilmelidir.
+Ekran suratlary paýlaşylanda gizlin maglumatlaryň görünmeýändigi hökman barlanmalydyr.
+
+BÖLÜM XLVII. Açyk Çeşmeli Taslamalara Goşant
+
+Açyk çeşmeli taslamalara goşant goşmak tejribe gazanmagyň we tanalmagyň iň gowy ýoludyr.
+Başlangyç derejede resminamadaky ýalňyşlyklary düzetmek ýa-da ýönekeý meseleleri çözmek maslahat berilýär.
+Goşant ibermezden öň taslamanyň düzgünleri we goşant goşmak görkezmesi okalmalydyr.
+Hormatly we aýdyň aragatnaşyk hemişe talap edilýär.
+
+BÖLÜM XLVIII. Serbest Işleýiş Hünärmenligi
+
+Serbest işleýiş müşderi bilen göni işlemegi we öz wagtyňy özüň dolandyrmagy talap edýär.
+Işe başlamazdan öň iş möçberi, möhlet we töleg şertleri ýazmaça ylalaşylmalydyr.
+Täze başlanlar üçin kiçi we takyk meselelerden başlamak amatlydyr.
+Wadalaryň wagtynda ýerine ýetirilmegi ynamy döredýär we gaýtadan müşderi getirýär.
+
+BÖLÜM XLIX. Öz Programmaňy Ösdürmegiň Tapgyrlary
+
+Programma ösdürmegiň tapgyrlary pikir, meýilnama, taslama, ýazmak, synag we ýaýratmakdan ybaratdyr.
+Başda kiçi we işleýän wersiýa taýýarlanýar. Soňra ulanyjylaryň pikirine görä ony ösdürmek maslahat berilýär.
+Hemme zady birbada ýerine ýetirmäge synanyşmak köplenç taslamanyň ýarym galmagyna getirýär.
+Her tapgyrdan soň netijäni barlamak we sapak çykarmak zerurdyr.
+
+BÖLÜM L. Netije: Programmist Ýoly
+
+Bu kitapda programmirlemegiň esaslary, proýektler, howpsuzlyk we hünär ugry öwredildi.
+Iň möhüm başarnyk üznüksiz öwrenmek we gaýtalamakdyr. Her gün azajyk, ýöne yzygiderli işlemek uly netije berýär.
+Öz proýektleriňi ýerine ýetir, ýalňyşlyklardan sapak al we tejribäňi paýlaş.
+Üstünlik sabyrlylyga we yzygiderlilige baglydyr. Ugruňyz rowaç bolsun.
