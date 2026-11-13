@@ -68,19 +68,19 @@
       "id": "pro1",
       "kat": "PRO Proýektler",
       "baslik": "⭐ PRO Proýekt 1: Şahsy Vizitka Sahypasy",
-      "aciklama": "🎯 Maksat: HTML we CSS-i birleşdirip taýýar sahypa ýasamak.\n\nMeýilnama: 1) at we sözbaşy, 2) gysga tanyşdyryş, 3) başarnyklar sanawy, 4) aragatnaşyk baglanyşygy. Gurluşy <header>, <main>, <footer> bilen düz. Kartany flexbox bilen ortada ýerleşdir, max-width:400px we margin:auto ber. Reňk paletini 3 reňk bilen çäklendir.\n\n⚠ Ýygy ýalňyşlyklar:\n- Hemme zady gaty uly ýazmak\n- Fon bilen tekst reňkiniň meňzeş bolmagy (kontrast az)\n- Telefonda barlamazlyk\n\n📝 Gönükme: Öz wizitkaňy ýasap telefonyňda aç. Soň GitHub Pages-e ýerleşdir (aşakdaky Git babyna seret)."
+      "aciklama": "🎯 Maksat: HTML we CSS-i bir taslamada birleşdirip taýýar sahypa ýasamak.\n\nÄdimme-ädim:\n1) Meýilnama: at, tanyşdyryş, başarnyklar, aragatnaşyk.\n2) Gurluş: <header>, <main>, <footer> bellikleri bilen bölekle.\n3) Ortalamak: kartyna max-width:400px we margin:auto ber.\n4) Başarnyklar: <ul> sanawyny display:flex we gap bilen hatara düz.\n5) Reňk: 3 reňk bilen çäklen (fon, kart, altyn).\n6) Telefonyňda barla.\n\n💡 Näme üçin? margin:auto sag we çep boşlugy deň paýlaýar, max-width bolsa uly ekranda kartyň giňelmeginiň öňüni alýar. Kodyň içindäki /* ... */ düşündirişlerini okap, her düzgüniň näme etýändigine düş.\n\n⚠ Ýygy ýalňyşlyklar:\n- Fon bilen tekst reňkiniň meňzeş bolmagy\n- Telefonda barlamazlyk\n- <meta viewport> belligini unutmak\n\n📝 Gönükme: Kodda adyňy we başarnyklaryňy üýtget. Soň \"Taslamalar\" bölümini goş we kartyň reňkini üýtget. Her üýtgeşmeden soň netijäni gör."
     },
     {
       "id": "pro2",
       "kat": "PRO Proýektler",
       "baslik": "⭐ PRO Proýekt 2: Işleýän Mini Kalkulýator",
-      "aciklama": "🎯 Maksat: Girişi okap, hasaplap, netijäni görkezmegi öwrenmek.\n\nGurluş: iki giriş meýdany, amal saýlaýjy (+ - * /), düwme we netije abzasy. Funksiýa input.value bahasyny Number() bilen sana öwürýär. Bölmekde bölüji 0 bolsa \"0-a bölmek bolmaýar\" habaryny görkez. Netijäni textContent bilen ýaz.\n\n⚠ Ýygy ýalňyşlyklar:\n- Number() ulanmazlyk (\"2\"+\"3\" netijesi 23 bolýar)\n- Boş meýdany barlamazlyk (NaN çykýar)\n- Netijäni innerHTML bilen ýazmak\n\n📝 Gönükme: Köpeltmek we göterim amalyny goş. Soňky 5 hasaplamany görkezýän taryh sanawyny goş."
+      "aciklama": "🎯 Maksat: Girişi okap, hasaplap, netijäni görkezmegi öwrenmek.\n\nÄdimme-ädim:\n1) Meýdanlary we düwmäni HTML-de düz, her birine id ber.\n2) hasapla() funksiýasynda bahalary .value bilen al.\n3) Boş meýdany barla (=== '').\n4) Number() bilen tekste san öwür.\n5) if / else if bilen amaly saýla.\n6) Bölmekde bölüji 0 bolsa habar görkez.\n7) Netijäni textContent bilen ýaz.\n8) Taryh: unshift bilen başa goş, slice bilen 5-e çäkle.\n\n💡 Näme üçin? .value hemişe tekst gaýtarýar, şonuň üçin \"2\"+\"3\" netijesi 23 bolýar. Number() bilen sana öwrülende 5 bolýar. Muny konsolda özüň synap gör.\n\n⚠ Ýygy ýalňyşlyklar:\n- Number() ulanmazlyk\n- Boş meýdany barlamazlyk (NaN çykýar)\n- Netijäni innerHTML bilen ýazmak\n\n📝 Gönükme: Göterim (%) amalyny goş. Soň \"Arassala\" düwmesini ýaz, ol meýdanlary we taryhy boşatsyn."
     },
     {
       "id": "pro3",
       "kat": "PRO Proýektler",
       "baslik": "⭐ PRO Proýekt 3: San Tapma Mini Oýny",
-      "aciklama": "🎯 Maksat: Tötänleýin san, şert we sikli birleşdirmegi öwrenmek.\n\nKompýuter 1-100 aralykda san saýlaýar: Math.floor(Math.random()*100)+1. Ulanyjy çaklaýar, programma \"Uly\", \"Kiçi\" ýa-da \"Dogry!\" diýýär. Synanyşyk sanyny we çäkini (7) goş, çäk gutarsa oýun gutarýar. Täze oýun düwmesi sanawy nollaýar.\n\n⚠ Ýygy ýalňyşlyklar:\n- Sany her çaklamada täzeden saýlamak\n- Girişi Number()-e öwürmezlik\n- Oýun gutarandan soň düwmäni ýapmazlyk\n\n📝 Gönükme: Iň az synanyşyk bilen gazanylan netijäni ýerli ýatda sakla (LocalStorage babyna seret)."
+      "aciklama": "🎯 Maksat: Üýtgeýji, şert, funksiýa we ýerli ýady bir oýunda birleşdirmek.\n\nÄdimme-ädim:\n1) basla() tötänleýin san saýlaýar: Math.floor(Math.random()*m)+1.\n2) caklama() ulanyjynyň sanyny barlaýar: uly, kiçi ýa-da dogry.\n3) Synanyşyk sanawjysy çäk gutaranda oýuny bes edýär.\n4) Üç derejäni (10, 100, 1000) düwme bilen saýla.\n5) Iň gowy netijäni localStorage-da sakla.\n\n⚠ Ýygy ýalňyşlyklar:\n- Sany her çaklamada täzeden saýlamak\n- Girişi Number()-e öwürmezlik\n- Oýun gutarandan soň san=0 etmezlik\n\n📝 Gönükme: Maslahat sistemasyny goş (san jübütmi?), soň iki oýunçyly görnüş ýasa. Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen synap gör."
     },
     {
       "id": "termux1",
@@ -152,7 +152,7 @@
       "id": "js5",
       "kat": "JavaScript",
       "baslik": "21. JavaScript Fetch API: Internetden Maglumat Almak",
-      "aciklama": "🎯 Maksat: Internetden maglumat alyp sahypada görkezmegi öwrenmek.\n\nfetch(url) serwere haýyş iberýär. Gelen jogap r.json() bilen okalýar. async/await ýazuwy aňsat: try { const r = await fetch(url); if (!r.ok) throw new Error(\"Ýalňyşlyk\"); const d = await r.json(); } catch(e) { ... }. Maglumaty sahypa goýanda textContent ulan.\n\n⚠ Ýygy ýalňyşlyklar:\n- r.ok barlamazlyk\n- try/catch ýazmazlyk (tor ýok bolsa programma bozulýar)\n- API açaryny açyk sahypa koduna ýazmak\n- CORS rugsat bermeýän serwere çagyrmak\n\n📝 Gönükme: Açyk API-den bir maglumat al we ekrana çykar. Ýalňyşlyk bolsa düşnükli habar görkez."
+      "aciklama": "🎯 Maksat: Daşarky API-den maglumat alyp sahypada görkezmek.\n\nÄdimme-ädim:\n1) API salgysyny kesgitle (aşakdaky mysal açar talap etmeýär).\n2) fetch(url) bilen haýyş iber, await bilen jogaby bekle.\n3) r.ok bilen jogabyň dogrudygyny barla.\n4) r.json() bilen maglumaty oka we gerekli bölegini al.\n5) Netijäni textContent bilen görkez, ýalňyşlygy catch-da tut.\n\n⚠ Ýygy ýalňyşlyklar:\n- r.ok barlamazlyk\n- try/catch ýazmazlyk (tor ýok bolsa programma bozulýar)\n- API açaryny açyk sahypa koduna ýazmak\n- Maglumaty innerHTML bilen ýazmak\n\n📝 Gönükme: Şäheriň koordinatalaryny üýtget, soň howa kodyny görkezýän täze setir goş."
     },
     {
       "id": "js6",

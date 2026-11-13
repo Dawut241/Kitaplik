@@ -1,4 +1,4 @@
-var C = 'kitaplik-v38';
+var C = 'kitaplik-v40';
 self.addEventListener('install', function () { self.skipWaiting(); });
 self.addEventListener('activate', function (e) {
   e.waitUntil(caches.keys().then(function (a) {
