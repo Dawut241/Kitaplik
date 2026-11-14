@@ -675,5 +675,29 @@
     "bolumler": {
       "bolum": "^BÖLÜM [IVXL]+\\."
     }
+  },
+  {
+    "baslik": "Meditations",
+    "yazar": "Marcus Aurelius",
+    "dosya": "kitaplar/meditations.txt",
+    "bolumler": {
+      "part": "^THE [A-Z]+ BOOK$"
+    }
+  },
+  {
+    "baslik": "The Enchiridion",
+    "yazar": "Epiktetos",
+    "dosya": "kitaplar/enchiridion.txt",
+    "bolumler": {
+      "part": "^[IVXL]+\\.$"
+    }
+  },
+  {
+    "baslik": "As a Man Thinketh",
+    "yazar": "James Allen",
+    "dosya": "kitaplar/as-a-man-thinketh.txt",
+    "bolumler": {
+      "part": "^(THOUGHT AND CHARACTER|EFFECT OF THOUGHT ON CIRCUMSTANCES|EFFECT OF THOUGHT ON HEALTH AND THE BODY|THOUGHT AND PURPOSE|THE THOUGHT-FACTOR IN ACHIEVEMENT|VISIONS AND IDEALS|SERENITY)$"
+    }
   }
 ]
