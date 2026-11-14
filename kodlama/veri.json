@@ -3,34 +3,150 @@
     {
       "id": "html1",
       "baslik": "1. HTML Esaslary: Web Sahypanyň Skeleti",
-      "aciklama": "🎯 Maksat: Web sahypanyň esasy gurluşyny öwrenmek.\n\nHer HTML sahypasy <!DOCTYPE html> bilen başlaýar. Soňra <html> bölegi gelýär. Onuň içinde <head> (sahypa barada maglumat) we <body> (ekranda görünýän mazmun) ýerleşýär.\n\nEsasy bellikler: <h1> baş sözbaşy, <p> abzas, <div> topar. Açylan her belligiň ýapylmagy hökmandyr.\n\n⚠ Ýygy ýalňyşlyklar:\n- Belligi ýapmazlyk (</p> ýoklugy)\n- <title> belligini unutmak\n- Faýly .html giňeltmesi bilen saklamazlyk\n\n📝 Gönükme: Özüň barada sahypa döret. Sözbaşy, iki abzas we <title> bolsun. Sahypany brauzerde aç.",
-      "kod": "<h1>Salam Dünýä!</h1>\n<p>Bu meniň ilkinji web sahypam.</p>\n<button>Bas</button>",
+      "aciklama": "🎯 Maksat: Web sahypanyň esasy gurluşyny öwrenmek.\n\nHer HTML sahypasy <!DOCTYPE html> bilen başlaýar. Soňra <html> bölegi gelýär. Onuň içinde <head> (sahypa barada maglumat) we <body> (ekranda görünýän mazmun) ýerleşýär.\n\nEsasy bellikler: <h1> baş sözbaşy, <p> abzas, <div> topar. Açylan her belligiň ýapylmagy hökmandyr.\n\n⚠ Ýygy ýalňyşlyklar:\n- Belligi ýapmazlyk (</p> ýoklugy)\n- <title> belligini unutmak\n- Faýly .html giňeltmesi bilen saklamazlyk\n\n📝 Gönükme: Özüň barada sahypa döret. Sözbaşy, iki abzas we <title> bolsun. Sahypany brauzerde aç.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir.",
+      "kod": "<!-- 1) h1 iň uly sözbaşydyr, p abzasdyr -->\n<h1>Salam Dünýä!</h1>\n<p>Bu meniň ilkinji sahypam.</p>\n<!-- 2) h2 ... h6 kiçi sözbaşylardyr -->\n<h2>Men barada</h2>\n<p>Meniň adym Ali, men 15 ýaşynda.</p>\n<!-- 3) b galyň, i ýapgyt tekst berýär -->\n<p>Bu <b>galyň</b>, bu bolsa <i>ýapgyt</i> tekst.</p>\n<!-- 4) ÜÝTGET: adyňy ýaz, ýene bir abzas goş -->",
       "ipucu": "Ýumuş: Kody kopyalap Janly Redaktorda <h1> içindäki ýazgyny öz adyň bilen çalyş.",
-      "kat": "HTML"
+      "kat": "HTML",
+      "sinav": [
+        {
+          "s": "Sahypanyň ekranda görünýän mazmuny haýsy bellik içinde ýazylýar?",
+          "o": [
+            "<head>",
+            "<body>",
+            "<title>"
+          ],
+          "d": 1
+        },
+        {
+          "s": "Iň uly sözbaşy haýsy bellik bilen ýazylýar?",
+          "o": [
+            "<h1>",
+            "<h6>",
+            "<p>"
+          ],
+          "d": 0
+        },
+        {
+          "s": "HTML faýly haýsy giňeltme bilen saklanmaly?",
+          "o": [
+            ".txt",
+            ".html",
+            ".doc"
+          ],
+          "d": 1
+        }
+      ]
     },
     {
       "id": "html2",
       "baslik": "2. HTML Sanawlar we Giriş Gutulary (Input)",
-      "aciklama": "🎯 Maksat: Sanaw döretmegi we ulanyjydan maglumat almagy öwrenmek.\n\nTertipsiz sanaw <ul>, tertipli sanaw <ol> bilen ýazylýar. Her element <li> belligi içinde bolýar.\n\nGiriş meýdany <input> belligi bilen döredilýär. type häsiýeti görnüşi kesgitleýär: text, number, password, email. placeholder meýdanda salgylanma tekst görkezýär. Meýdanyň ady üçin <label> ulanmak maslahat berilýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- <li> elementini <ul> daşynda ulanmak\n- <input> belligini ýapmaga synanyşmak (ol özbaşdak bellik)\n- Parol üçin type=\"text\" ulanmak\n\n📝 Gönükme: Halaýan 5 kitabyňyň sanawyny düz. Aşagyna at we ýaş üçin iki giriş meýdany goş.",
-      "kod": "<h3>Öwrenmeli Diller:</h3>\n<ul>\n  <li>HTML we CSS</li>\n  <li>JavaScript</li>\n  <li>Python</li>\n</ul>\n<input placeholder='Adyňyzy ýazyň...'>",
+      "aciklama": "🎯 Maksat: Sanaw döretmegi we ulanyjydan maglumat almagy öwrenmek.\n\nTertipsiz sanaw <ul>, tertipli sanaw <ol> bilen ýazylýar. Her element <li> belligi içinde bolýar.\n\nGiriş meýdany <input> belligi bilen döredilýär. type häsiýeti görnüşi kesgitleýär: text, number, password, email. placeholder meýdanda salgylanma tekst görkezýär. Meýdanyň ady üçin <label> ulanmak maslahat berilýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- <li> elementini <ul> daşynda ulanmak\n- <input> belligini ýapmaga synanyşmak (ol özbaşdak bellik)\n- Parol üçin type=\"text\" ulanmak\n\n📝 Gönükme: Halaýan 5 kitabyňyň sanawyny düz. Aşagyna at we ýaş üçin iki giriş meýdany goş.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir.",
+      "kod": "<!-- 1) ul nokatly sanaw, ol belgili sanaw -->\n<h3>Halaýan kitaplarym</h3>\n<ol>\n  <li>Jenaýat we jeza</li>\n  <li>Sun Tzu: Uruş sungaty</li>\n</ol>\n<!-- 2) label we input jübüt: for = id -->\n<label for=\"at\">Adyň:</label>\n<input id=\"at\" type=\"text\" placeholder=\"Adyňy ýaz\">\n<br>\n<label for=\"yas\">Ýaşyň:</label>\n<input id=\"yas\" type=\"number\">\n<!-- 3) ÜÝTGET: ol-y ul et, nämäniň üýtgänini gör -->",
       "ipucu": "Ýumuş: <ul> teginiň ýerine <ol> ýazyp, sanawyň sanly görnüşe geçşini synap gör.",
-      "kat": "HTML"
+      "kat": "HTML",
+      "sinav": [
+        {
+          "s": "Tertipli (belgili) sanaw haýsy bellik bilen ýasalýar?",
+          "o": [
+            "<ul>",
+            "<ol>",
+            "<li>"
+          ],
+          "d": 1
+        },
+        {
+          "s": "<label for=\"at\"> haýsy elemente bagly bolýar?",
+          "o": [
+            "id=\"at\" bolan input",
+            "name=\"at\" bolan div",
+            "class=\"at\" bolan p"
+          ],
+          "d": 0
+        },
+        {
+          "s": "Parol meýdany üçin type nämä deň bolmaly?",
+          "o": [
+            "text",
+            "password",
+            "number"
+          ],
+          "d": 1
+        }
+      ]
     },
     {
       "id": "html3",
       "baslik": "3. HTML Baglanyşyklar (Link) we Suratlar",
-      "aciklama": "🎯 Maksat: Sahypalary biri-birine baglamagy we surat goşmagy öwrenmek.\n\nBaglanyşyk <a href=\"salgy\">tekst</a> görnüşinde ýazylýar. target=\"_blank\" täze sekmede açýar. Şol bir papkadaky faýla diňe faýl ady bilen salgylanyp bolýar.\n\nSurat <img src=\"surat.jpg\" alt=\"Düşündiriş\"> bilen goşulýar. alt häsiýeti surat ýüklenmese ýa-da görmegi kyn ulanyjylar üçin hökmandyr.\n\n⚠ Ýygy ýalňyşlyklar:\n- Faýl adyny ýalňyş ýazmak (baş we setir harplar tapawutlanýar)\n- alt ýazmazlyk\n- Gaty uly surat ulanmak, sahypa haýallaýar\n\n📝 Gönükme: Iki sahypa döret: index.html we hakynda.html. Biri-birine baglanyşyk goş, bir sahypa surat goş.",
-      "kod": "<a href='https://example.com' target='_blank'>Saýta Git</a>",
+      "aciklama": "🎯 Maksat: Sahypalary biri-birine baglamagy we surat goşmagy öwrenmek.\n\nBaglanyşyk <a href=\"salgy\">tekst</a> görnüşinde ýazylýar. target=\"_blank\" täze sekmede açýar. Şol bir papkadaky faýla diňe faýl ady bilen salgylanyp bolýar.\n\nSurat <img src=\"surat.jpg\" alt=\"Düşündiriş\"> bilen goşulýar. alt häsiýeti surat ýüklenmese ýa-da görmegi kyn ulanyjylar üçin hökmandyr.\n\n⚠ Ýygy ýalňyşlyklar:\n- Faýl adyny ýalňyş ýazmak (baş we setir harplar tapawutlanýar)\n- alt ýazmazlyk\n- Gaty uly surat ulanmak, sahypa haýallaýar\n\n📝 Gönükme: Iki sahypa döret: index.html we hakynda.html. Biri-birine baglanyşyk goş, bir sahypa surat goş.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir.",
+      "kod": "<!-- 1) a href: baglanyşygyň salgysy, target=_blank täze sekmede açýar -->\n<a href=\"https://example.com\" target=\"_blank\">Sahypa git</a>\n<br><br>\n<!-- 2) #bellik şol sahypanyň içinde gezýär -->\n<a href=\"#aşak\">Aşaga geç</a>\n<div style=\"height:300px\"></div>\n<h3 id=\"aşak\">Şu ýerde!</h3>\n<!-- 3) surat: <img src=\"surat.jpg\" alt=\"Düşündiriş\">\n     alt hökmandyr, surat ýüklenmese tekst görünýär -->\n<!-- 4) ÜÝTGET: baglanyşygyň tekstini we salgysyny üýtget -->",
       "ipucu": "target='_blank' atributy baglanyşygyň täze goýmada (tab-da) açylmagyny üpjün edýär.",
-      "kat": "HTML"
+      "kat": "HTML",
+      "sinav": [
+        {
+          "s": "Baglanyşygy täze sekmede açýan häsiýet haýsy?",
+          "o": [
+            "target=\"_blank\"",
+            "href=\"_new\"",
+            "alt=\"tab\""
+          ],
+          "d": 0
+        },
+        {
+          "s": "alt häsiýeti näme üçin gerek?",
+          "o": [
+            "Suratyň reňkini üýtgetmek üçin",
+            "Surat ýüklenmese ýa-da görülmese tekst görkezmek üçin",
+            "Suraty uly etmek üçin"
+          ],
+          "d": 1
+        },
+        {
+          "s": "Şol bir sahypanyň içinde belli ýere geçmek üçin salgy nähili başlaýar?",
+          "o": [
+            "#",
+            "@",
+            "?"
+          ],
+          "d": 0
+        }
+      ]
     },
     {
       "id": "css1",
       "baslik": "4. CSS Esaslary: Reňkler we Şriftler",
-      "aciklama": "🎯 Maksat: Sahypanyň reňkini we şriftini üýtgetmegi öwrenmek.\n\nCSS düzgüni üç bölekden durýar: saýlaýjy, häsiýet we baha. Mysal: p { color: red; }. Düzgünler <style> belliginde ýa-da aýry .css faýlynda ýazylýar.\n\nEsasy häsiýetler: color tekst reňki, background-color fon, font-size ölçeg, font-family şrift, text-align tekstiň ýerleşişi. Reňk at (red), HEX (#d4af37) ýa-da rgb görnüşinde berilýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- Setir soňunda (;) belgisini unutmak\n- Fon we tekst reňkini meňzeş saýlamak\n- Şrift adyny ýalňyş ýazmak\n\n📝 Gönükme: Sahypaňa gara fon, altyn sary sözbaşy we ak abzas reňkini ber. Şrift ölçegini 18px et.",
-      "kod": "<style>\n  .duwme { background:#27ae60; color:white; padding:12px 24px; border:none; border-radius:8px; font-size:16px; }\n</style>\n<button class='duwme'>Owadan Düwme</button>",
+      "aciklama": "🎯 Maksat: Sahypanyň reňkini we şriftini üýtgetmegi öwrenmek.\n\nCSS düzgüni üç bölekden durýar: saýlaýjy, häsiýet we baha. Mysal: p { color: red; }. Düzgünler <style> belliginde ýa-da aýry .css faýlynda ýazylýar.\n\nEsasy häsiýetler: color tekst reňki, background-color fon, font-size ölçeg, font-family şrift, text-align tekstiň ýerleşişi. Reňk at (red), HEX (#d4af37) ýa-da rgb görnüşinde berilýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- Setir soňunda (;) belgisini unutmak\n- Fon we tekst reňkini meňzeş saýlamak\n- Şrift adyny ýalňyş ýazmak\n\n📝 Gönükme: Sahypaňa gara fon, altyn sary sözbaşy we ak abzas reňkini ber. Şrift ölçegini 18px et.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir.",
+      "kod": "<style>\n  /* 1) düzgün: saýlaýjy { häsiýet: baha; } */\n  body { background: #111; }\n  /* 2) reňk: at, HEX ýa-da rgb bilen berilýär */\n  h1 { color: #d4af37; font-size: 28px; }\n  /* 3) font-family: şrift, text-align: ýerleşiş */\n  p { color: white; font-family: Arial; text-align: center; }\n</style>\n<h1>Meniň sahypam</h1>\n<p>CSS bilen reňk we şrift üýtgedildi.</p>\n<!-- 4) ÜÝTGET: h1 reňkini #e74c3c et, p ölçegini 20px et -->",
       "ipucu": "Ýumuş: #27ae60 reňk koduny #e74c3c (gyzyl) ýa-da #2980b9 (gök) edip üýtgedip gör.",
-      "kat": "CSS"
+      "kat": "CSS",
+      "sinav": [
+        {
+          "s": "CSS düzgüniniň bölekleri haýsylar?",
+          "o": [
+            "saýlaýjy, häsiýet, baha",
+            "bellik, faýl, setir",
+            "id, class, href"
+          ],
+          "d": 0
+        },
+        {
+          "s": "Tekst reňkini üýtgedýän häsiýet haýsy?",
+          "o": [
+            "background-color",
+            "color",
+            "font-size"
+          ],
+          "d": 1
+        },
+        {
+          "s": "CSS häsiýetiniň soňunda haýsy belgi goýulýar?",
+          "o": [
+            ":",
+            ";",
+            "."
+          ],
+          "d": 1
+        }
+      ]
     }
   ],
   "kilitli": [
@@ -38,31 +154,31 @@
       "id": "css2",
       "kat": "CSS",
       "baslik": "5. CSS Flexbox: Elementleri Ýanaşyk Goýmak",
-      "aciklama": "🎯 Maksat: Elementleri hatara ýa-da sütüne ýerleşdirmegi öwrenmek.\n\nFlexbox üçin ene elemente display:flex ýazylýar, içindäki elementler hatara düzülýär. justify-content keseligine (center, space-between), align-items dikligine ýerleşdirýär. gap elementleriň arasyndaky boşlugy berýär. flex-direction:column sütün edýär, flex-wrap:wrap ýer ýetmese indiki hataryna geçirýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- display:flex-i çaga elemente ýazmak (ene elemente ýazylmaly)\n- justify-content bilen align-items-i garyşdyrmak\n- flex-wrap ulanmazlyk, telefonda elementler sygmaýar\n\n📝 Gönükme: Üç kartly hatar döret. Kartlaryň arasynda 12px boşluk bolsun, telefonda indiki hataryna geçsin."
+      "aciklama": "🎯 Maksat: Elementleri hatara ýa-da sütüne ýerleşdirmegi öwrenmek.\n\nFlexbox üçin ene elemente display:flex ýazylýar, içindäki elementler hatara düzülýär. justify-content keseligine (center, space-between), align-items dikligine ýerleşdirýär. gap elementleriň arasyndaky boşlugy berýär. flex-direction:column sütün edýär, flex-wrap:wrap ýer ýetmese indiki hataryna geçirýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- display:flex-i çaga elemente ýazmak (ene elemente ýazylmaly)\n- justify-content bilen align-items-i garyşdyrmak\n- flex-wrap ulanmazlyk, telefonda elementler sygmaýar\n\n📝 Gönükme: Üç kartly hatar döret. Kartlaryň arasynda 12px boşluk bolsun, telefonda indiki hataryna geçsin.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir."
     },
     {
       "id": "js1",
       "kat": "JavaScript",
       "baslik": "6. JavaScript: Sahypany Janlandyrmak",
-      "aciklama": "🎯 Maksat: JavaScript bilen sahypadaky elementi tapyp üýtgetmegi öwrenmek.\n\nElement document.getElementById(\"at\") bilen tapylýar, textContent onuň tekstini üýtgedýär. Düwme basylanda iş ýerine ýetirmek üçin addEventListener(\"click\", funksiýa) ulanylýar. Ulanyjydan gelen teksti ýazanyňda innerHTML däl, textContent ulan, bu howpsuzlyk üçin hökmandyr.\n\n⚠ Ýygy ýalňyşlyklar:\n- id-ni ýalňyş ýazmak\n- <script> belligini elementden öň goýmak (ol </body> öňünde bolmaly)\n- Elementiň tapylandygyny barlamazlyk\n\n📝 Gönükme: Düwme we abzas döret. Düwme basylanda abzasyň teksti we reňki üýtgesin."
+      "aciklama": "🎯 Maksat: JavaScript bilen sahypadaky elementi tapyp üýtgetmegi öwrenmek.\n\nElement document.getElementById(\"at\") bilen tapylýar, textContent onuň tekstini üýtgedýär. Düwme basylanda iş ýerine ýetirmek üçin addEventListener(\"click\", funksiýa) ulanylýar. Ulanyjydan gelen teksti ýazanyňda innerHTML däl, textContent ulan, bu howpsuzlyk üçin hökmandyr.\n\n⚠ Ýygy ýalňyşlyklar:\n- id-ni ýalňyş ýazmak\n- <script> belligini elementden öň goýmak (ol </body> öňünde bolmaly)\n- Elementiň tapylandygyny barlamazlyk\n\n📝 Gönükme: Düwme we abzas döret. Düwme basylanda abzasyň teksti we reňki üýtgesin.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir."
     },
     {
       "id": "js2",
       "kat": "JavaScript",
       "baslik": "7. JavaScript Funksiyalar we Üýtgeýjiler",
-      "aciklama": "🎯 Maksat: Maglumaty saklamagy we gaýtalanýan işi funksiýa etmegi öwrenmek.\n\nÜýtgeýji maglumaty saklaýar: let ýaş = 15; üýtgemeýän baha üçin const. Funksiýa: function salam(at){ return \"Salam, \" + at; }. Parametr funksiýa berilýän maglumat, return netijäni yzyna gaýtarýar. Şert if/else bilen barlanýar, deňeşdirmek üçin === ulanylýar.\n\n⚠ Ýygy ýalňyşlyklar:\n- = bilen === garyşdyrmak\n- const bahasyny üýtgetmäge synanyşmak\n- return ýazmazlyk (netije undefined bolýar)\n- \"5\"+\"5\" netijesiniň 55 bolmagyny unutmak\n\n📝 Gönükme: Iki sany alyp jemini gaýtarýan jem(a,b) funksiýasyny ýaz we konsolda görkez."
+      "aciklama": "🎯 Maksat: Maglumaty saklamagy we gaýtalanýan işi funksiýa etmegi öwrenmek.\n\nÜýtgeýji maglumaty saklaýar: let ýaş = 15; üýtgemeýän baha üçin const. Funksiýa: function salam(at){ return \"Salam, \" + at; }. Parametr funksiýa berilýän maglumat, return netijäni yzyna gaýtarýar. Şert if/else bilen barlanýar, deňeşdirmek üçin === ulanylýar.\n\n⚠ Ýygy ýalňyşlyklar:\n- = bilen === garyşdyrmak\n- const bahasyny üýtgetmäge synanyşmak\n- return ýazmazlyk (netije undefined bolýar)\n- \"5\"+\"5\" netijesiniň 55 bolmagyny unutmak\n\n📝 Gönükme: Iki sany alyp jemini gaýtarýan jem(a,b) funksiýasyny ýaz we konsolda görkez.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir."
     },
     {
       "id": "py1",
       "kat": "Python",
       "baslik": "8. Python Esaslary: Üýtgeýjiler we Şertler",
-      "aciklama": "🎯 Maksat: Python-da üýtgeýji we şert ulanmagy öwrenmek.\n\nPython-da üýtgeýji öňünden yglan edilmeýär: at = \"Ali\"; ýaş = 15. print() ekrana çykarýar, input() ulanyjydan tekst alýar, int() teksti sana öwürýär. Şert: if ýaş >= 18: ... elif ...: ... else: ... Girinti hökmandyr, 4 boşluk ulanyň.\n\n⚠ Ýygy ýalňyşlyklar:\n- Iki nokady (:) unutmak\n- Girintini garyşdyrmak\n- input() netijesini int()-e öwürmezden san bilen deňeşdirmek\n\n📝 Gönükme: Ýaşy soraýan, 18 we ondan uly bolsa \"Ulular\" ýazýan programma ýaz."
+      "aciklama": "🎯 Maksat: Python-da üýtgeýji we şert ulanmagy öwrenmek.\n\nPython-da üýtgeýji öňünden yglan edilmeýär: at = \"Ali\"; ýaş = 15. print() ekrana çykarýar, input() ulanyjydan tekst alýar, int() teksti sana öwürýär. Şert: if ýaş >= 18: ... elif ...: ... else: ... Girinti hökmandyr, 4 boşluk ulanyň.\n\n⚠ Ýygy ýalňyşlyklar:\n- Iki nokady (:) unutmak\n- Girintini garyşdyrmak\n- input() netijesini int()-e öwürmezden san bilen deňeşdirmek\n\n📝 Gönükme: Ýaşy soraýan, 18 we ondan uly bolsa \"Ulular\" ýazýan programma ýaz.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir.\n\nℹ Python kody tarayjyda däl, Termux-da işledilýär: python faýl.py"
     },
     {
       "id": "py2",
       "kat": "Python",
       "baslik": "9. Python Sikller (For Loop) we Sanawlar",
-      "aciklama": "🎯 Maksat: Işi gaýtalamak üçin sikl ulanmagy öwrenmek.\n\nfor belli gezek gaýtalaýar: for i in range(5): print(i). range(5) 0-dan 4-e çenli sanlary berýär. Sanaw boýunça: for at in atlar: print(at). while şert dogry bolýança gaýtalaýar. break sikli bes edýär, continue indiki aýlawa geçýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- while içinde üýtgeýjini üýtgetmezlik, sikl tükenmeýär (Ctrl+C bilen duruz)\n- range(5) 5-e çenli däl, 4-e çenli\n- Girintini ýalňyş goýmak\n\n📝 Gönükme: 1-den 10-a çenli sanlaryň jemini hasapla we ekrana çykar."
+      "aciklama": "🎯 Maksat: Işi gaýtalamak üçin sikl ulanmagy öwrenmek.\n\nfor belli gezek gaýtalaýar: for i in range(5): print(i). range(5) 0-dan 4-e çenli sanlary berýär. Sanaw boýunça: for at in atlar: print(at). while şert dogry bolýança gaýtalaýar. break sikli bes edýär, continue indiki aýlawa geçýär.\n\n⚠ Ýygy ýalňyşlyklar:\n- while içinde üýtgeýjini üýtgetmezlik, sikl tükenmeýär (Ctrl+C bilen duruz)\n- range(5) 5-e çenli däl, 4-e çenli\n- Girintini ýalňyş goýmak\n\n📝 Gönükme: 1-den 10-a çenli sanlaryň jemini hasapla we ekrana çykar.\n\n💻 Kody aşakdaky \"Redaktorda Aç\" düwmesi bilen aç, /* ... */ düşündirişlerini oka we ÜÝTGET bölümini ýerine ýetir.\n\nℹ Python kody tarayjyda däl, Termux-da işledilýär: python faýl.py"
     },
     {
       "id": "pro1",
@@ -183,6 +299,24 @@
       "kat": "Howpsuzlyk",
       "baslik": "Howpsuzlyk Käri: Nireden Başlamaly",
       "aciklama": "Howpsuzlyk öwrenmek üçin: 1) Esas: ulgam, web, Linux bilimi (Termux bilen eýýäm başlapsyň). 2) Kanuny türgenleşik ýerleri: TryHackMe, Hack The Box, OWASP Juice Shop - bular ýörite açyk goýlan saýtlar, erkin synap bolýar. 3) Pul gazanmak: Bug Bounty (HackerOne, Bugcrowd - kompaniýalar açyk tapana sylag berýär), Pentest (şertnama bilen synag), howpsuzlyk işi. 4) ESASY DÜZGÜN: Rugsatsyz hiç bir saýta synag etme, bu kanuna garşy, niýetiň gowy bolsa-da. Diňe ÖZ saýtyňda ýa-da rugsat berlen türgenleşik ýerlerinde synap bilersiň."
+    },
+    {
+      "id": "pro4",
+      "kat": "PRO Proýektler",
+      "baslik": "⭐ PRO Proýekt 4: Ýat Kartlary Oýny",
+      "aciklama": "🎯 Maksat: Sanaw, tötänleýin garyşdyrmak, şert we wagt gijikdirmesini bir oýunda birleşdirmek.\n\nÄdimme-ädim:\n1) Emojileriň sanawyny döret we iki gezek birleşdir: emo.concat(emo).\n2) garys() funksiýasy bilen sanawy garyşdyr.\n3) Her kart üçin düwme döret we tora goş.\n4) Düwme basylanda kartyň ýüzüni aç, acik sanawyna goş.\n5) Iki kart açylanda deňeşdir: deň bolsa açyk galsyn.\n6) Deň däl bolsa setTimeout bilen 800 ms soň ýap.\n7) 8 jübüt tapylanda oýun gutarsyn, iň gowy netijäni sakla.\n\n💡 Näme üçin? Garyşdyrmakda Math.random()-y diňe sort bilen ulanmak deň paýlamaýar, şonuň üçin Fisher-Yates usuly ulanylýar. kilit üýtgeýjisi bolsa, ýalňyş jübüt görkezilip durka üçünji kartyň açylmagynyň öňüni alýar.\n\n⚠ Ýygy ýalňyşlyklar:\n- kilit ulanmazlyk (çalt basanda oýun bozulýar)\n- setTimeout içinde acik-y nollamazlyk\n- Eýýäm açylan karta ýene basylmagyny barlamazlyk\n\n📝 Gönükme: Emoji sanyny 12-ä çykar we tory 4x6 et. Soň wagt sanawjysyny goş we iň gowy wagty ýatda sakla."
+    },
+    {
+      "id": 1,
+      "kat": "PRO Proýektler",
+      "baslik": "⭐ Atölýe: Ýalňyşlyk Tapmak we Düzetmek",
+      "aciklama": "🎯 Maksat: Ýalňyşlygy özbaşdak tapmagy we düzetmegi öwrenmek.\n\nÄdimme-ädim:\n1) Kody \"Redaktorda Aç\" bilen aç we işlet. Netijäniň nädogrydygyny gör.\n2) Ýalňyşlygy gaýtadan döret: 2 we 3 ýaz. Netije 5 bolmaly, ýöne başga zat çykýar.\n3) Kody setir-setir oka we her setirde \"bu näme edýär?\" diý.\n4) Bir wagtyň özünde diňe bir ýalňyşlygy düzet we täzeden synap gör.\n5) console.log(a, b) bilen bahalaryň nämedigine seret.\n6) Kodda 3 sany ýalňyşlyk bar. Hemmesini tapmaga synan, soňra ipucuna seret.\n\n💡 Näme üçin? Hünärmen programmistler wagtynyň ep-esli bölegini ýalňyşlyk gözlemäge sarp edýär. Bir ýalňyşlygy düzedip täzeden synamak, hemmesini birbada üýtgetmekden has ygtybarly.\n\n⚠ Ýygy ýalňyşlyklar:\n- Birnäçe zady bir gezekde üýtgetmek\n- Habary okamazdan kody üýtgetmek\n- Düzedenden soň täzeden synamazlyk\n\n📝 Gönükme: Kody düzet. Soň özüň şeýle ýalňyşlykly kod ýaz we dostuňa düzetmäge ber."
+    },
+    {
+      "id": 2,
+      "kat": "PRO Proýektler",
+      "baslik": "⭐ Ýol Karta: Noldan Ilkinji Işe",
+      "aciklama": "🎯 Maksat: Noldan ilkinji işe çenli takyk meýilnama düzmek.\n\n1-nji aý: HTML we CSS. Her hepde bir sahypa ýasa (wizitka, sanaw, forma).\n2-nji aý: JavaScript esaslary. Kalkulýator we taýmer ýaly kiçi programmalar.\n3-nji aý: Git we GitHub. Ähli işleriňi repozitoriýada sakla.\n4-nji aý: API we ýerli ýat bilen işlemek, ilkinji uly proýekt.\n5-nji aý: Python esaslary we faýl bilen işlemek.\n6-njy aý: Portfolio sahypasy, rezýume we ilkinji arza.\n\n💡 Näme üçin? Üznüksiz öwrenmek, bir gezekde köp zady öwrenmekden netijelidir. Günde 1 sagat, hepdede 5 gün, 6 aýda takmynan 130 sagat bolýar.\n\n⚠ Ýygy ýalňyşlyklar:\n- Hemme dili birbada öwrenmäge synanyşmak\n- Diňe wideo seretmek, özüň kod ýazmazlyk\n- Ilkinji proýekti gaty çylşyrymly saýlamak\n\n📝 Gönükme: Öz hepdelik jedweliňi düz. Haýsy gün, näçe sagat, haýsy tema? Ony ýazyp, görünýän ýere ýelmäp goý."
     }
   ]
 }

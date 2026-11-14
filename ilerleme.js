@@ -7,7 +7,7 @@ function kartlar(){return Array.prototype.slice.call(document.querySelectorAll('
 function ad(k){return k.querySelector('h3').textContent.replace('🔒 ','').trim()}
 function kilit(k){return k.textContent.indexOf('Kod almak üçin')>=0}
 function toast(t){var d=el('div',t);d.style.cssText='position:fixed;left:10px;right:10px;top:60px;background:#d4af37;color:#000;padding:12px;border-radius:8px;z-index:9999;text-align:center';document.body.appendChild(d);setTimeout(function(){d.remove()},3500)}
-var ROZ={5:'🥉 Bürünç rozet: 5 bap tamamlandy!',15:'🥈 Kümüş rozet: 15 bap tamamlandy!',29:'🥇 Altyn rozet: ähli baplar tamamlandy!'};
+var ROZ={5:'🥉 Bürünç rozet: 5 bap tamamlandy!',15:'🥈 Kümüş rozet: 15 bap tamamlandy!',32:'🥇 Altyn rozet: ähli baplar tamamlandy!'};
 function set(e,p,v){if(e[p]!==v)e[p]=v}
 function sayi(ks){var b=oku();return ks.filter(function(k){return b.indexOf(ad(k))>=0}).length}
 function upd(){

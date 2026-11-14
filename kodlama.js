@@ -86,7 +86,7 @@
       vipKutu.append(info, kInp, kBtn);
     };
     const cizDers = () => {
-      dersAlan.innerHTML = "";
+      dersAlan.innerHTML = ""; window.kodDersler = veri.dersler.concat(gizliDers || veri.kilitli);
       veri.dersler.concat(gizliDers || veri.kilitli).forEach((d, idx) => {
         const kilit = idx >= 4 && !gizliDers;
         const k = document.createElement("div");
